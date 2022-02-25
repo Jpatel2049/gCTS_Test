@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_CSM-IO",
+    "COMSTRU":"0CSM_USER_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040117122841",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040117122841",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"用户名 CSM: 文本",
+    "TXTMD":"用户名 CSM: 文本",
+    "TXTLG":"用户名 CSM: 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"사용자이름CSM:텍스트",
+    "TXTMD":"사용자 이름 CSM: 텍스트",
+    "TXTLG":"사용자 이름 CSM: 텍스트"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Uživatel CSM: Text",
+    "TXTMD":"Uživatel CSM: Text",
+    "TXTLG":"Uživatel CSM: Text"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Benutzername CSM: Te",
+    "TXTMD":"Benutzername CSM: Text",
+    "TXTLG":"Benutzername CSM: Text"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"User Name CSM: Text",
+    "TXTMD":"User Name CSM: Text",
+    "TXTLG":"User Name CSM: Text"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nom util. CSM : txt.",
+    "TXTMD":"Nom d'utilisateur CSM : texte",
+    "TXTLG":"Nom d'utilisateur CSM : texte"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Felh.név CSM: szöveg",
+    "TXTMD":"Felhasználónév CSM: szöveg",
+    "TXTLG":"Felhasználónév CSM: szöveg"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nome ut. CSM: testo",
+    "TXTMD":"Nome utente CSM: testo",
+    "TXTLG":"Nome utente CSM: testo"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ユーザ名 CSM: Text",
+    "TXTMD":"ユーザ名 CSM: テキスト",
+    "TXTLG":"ユーザ名 CSM: テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Brug.navn CSM: Tekst",
+    "TXTMD":"Brugernavn CSM: Tekst",
+    "TXTLG":"Brugernavn CSM: Tekst"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Użytk. CSM: Tekst",
+    "TXTMD":"Użytkownik CSM: Tekst",
+    "TXTLG":"Użytkownik CSM: Tekst"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"使用者名稱 CSM：內文",
+    "TXTMD":"使用者名稱 CSM：內文",
+    "TXTLG":"使用者名稱 CSM：內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Gebr.naam CSM: txt",
+    "TXTMD":"Gebruikersnaam CSM: tekst",
+    "TXTLG":"Gebruikersnaam CSM: tekst"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Brukernavn CSM: Tkst",
+    "TXTMD":"Brukernavn CSM: Tekst",
+    "TXTLG":"Brukernavn CSM: Tekst"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nome usuár.CSM: txt.",
+    "TXTMD":"Nome do usuário CSM: texto",
+    "TXTLG":"Nome do usuário CSM: texto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Meno užív.CSM: Text",
+    "TXTMD":"Meno užívateľa CSM: Text",
+    "TXTLG":"Meno užívateľa CSM: Text"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ИмяПольз CSM: текст",
+    "TXTMD":"Имя пользователя CSM: текст",
+    "TXTLG":"Имя пользователя CSM: текст"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nom.usu.CSM: Texto",
+    "TXTMD":"Nombre de usuario CSM: Texto",
+    "TXTLG":"Nombre de usuario CSM: Texto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"MDY klnc.adı: Metin",
+    "TXTMD":"Müşteri destek yöneticisi klnc.adı: Mtn.",
+    "TXTLG":"Müşteri destek yöneticisi kullanıcı adı: Metin"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Käytt.nimi CSM: tks",
+    "TXTMD":"Käyttäjänimi CSM: teksti",
+    "TXTLG":"Käyttäjänimi CSM: teksti"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CSM_USER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Användarnamn CSM: Te",
+    "TXTMD":"Användarnamn CSM: Text",
+    "TXTLG":"Användarnamn CSM: Text"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CSM_USER_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

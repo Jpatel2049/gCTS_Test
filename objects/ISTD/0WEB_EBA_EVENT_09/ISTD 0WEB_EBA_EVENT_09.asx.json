@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_09",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214210457",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214210457",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 购物篮",
+    "TXTMD":"事件 - 购物篮 (茶叶)",
+    "TXTLG":"事件 - 购物篮 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 쇼핑바구니",
+    "TXTMD":"이벤트 - 쇼핑바구니 (Tealeaf)",
+    "TXTLG":"이벤트 - 쇼핑바구니 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - nákup.koš",
+    "TXTMD":"Událost - nákupní koš (Tealeaf)",
+    "TXTLG":"Událost - nákupní koš (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Warenkorb",
+    "TXTMD":"Ereignis - Warenkorb (Tealeaf)",
+    "TXTLG":"Ereignis - Warenkorb (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Event-ShoppingBasket",
+    "TXTMD":"Event - Shopping Basket (Tealeaf)",
+    "TXTLG":"Event - Shopping Basket (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - chariot",
+    "TXTMD":"Evénement - chariot (Tealeaf)",
+    "TXTLG":"Evénement - chariot (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Esem.-bev.kos. (T.)",
+    "TXTMD":"Esemény - bevásárlókosár (Tealeaf)",
+    "TXTLG":"Esemény - bevásárlókosár (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - carrello",
+    "TXTMD":"Evento - carrello (Tealeaf)",
+    "TXTLG":"Evento - carrello (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Event: Shopping Cart",
+    "TXTMD":"イベント - ショッピングカート (Tealeaf)",
+    "TXTLG":"イベント - ショッピングカート (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse-indkøbskurv",
+    "TXTMD":"Hændelse - indkøbskurv (Tealeaf)",
+    "TXTLG":"Hændelse - indkøbskurv (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - koszyk",
+    "TXTMD":"Zdarzenie - koszyk zakupów (Tealeaf)",
+    "TXTLG":"Zdarzenie - koszyk zakupów (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 購物籃",
+    "TXTMD":"事件 - 購物籃 (Tealeaf)",
+    "TXTLG":"事件 - 購物籃 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Event - boodsch.mand",
+    "TXTMD":"Event - boodschappenmand (tealeaf)",
+    "TXTLG":"Event - boodschappenmand (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - handlek.",
+    "TXTMD":"Hendelse - handlekurv (TeaLeaf)",
+    "TXTLG":"Hendelse - handlekurv (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Evento-Cesto compras",
+    "TXTMD":"Evento - Cesto de compras (Tealeaf)",
+    "TXTLG":"Evento - Cesto de compras (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - kôš tovaru",
+    "TXTMD":"Udalosť - kôš tovaru (Tealeaf)",
+    "TXTLG":"Udalosť - kôš tovaru (Tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - ТовКорзина",
+    "TXTMD":"Событие - товарная корзина (Tealeaf)",
+    "TXTLG":"Событие - товарная корзина (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Evento:Cesta compras",
+    "TXTMD":"Evento: Cesta de compras (Tealeaf)",
+    "TXTLG":"Evento: Cesta de compras (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - alışveriş spt",
+    "TXTMD":"Olay - alışveriş sepeti (Tealeaf)",
+    "TXTLG":"Olay - alışveriş sepeti (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma, ostoskori",
+    "TXTMD":"Tapahtuma - ostoskori (TeaLeaf)",
+    "TXTLG":"Tapahtuma - ostoskori (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_09",
+    "OBJVERS":"A",
+    "TXTSH":"Händ. - inköpskorg",
+    "TXTMD":"Händelse - inköpskorg (Tealeaf)",
+    "TXTLG":"Händelse - inköpskorg (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_09",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

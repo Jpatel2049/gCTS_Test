@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_01",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214205717",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214205717",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 采购定单",
+    "TXTMD":"事件 - 采购定单 (茶叶)",
+    "TXTLG":"事件 - 采购定单 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 구매오더",
+    "TXTMD":"이벤트 - 구매오더 (Tealeaf)",
+    "TXTLG":"이벤트 - 구매오더 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - objednávka",
+    "TXTMD":"Událost - objednávka (Tealeaf)",
+    "TXTLG":"Událost - objednávka (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Bestell.",
+    "TXTMD":"Ereignis - Bestellung (Tealeaf)",
+    "TXTLG":"Ereignis - Bestellung (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Purchase Ord",
+    "TXTMD":"Event - Purchase Order (Tealeaf)",
+    "TXTLG":"Event - Purchase Order (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - commande",
+    "TXTMD":"Evénement - commande (Tealeaf)",
+    "TXTLG":"Evénement - commande (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Esemény - megrendel.",
+    "TXTMD":"Esemény - megrendelés (Tealeaf)",
+    "TXTLG":"Esemény - megrendelés (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - ord. acq.",
+    "TXTMD":"Evento - ordine d'acquisto (Tealeaf)",
+    "TXTLG":"Evento - ordine d'acquisto (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - 購買発注",
+    "TXTMD":"イベント - 購買発注 (Tealeaf)",
+    "TXTLG":"イベント - 購買発注 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - indkøbOrd",
+    "TXTMD":"Hændelse - indkøbsordre (Tealeaf)",
+    "TXTLG":"Hændelse - indkøbsordre (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie-zamówienie",
+    "TXTMD":"Zdarzenie - zamówienie (Tealeaf)",
+    "TXTLG":"Zdarzenie - zamówienie (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 採購單",
+    "TXTMD":"事件 - 採購單 (Tealeaf)",
+    "TXTLG":"事件 - 採購單 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Event - bestelling",
+    "TXTMD":"Event - bestelling (tealeaf)",
+    "TXTLG":"Event - bestelling (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - best.",
+    "TXTMD":"Hendelse - bestilling (TeaLeaf)",
+    "TXTLG":"Hendelse - bestilling (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Pedido",
+    "TXTMD":"Evento - Pedido (Tealeaf)",
+    "TXTLG":"Evento - Pedido (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - objednávka",
+    "TXTMD":"Udalosť - objednávka (tealeaf)",
+    "TXTLG":"Udalosť - objednávka (tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - заказ",
+    "TXTMD":"Событие - заказ на поставку (Tealeaf)",
+    "TXTLG":"Событие - заказ на поставку (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Pedido",
+    "TXTMD":"Evento: Pedido (Tealeaf)",
+    "TXTLG":"Evento: Pedido (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - sprş.(Tealeaf",
+    "TXTMD":"Olay - sipariş (Tealeaf)",
+    "TXTLG":"Olay - sipariş (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma - ostotil.",
+    "TXTMD":"Tapahtuma - ostotilaus (TeaLeaf)",
+    "TXTLG":"Tapahtuma - ostotilaus (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_01",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - beställn.",
+    "TXTMD":"Händelse - beställning (Tealeaf)",
+    "TXTLG":"Händelse - beställning (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

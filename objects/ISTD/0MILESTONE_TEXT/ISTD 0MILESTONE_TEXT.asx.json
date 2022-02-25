@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0MILESTONE_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041209083847",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041209083847",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"重要事件编号",
+    "TXTMD":"重要事件编号 - 文本",
+    "TXTLG":"重要事件编号 - 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"마일스톤 수",
+    "TXTMD":"마일스톤 수 - 텍스트",
+    "TXTLG":"마일스톤 수 - 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Milestone",
+    "TXTMD":"Number of Milestone - Texts",
+    "TXTLG":"Number of Milestone - Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Číslo milníku",
+    "TXTMD":"Číslo milníku - texty",
+    "TXTLG":"Číslo milníku - texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer des Meilenste",
+    "TXTMD":"Nummer des Meilensteins - Texte",
+    "TXTLG":"Nummer des Meilensteins - Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Milestone",
+    "TXTMD":"Number of Milestone - Texts",
+    "TXTLG":"Number of Milestone - Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N° du jalon",
+    "TXTMD":"Numéro du jalon - Textes",
+    "TXTLG":"Numéro du jalon - Textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Milestone",
+    "TXTMD":"Number of Milestone - Texts",
+    "TXTLG":"Number of Milestone - Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Mérföldkő száma - sz",
+    "TXTMD":"Mérföldkő száma - szövegek",
+    "TXTLG":"Mérföldkő száma - szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N. milestone",
+    "TXTMD":"N. milestone - Testi",
+    "TXTLG":"N. milestone - Testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"マイルストーン番号",
+    "TXTMD":"マイルストーン番号 - テキスト",
+    "TXTLG":"マイルストーン番号 - テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer på milepæl",
+    "TXTMD":"Nummer på milepæl - tekster",
+    "TXTLG":"Nummer på milepæl - tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nr kamienia milowego",
+    "TXTMD":"Numer kamienia milowego - teksty",
+    "TXTLG":"Numer kamienia milowego - teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"里程碑號碼",
+    "TXTMD":"里程碑號碼 - 內文",
+    "TXTLG":"里程碑號碼 - 內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Mijlpaalnummer",
+    "TXTMD":"Mijlpaalnummer - teksten",
+    "TXTLG":"Mijlpaalnummer - teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer på milepæl",
+    "TXTMD":"Nummer på milepæl - tekster",
+    "TXTLG":"Nummer på milepæl - tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nº do marco",
+    "TXTMD":"Nº do marco - textos",
+    "TXTLG":"Nº do marco - textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Číslo míľnika",
+    "TXTMD":"Číslo míľnika - texty",
+    "TXTLG":"Číslo míľnika - texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Номер этапа",
+    "TXTMD":"Номер этапа - тексты",
+    "TXTLG":"Номер этапа - тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Número del hito",
+    "TXTMD":"Número del hito: Textos",
+    "TXTLG":"Número del hito: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Özgün kntr.nok.no.",
+    "TXTMD":"Özgün kontrol noktaları no.- metinler",
+    "TXTLG":"Özgün kontrol noktaları numarası- metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tark.pisteen numero",
+    "TXTMD":"Tarkistuspisteen numero - tekstit",
+    "TXTLG":"Tarkistuspisteen numero - tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer på milstolpe",
+    "TXTMD":"Nummer på milstolpe - texter",
+    "TXTLG":"Nummer på milstolpe - texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0MILESTONE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Milestone",
+    "TXTMD":"Number of Milestone - Texts",
+    "TXTLG":"Number of Milestone - Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MILESTONE_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

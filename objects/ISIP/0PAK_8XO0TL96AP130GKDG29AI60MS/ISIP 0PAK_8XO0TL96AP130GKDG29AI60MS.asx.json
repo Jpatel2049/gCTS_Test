@@ -1,0 +1,238 @@
+[
+ {
+  "table":"RSLDPIO",
+  "data":
+  [
+   {
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "SOURCE":"0BPARTNER_ATTR",
+    "TYP":"I",
+    "LOGSYS":"DTZ_800",
+    "LOGDPID_N":"",
+    "FIRSTFLAG":"",
+    "UNAME":"",
+    "TIMESTAMP":"0",
+    "OBJSTAT":"",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030212150438",
+    "OWNER":"",
+    "BWAPPL":"",
+    "OLTPSOURCE":"0BPARTNER_ATTR",
+    "OLTPTYP":"M",
+    "GENERATED":"",
+    "CRT_PACKAGE":"",
+    "PUSH_PACKAGE":"",
+    "MASTERIPAK":"",
+    "ISMASTERIPAK":"",
+    "LPI":"",
+    "LPI_CHAIN":""
+   }
+  ]
+ },
+ {
+  "table":"RSLDPIOT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"客户",
+    "TEXT":"业务伙伴数据: 进程链的模板 (IS-U/CRM 综合)"
+   },
+   {
+    "LANGU":"3",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"고객",
+    "TEXT":"비즈니스 파트너 데이터: 프로세스 체인 템플릿(IS-U/CRM 통합)"
+   },
+   {
+    "LANGU":"6",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"BusPart Data: Template for Process Chain (IS-U/CRM Integ.)"
+   },
+   {
+    "LANGU":"C",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"Data ObchPartn: Vzor proces.řetězce (integrace IS-U/CRM)"
+   },
+   {
+    "LANGU":"D",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"Gpartnerdat.: Muster f. Prozesskette (IS-U/CRM-Integration)"
+   },
+   {
+    "LANGU":"E",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"BusPart Data: Template for Process Chain (IS-U/CRM Integ.)"
+   },
+   {
+    "LANGU":"F",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENT",
+    "TEXT":"Donn.grpe part.: modèle pr chaîne processus(intégr. ISU/CRM)"
+   },
+   {
+    "LANGU":"G",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"BusPart Data: Template for Process Chain (IS-U/CRM Integ.)"
+   },
+   {
+    "LANGU":"H",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"VEVŐ",
+    "TEXT":"ÜP-adatok: folyamatlánc mintája (IS-U/CRM-integráció)"
+   },
+   {
+    "LANGU":"I",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Dati BP: modello per catena processi (integrazione IS-U/CRM)"
+   },
+   {
+    "LANGU":"J",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"BusPart データ: プロセスチェーンテンプレート (IS-U/CRM 統合)"
+   },
+   {
+    "LANGU":"K",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"ForrPartnData: Model for proceskæde (IS-U-CRM-integration)"
+   },
+   {
+    "LANGU":"L",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"KLIENT",
+    "TEXT":"Dane part.bizn.: Wzór dla łańc.proces. (integr. IS-U/CRM)"
+   },
+   {
+    "LANGU":"M",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"業務夥伴資料：程序鏈範本〈IS-U/CRM 整合〉"
+   },
+   {
+    "LANGU":"N",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"KLANT",
+    "TEXT":"ZP-gegevens: model v. procesketen (IS-U/CRM-integratie)"
+   },
+   {
+    "LANGU":"O",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"Forr.partnerdata: Mønster for pros.kjede (IS-U/CRM-intergr.)"
+   },
+   {
+    "LANGU":"P",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Dados PN: modelo para cadeia processos (integração IS-U/CRM)"
+   },
+   {
+    "LANGU":"Q",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"Dáta obch.partn.: Vzor pre reť.proc.(integrácia IS-U/CRM)"
+   },
+   {
+    "LANGU":"R",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"КЛИЕНТ",
+    "TEXT":"ДаннДелПарт: образец для ЦепПроц (IS-U/CRM-интеграция)"
+   },
+   {
+    "LANGU":"S",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Datos GI: Modelo p.cadena procesos (integración IS-U/CRM)"
+   },
+   {
+    "LANGU":"T",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"MÜŞTERİ",
+    "TEXT":"Muhatap trh.: Proses zinciri için örn.(IS-U/CRM-entegrasyon)"
+   },
+   {
+    "LANGU":"U",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"ASIAKAS",
+    "TEXT":"Liikekumppanitiedot: prosessiketjun malli (IS-U/CRM-integr.)"
+   },
+   {
+    "LANGU":"V",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"KUND",
+    "TEXT":"AP-data: Mall för processkedja (IS-U/CRM-integration)"
+   },
+   {
+    "LANGU":"W",
+    "LOGDPID":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"BusPart Data: Template for Process Chain (IS-U/CRM Integ.)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISIP",
+    "OBJ_NAME":"0PAK_8XO0TL96AP130GKDG29AI60MS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"LINOSSIV",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

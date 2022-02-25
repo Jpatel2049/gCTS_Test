@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CI-IO",
+    "COMSTRU":"0CI_GRP_PRODUCT_TEXT",
+    "OWNER":"SCHWARZ",
+    "TSTPNM":"SCHWARZ",
+    "TIMESTMP":"+020020320104126",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020320104126",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品的组 ID",
+    "TXTMD":"产品的组 ID  (文本)",
+    "TXTLG":"产品的组 ID  (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"그룹 제품 ID",
+    "TXTMD":"제품의 그룹 ID (텍스트)",
+    "TXTLG":"제품의 그룹 ID (텍스트)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID skup.pro produk.",
+    "TXTMD":"ID skupin pro produkty (texty)",
+    "TXTLG":"ID skupin pro produkty (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Gruppen ID für Produ",
+    "TXTMD":"Gruppen ID für Produkte (Texte)",
+    "TXTLG":"Gruppen ID für Produkte (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Group Product ID",
+    "TXTMD":"Group ID for Products (Texts)",
+    "TXTLG":"Group ID for Products (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID groupes pr prod.",
+    "TXTMD":"ID groupes pr produits (textes)",
+    "TXTLG":"ID groupes pr produits (textes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termékek csoport-ID",
+    "TXTMD":"Termékek csoport-ID-je (szövegek)",
+    "TXTLG":"Termékek csoport-ID-je (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID gr. per prod.",
+    "TXTMD":"ID gruppi per prodotti (testi)",
+    "TXTLG":"ID gruppi per prodotti (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"グループ製品 ID",
+    "TXTMD":"製品のグループ ID (テキスト)",
+    "TXTLG":"製品のグループ ID (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Gruppe-ID for prod.",
+    "TXTMD":"Gruppe-ID for produkter (tekster)",
+    "TXTLG":"Gruppe-ID for produkter (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID grup dla produkt.",
+    "TXTMD":"ID grup dla produktów (teksty)",
+    "TXTLG":"ID grup dla produktów (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"群組產品 ID",
+    "TXTMD":"產品群組 ID〈內文〉",
+    "TXTLG":"產品群組 ID〈內文〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Groep-ID voor prod.",
+    "TXTMD":"Groep-ID voor producten (teksten)",
+    "TXTLG":"Groep-ID voor producten (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Gruppe-ID for prod.",
+    "TXTMD":"Gruppe-ID for produkter (tekster)",
+    "TXTLG":"Gruppe-ID for produkter (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID grupo p/produtos",
+    "TXTMD":"ID grupo p/produtos (textos)",
+    "TXTLG":"ID grupo p/produtos (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID skupín pre prod.",
+    "TXTMD":"ID skupín pre produkty (texty)",
+    "TXTLG":"ID skupín pre produkty (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ид. группы для прод.",
+    "TXTMD":"Ид. группы для продуктов (тексты)",
+    "TXTLG":"Ид. группы для продуктов (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ID grupos p.prod.",
+    "TXTMD":"ID de grupos para productos (textos)",
+    "TXTLG":"ID de grupos para productos (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürünler için grup tn",
+    "TXTMD":"Ürünler için grup tn.(metinler)",
+    "TXTLG":"Ürünler için grup tn.(metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuott. ryhmätunnus",
+    "TXTMD":"Tuotteiden (tekstit) ryhmätunnus",
+    "TXTLG":"Tuotteiden (tekstit) ryhmätunnus"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CI_GRP_PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Grupp-ID för produkt",
+    "TXTMD":"Grupp-ID för produkter (texter)",
+    "TXTLG":"Grupp-ID för produkter (texter)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CI_GRP_PRODUCT_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

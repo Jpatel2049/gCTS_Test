@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "APPLNM":"0PH_BP",
+    "COMSTRU":"0BP_PH_SEG",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030701083837",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030701083837",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"业务合作伙伴段",
+    "TXTMD":"业务合作伙伴段",
+    "TXTLG":"业务合作伙伴段"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"BP 세그먼트",
+    "TXTMD":"비즈니스 파트너 세그먼트",
+    "TXTLG":"비즈니스 파트너 세그먼트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Seg",
+    "TXTMD":"Business Partner Segments",
+    "TXTLG":"Business Partner Segments"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmenty OP",
+    "TXTMD":"Segmenty obchodních partnerů",
+    "TXTLG":"Segmenty obchodních partnerů"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"GP-Segmente",
+    "TXTMD":"Geschäftspartnersegmente",
+    "TXTLG":"Geschäftspartnersegmente"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Seg",
+    "TXTMD":"Business Partner Segments",
+    "TXTLG":"Business Partner Segments"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segments parten.",
+    "TXTMD":"Segments partenaire",
+    "TXTLG":"Segments partenaire"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Seg",
+    "TXTMD":"Business Partner Segments",
+    "TXTLG":"Business Partner Segments"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"ÜP-szegmensek",
+    "TXTMD":"Üzletipartner-szegmensek",
+    "TXTLG":"Üzletipartner-szegmensek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmenti BP",
+    "TXTMD":"Segmenti business partner",
+    "TXTLG":"Segmenti business partner"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"BP セグメント",
+    "TXTMD":"ビジネスパートナセグメント",
+    "TXTLG":"ビジネスパートナセグメント"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"FP-segmenter",
+    "TXTMD":"Forretningspartnersegmenter",
+    "TXTLG":"Forretningspartnersegmenter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmenty PB",
+    "TXTMD":"Segmenty partnerów biznesowych",
+    "TXTLG":"Segmenty partnerów biznesowych"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"業務夥伴區段",
+    "TXTMD":"業務夥伴區段",
+    "TXTLG":"業務夥伴區段"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"ZP-segmenten",
+    "TXTMD":"Zakenpartnersegmenten",
+    "TXTLG":"Zakenpartnersegmenten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"FP-segmenter",
+    "TXTMD":"Forretningspartnersegmenter",
+    "TXTLG":"Forretningspartnersegmenter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmentos PN",
+    "TXTMD":"Segmentos de parceiro de negócios",
+    "TXTLG":"Segmentos de parceiro de negócios"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmenty OP",
+    "TXTMD":"Segmenty obchodných partnerov",
+    "TXTLG":"Segmenty obchodných partnerov"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Сегменты ДП",
+    "TXTMD":"Сегменты деловых партнеров",
+    "TXTLG":"Сегменты деловых партнеров"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Segmentos IC",
+    "TXTMD":"Segmentos de interlocutor comercial",
+    "TXTLG":"Segmentos de interlocutor comercial"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Muhatap bölümleri",
+    "TXTMD":"Muhatap bölümleri",
+    "TXTLG":"Muhatap bölümleri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"LK-segmentit",
+    "TXTMD":"Liikekumppanisegmentit",
+    "TXTLG":"Liikekumppanisegmentit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Affärspartnersegment",
+    "TXTMD":"Affärspartnersegment",
+    "TXTLG":"Affärspartnersegment"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BP_PH_SEG",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Seg",
+    "TXTMD":"Business Partner Segments",
+    "TXTLG":"Business Partner Segments"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BP_PH_SEG",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

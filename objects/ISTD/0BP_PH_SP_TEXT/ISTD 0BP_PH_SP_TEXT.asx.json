@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0PH_BP",
+    "COMSTRU":"0BP_PH_SP_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030731143605",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030731143605",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"业务合作伙伴特性",
+    "TXTMD":"业务合作伙伴特性 (文本)",
+    "TXTLG":"业务合作伙伴特性 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"BP 특이사항",
+    "TXTMD":"비즈니스 파트너 전공(텍스트)",
+    "TXTLG":"비즈니스 파트너 전공(텍스트)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Specializace OP",
+    "TXTMD":"Specializace obchodního partnera (text)",
+    "TXTLG":"Specializace obchodního partnera (text)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"GP-Spezialisierung",
+    "TXTMD":"Geschäftspartnerspezialisierungen (Text)",
+    "TXTLG":"Geschäftspartnerspezialisierungen (Text)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Spe",
+    "TXTMD":"Business Partner Specialities (Text)",
+    "TXTLG":"Business Partner Specialities (Text)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Spécialisation part.",
+    "TXTMD":"Spécialisations partenaire (texte)",
+    "TXTLG":"Spécialisations partenaire (texte)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ÜP-specializálás",
+    "TXTMD":"Üzletipartner-specializálások (szöveg)",
+    "TXTLG":"Üzletipartner-specializálások (szöveg)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Specializzazione BP",
+    "TXTMD":"Specializzazioni business partner (testo",
+    "TXTLG":"Specializzazioni business partner (testo)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ビジネスパートナ専門",
+    "TXTMD":"ビジネスパートナの専門 (テキスト)",
+    "TXTLG":"ビジネスパートナの専門 (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"FP-specialisering",
+    "TXTMD":"Forret.partnerspecialiseringer (tekst)",
+    "TXTLG":"Forretningspartnerspecialiseringer (tekst)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Specjalizacja PB",
+    "TXTMD":"Specjalizacje partnera bizn. (tekst)",
+    "TXTLG":"Specjalizacje partnera biznesowego (tekst)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"業務夥伴專長",
+    "TXTMD":"業務夥伴專長（內文）",
+    "TXTLG":"業務夥伴專長（內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ZP-specialisatie",
+    "TXTMD":"Zakenpartnerspecialisaties (tekst)",
+    "TXTLG":"Zakenpartnerspecialisaties (tekst)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"FP-spesialisering",
+    "TXTMD":"FP-spesialiseringer (tekst)",
+    "TXTLG":"Forretningspartnerspesialiseringer (tekst)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Especialização PN",
+    "TXTMD":"Especialização parceiro negócios (texto)",
+    "TXTLG":"Especialização do parceiro de negócios (texto)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Špecializácia OP",
+    "TXTMD":"Špecializácie obchodného partnera (text)",
+    "TXTLG":"Špecializácie obchodného partnera (text)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Специализация ДП",
+    "TXTMD":"Специализации делового партнера (текст)",
+    "TXTLG":"Специализации делового партнера (текст)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Especialización IC",
+    "TXTMD":"Especializaciones interl.comerc.(texto)",
+    "TXTLG":"Especializaciones de interlocutor comercial (texto)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Mhtp.özelleştirmesi",
+    "TXTMD":"Muhatap özelleştirmeleri (metin)",
+    "TXTLG":"Muhatap özelleştirmeleri (metin)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"LK:n erikoistuminen",
+    "TXTMD":"Liikekumppanin erikoistumiset (teksti)",
+    "TXTLG":"Liikekumppanin erikoistumiset (teksti)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BP_PH_SP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"AP-specialisering",
+    "TXTMD":"Affärspartnerspecialiseringar (text)",
+    "TXTLG":"Affärspartnerspecialiseringar (text)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BP_PH_SP_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

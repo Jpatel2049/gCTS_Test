@@ -1,0 +1,74 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"I_0CRM_C01",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_SALES",
+    "COMSTRU":"I_0CRM_C01",
+    "OWNER":"SCHLEIWIES",
+    "TSTPNM":"SCHLEIWIES",
+    "TIMESTMP":"+020020705100431",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"D",
+    "ISOURCE":"I_0CRM_C01",
+    "OBJVERS":"A",
+    "TXTSH":"IS for Plan Data",
+    "TXTMD":"IS for Plan Data",
+    "TXTLG":"IS for Plan Data"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"I_0CRM_C01",
+    "OBJVERS":"A",
+    "TXTSH":"I_0CRM_C01 Campaign",
+    "TXTMD":"I_0CRM_C01 Campaign Planning",
+    "TXTLG":"I_0CRM_C01 Campaign Planning"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"I_0CRM_C01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SCHLEIWIES",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

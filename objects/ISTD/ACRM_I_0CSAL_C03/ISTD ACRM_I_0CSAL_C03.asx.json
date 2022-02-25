@@ -1,0 +1,66 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ACRM_I_0CSAL_C03",
+    "OBJVERS":"A",
+    "APPLNM":"ZACRM_CHM",
+    "COMSTRU":"ACRM_I_0CSAL_C03",
+    "OWNER":"FRIEDERICH",
+    "TSTPNM":"FRIEDERICH",
+    "TIMESTMP":"+020031017171413",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ISOURCE":"ACRM_I_0CSAL_C03",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Analytics: 0csal",
+    "TXTMD":"CRM Analytics: 0csal_C03 for CHM",
+    "TXTLG":"CRM Analytics: 0csal_C03 for CHM"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ACRM_I_0CSAL_C03",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"FRIEDERICH",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_07",
+    "OWNER":"HERGERM",
+    "TSTPNM":"HERGERM",
+    "TIMESTMP":"+020011214210959",
+    "CONTREL":"3.0/01",
+    "CONTTIMESTMP":"+020011214210959",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 登记 (茶叶)",
+    "TXTMD":"事件 - 登记 (茶叶)",
+    "TXTLG":"事件 - 登记 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트-등록(Teaeaf)",
+    "TXTMD":"이벤트 - 등록 (Teaeaf)",
+    "TXTLG":"이벤트 - 등록 (Teaeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Register (Te",
+    "TXTMD":"Event - Register (Tealeaf)",
+    "TXTLG":"Event - Register (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Register (Te",
+    "TXTMD":"Event - Register (Tealeaf)",
+    "TXTLG":"Event - Register (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Register (Te",
+    "TXTMD":"Event - Register (Tealeaf)",
+    "TXTLG":"Event - Register (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - registre",
+    "TXTMD":"Evénement - registre (Tealeaf)",
+    "TXTLG":"Evénement - registre (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Register T.",
+    "TXTMD":"Event - Register (Tealeaf)",
+    "TXTLG":"Event - Register (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - registr.(Te",
+    "TXTMD":"Evento - registrare (Tealeaf)",
+    "TXTLG":"Evento - registrare (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - 登録 (Tea",
+    "TXTMD":"イベント - 登録 (Tealeaf)",
+    "TXTLG":"イベント - 登録 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Hænd. - registr. (Te",
+    "TXTMD":"Hændelse - registrer (Tealeaf)",
+    "TXTLG":"Hændelse - registrer (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - rejestr",
+    "TXTMD":"Zdarzenie - rejestr (Tealeaf)",
+    "TXTLG":"Zdarzenie - rejestr (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 登記(Tealeaf)",
+    "TXTMD":"事件 - 登記 (Tealeaf)",
+    "TXTLG":"事件 - 登記 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - register TL",
+    "TXTMD":"Event - register (tealeaf)",
+    "TXTLG":"Event - register (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - register",
+    "TXTMD":"Hendelse - register (TeaLeaf)",
+    "TXTLG":"Hendelse - register (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Reg.(Teal.)",
+    "TXTMD":"Evento - Registro (Tealeaf)",
+    "TXTLG":"Evento - Registro (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Register (Te",
+    "TXTMD":"Event - Register (Tealeaf)",
+    "TXTLG":"Event - Register (Tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - регистр",
+    "TXTMD":"Событие - регистр (Tealeaf)",
+    "TXTLG":"Событие - регистр (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Registro (Te",
+    "TXTMD":"Evento: Registro (Tealeaf)",
+    "TXTLG":"Evento: Registro (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - kayıt (Tealea",
+    "TXTMD":"Olay - kayıt (Tealeaf)",
+    "TXTLG":"Olay - kayıt (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma, rekisteri",
+    "TXTMD":"Tapahtuma - rekisteri (TeaLeaf)",
+    "TXTLG":"Tapahtuma - rekisteri (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_07",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - reg. (tea",
+    "TXTMD":"Händelse - register (Tealeaf)",
+    "TXTLG":"Händelse - register (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_07",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

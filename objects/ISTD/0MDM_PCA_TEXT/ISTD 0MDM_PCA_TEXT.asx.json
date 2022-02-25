@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0MDM_PRD",
+    "COMSTRU":"0MDM_PCA_TEXT",
+    "OWNER":"HAURYA",
+    "TSTPNM":"HAURYA",
+    "TIMESTMP":"+020040402075805",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040402075805",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品类别文本",
+    "TXTMD":"产品类别文本",
+    "TXTLG":"产品类别文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"제품 범주 텍스트",
+    "TXTMD":"제품 범주 텍스트",
+    "TXTLG":"제품 범주 텍스트"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Texty kateg.produk.",
+    "TXTMD":"Texty kategorie produktů",
+    "TXTLG":"Texty kategorie produktů"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ProdKategorietexte",
+    "TXTMD":"Produktkategorietexte",
+    "TXTLG":"Produktkategorietexte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"product category tex",
+    "TXTMD":"product category texts",
+    "TXTLG":"product category texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Textes catég. pduit",
+    "TXTMD":"Textes catégories produit",
+    "TXTLG":"Textes catégories produit"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termékkateg.-szöv.",
+    "TXTMD":"Termékkategória-szövegek",
+    "TXTLG":"Termékkategória-szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Testi cat. prod.",
+    "TXTMD":"Testi categoria prodotto",
+    "TXTLG":"Testi categoria prodotto"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"製品カテゴリテキスト",
+    "TXTMD":"製品カテゴリテキスト",
+    "TXTLG":"製品カテゴリテキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.kategoritekster",
+    "TXTMD":"Produktkategoritekster",
+    "TXTLG":"Produktkategoritekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Teksty kat. prod.",
+    "TXTMD":"Teksty kategorii produktów",
+    "TXTLG":"Teksty kategorii produktów"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"產品種類內文",
+    "TXTMD":"產品種類內文",
+    "TXTLG":"產品種類內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Productcateg.teksten",
+    "TXTMD":"Productcategorieteksten",
+    "TXTLG":"Productcategorieteksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.kategoritekster",
+    "TXTMD":"Produktkategoritekster",
+    "TXTLG":"Produktkategoritekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Textos ctg.produto",
+    "TXTMD":"Textos da categoria do produto",
+    "TXTLG":"Textos da categoria do produto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Texty kateg.produktu",
+    "TXTMD":"Texty kategórie produktu",
+    "TXTLG":"Texty kategórie produktu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Тексты КатегПрод",
+    "TXTMD":"Тексты категорий продуктов",
+    "TXTLG":"Тексты категорий продуктов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Textos categ.prod.",
+    "TXTMD":"Textos categoría producto",
+    "TXTLG":"Textos categoría producto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün ktg.metinleri",
+    "TXTMD":"Ürün kategorisi metinleri",
+    "TXTLG":"Ürün kategorisi metinleri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuoteluokkatekstit",
+    "TXTMD":"Tuoteluokkatekstit",
+    "TXTLG":"Tuoteluokkatekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MDM_PCA_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ProdKategoritexter",
+    "TXTMD":"Produktkategoritexter",
+    "TXTLG":"Produktkategoritexter"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MDM_PCA_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

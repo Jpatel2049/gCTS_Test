@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0NETWORK_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041201093428",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041201093428",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"网络 - 主数据",
+    "TXTMD":"网络 - 主数据",
+    "TXTLG":"网络 - 主数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"네트워크 - 마스터 데이터",
+    "TXTLG":"네트워크 - 마스터 데이터"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"Network - Master Data",
+    "TXTLG":"Network - Master Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Síť.diagr.: Km.data",
+    "TXTMD":"Síť.diagr.: Km.data",
+    "TXTLG":"Síť.diagr.: Km.data"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netzplan - Stammdate",
+    "TXTMD":"Netzplan - Stammdaten",
+    "TXTLG":"Netzplan - Stammdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"Network - Master Data",
+    "TXTLG":"Network - Master Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Réseau - données bse",
+    "TXTMD":"Réseau - données de base",
+    "TXTLG":"Réseau - données de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"Network - Master Data",
+    "TXTLG":"Network - Master Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Hálóterv - törzsadat",
+    "TXTMD":"Hálóterv - törzsadatok",
+    "TXTLG":"Hálóterv - törzsadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Dati an.",
+    "TXTMD":"Network - Dati anagrafici",
+    "TXTLG":"Network - Dati anagrafici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"ネットワーク - マスタデータ",
+    "TXTLG":"ネットワーク - マスタデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netværk - stamdata",
+    "TXTMD":"Netværk - stamdata",
+    "TXTLG":"Netværk - stamdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Sieć - dane podst.",
+    "TXTMD":"Sieć - dane podstawowe",
+    "TXTLG":"Sieć - dane podstawowe"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"網狀圖 - 主檔資料",
+    "TXTMD":"網狀圖 - 主檔資料",
+    "TXTLG":"網狀圖 - 主檔資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NW-plan - stamgeg.",
+    "TXTMD":"Netwerkplan - stamgegevens",
+    "TXTLG":"Netwerkplan - stamgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nettverk - stamdata",
+    "TXTMD":"Nettverk - stamdata",
+    "TXTLG":"Nettverk - stamdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"DiagrRede-dds.mestre",
+    "TXTMD":"Diagrama de rede - dados mestre",
+    "TXTLG":"Diagrama de rede - dados mestre"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Sieť.diagr.-km.dáta",
+    "TXTMD":"Sieťový diagram - kmeňové dáta",
+    "TXTLG":"Sieťový diagram - kmeňové dáta"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"СетГраф - ОснДанные",
+    "TXTMD":"Сетевой график - осн. данные",
+    "TXTLG":"Сетевой график - осн. данные"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Grafo: Datos maestr.",
+    "TXTMD":"Grafo: Datos maestros",
+    "TXTLG":"Grafo: Datos maestros"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ağ planı - ana vr.",
+    "TXTMD":"Ağ planı - ana veriler",
+    "TXTLG":"Ağ planı - ana veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Verkko - perustiedot",
+    "TXTMD":"Verkko - perustiedot",
+    "TXTLG":"Verkko - perustiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nätverk - basdata",
+    "TXTMD":"Nätverk - basdata",
+    "TXTLG":"Nätverk - basdata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0NETWORK_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Network - MasterData",
+    "TXTMD":"Network - Master Data",
+    "TXTLG":"Network - Master Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0NETWORK_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PRODUCT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020021206141809",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020021206141809",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品属性           (",
+    "TXTMD":"产品: 属性 (过时)",
+    "TXTLG":"产品: 属性 (过时)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품 속성(폐기)",
+    "TXTMD":"제품: 속성(폐기)",
+    "TXTLG":"제품: 속성(폐기)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product Attributes (",
+    "TXTMD":"Product: Attributes (obsolete)",
+    "TXTLG":"Product: Attributes (obsolete)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Atributy (",
+    "TXTMD":"Produkt: Atributy (zastaralé)",
+    "TXTLG":"Produkt: Atributy (zastaralé)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Attribute (",
+    "TXTMD":"Produkt: Attribute (obsolet)",
+    "TXTLG":"Produkt: Attribute (obsolet)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product Attributes (",
+    "TXTMD":"Product: Attributes (obsolete)",
+    "TXTLG":"Product: Attributes (obsolete)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : attributs",
+    "TXTMD":"Produit : attributs (obsolète)",
+    "TXTLG":"Produit : attributs (obsolète)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product Attributes (",
+    "TXTMD":"Product: Attributes (obsolete)",
+    "TXTLG":"Product: Attributes (obsolete)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: attribútumok",
+    "TXTMD":"Termék: attribútumok (elavult)",
+    "TXTLG":"Termék: attribútumok (elavult)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto: attributi",
+    "TXTMD":"Prodotto: attributi (onsol.)",
+    "TXTLG":"Prodotto: attributi (onsol.)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 属性 (無効)",
+    "TXTMD":"製品: 属性 (無効)",
+    "TXTLG":"製品: 属性 (無効)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Attributter",
+    "TXTMD":"Produkt: Attributter (forældet)",
+    "TXTLG":"Produkt: Attributter (forældet)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Atrybuty",
+    "TXTMD":"Produkt: Atrybuty (nieaktualne)",
+    "TXTLG":"Produkt: Atrybuty (nieaktualne)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品屬性（作廢）",
+    "TXTMD":"產品：屬性（作廢）",
+    "TXTLG":"產品：屬性（作廢）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: attribut. (",
+    "TXTMD":"Product: attributen (verouderd)",
+    "TXTLG":"Product: attributen (verouderd)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Attributter",
+    "TXTMD":"Produkt: Attributter (foreldet)",
+    "TXTLG":"Produkt: Attributter (foreldet)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: atributos (",
+    "TXTMD":"Produto: atributos (obsoleto)",
+    "TXTLG":"Produto: atributos (obsoleto)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Atribúty (",
+    "TXTMD":"Produkt: Atribúty (zastar.)",
+    "TXTLG":"Produkt: Atribúty (zastar.)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: атрибут (ус",
+    "TXTMD":"Продукт: атрибуты (устаревш.)",
+    "TXTLG":"Продукт: атрибуты (устаревш.)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: Atributos",
+    "TXTMD":"Producto: Atributos (obsoleto)",
+    "TXTLG":"Producto: Atributos (obsoleto)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ür.:Nitelikler(kulD)",
+    "TXTMD":"Ürün: Nitelik (kullanım dışı)",
+    "TXTLG":"Ürün: Nitelik (kullanım dışı)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: määritteet",
+    "TXTMD":"Tuote: määritteet (vanhentunut)",
+    "TXTLG":"Tuote: määritteet (vanhentunut)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Attribut",
+    "TXTMD":"Produkt: Attribut (inaktuellt)",
+    "TXTLG":"Produkt: Attribut (inaktuellt)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product Attributes (",
+    "TXTMD":"Product: Attributes (obsolete)",
+    "TXTLG":"Product: Attributes (obsolete)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PRODUCT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

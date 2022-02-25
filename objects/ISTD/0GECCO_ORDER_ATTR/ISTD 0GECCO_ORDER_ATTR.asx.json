@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"CO-OM-OPA-IO",
+    "COMSTRU":"0GECCO_ORDER_ATTR",
+    "OWNER":"KRETZSCHMARL",
+    "TSTPNM":"KRETZSCHMARL",
+    "TIMESTMP":"+020030127121547",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030127121547",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"生成的成本收集器",
+    "TXTMD":"生成的成本收集器",
+    "TXTLG":"生成的成本收集器"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"일반 원가 취합처",
+    "TXTMD":"일반 원가 취합처",
+    "TXTLG":"일반 원가 취합처"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Cost Coll.",
+    "TXTMD":"Generic Cost Collector",
+    "TXTLG":"Generic Cost Collector"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generic.sběr.nákladů",
+    "TXTMD":"Generický sběrač nákladů",
+    "TXTLG":"Generický sběrač nákladů"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generischer Kostensa",
+    "TXTMD":"Generischer Kostensammler",
+    "TXTLG":"Generischer Kostensammler"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Cost Coll.",
+    "TXTMD":"Generic Cost Collector",
+    "TXTLG":"Generic Cost Collector"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Coll. coûts génér.",
+    "TXTMD":"Collecteur de coûts générique",
+    "TXTLG":"Collecteur de coûts générique"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Cost Coll.",
+    "TXTMD":"Generic Cost Collector",
+    "TXTLG":"Generic Cost Collector"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generikus ktggyűjtő",
+    "TXTMD":"Generikus költséggyűjtő",
+    "TXTLG":"Generikus költséggyűjtő"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Coll. costi gen.",
+    "TXTMD":"Collettore dei costi generico",
+    "TXTLG":"Collettore dei costi generico"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"一般原価コレクタ",
+    "TXTMD":"一般原価コレクタ",
+    "TXTLG":"一般原価コレクタ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generisk omk.samler",
+    "TXTMD":"Generisk omkostningssamler",
+    "TXTLG":"Generisk omkostningssamler"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ogólny zbier. koszt.",
+    "TXTMD":"Ogólny zbieracz kosztów",
+    "TXTLG":"Ogólny zbieracz kosztów"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"一般成本匯集器",
+    "TXTMD":"一般成本匯集器",
+    "TXTLG":"一般成本匯集器"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Gener. kostenverzam.",
+    "TXTMD":"Generieke kostenverzamelaar",
+    "TXTLG":"Generieke kostenverzamelaar"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Gen. kostnadssamler",
+    "TXTMD":"Generisk kostnadssamler",
+    "TXTLG":"Generisk kostnadssamler"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Coletor csts.genér.",
+    "TXTMD":"Coletor de custos genérico",
+    "TXTLG":"Coletor de custos genérico"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generický zber.nákl.",
+    "TXTMD":"Generický zberač nákladov",
+    "TXTLG":"Generický zberač nákladov"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"РодовойКоллекторЗатр",
+    "TXTMD":"Родовой коллектор затрат",
+    "TXTLG":"Родовой коллектор затрат"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Colector cost.gen.",
+    "TXTMD":"Colector de costes genérico",
+    "TXTLG":"Colector de costes genérico"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Genel masraf alıcısı",
+    "TXTMD":"Genel masraf alıcısı",
+    "TXTLG":"Genel masraf alıcısı"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Geneer. kust. koonti",
+    "TXTMD":"Geneerinen kustannusten koonti",
+    "TXTLG":"Geneerinen kustannusten koonti"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generisk kostnadsupp",
+    "TXTMD":"Generisk kostnadsuppsamlare",
+    "TXTLG":"Generisk kostnadsuppsamlare"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0GECCO_ORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Cost Coll.",
+    "TXTMD":"Generic Cost Collector",
+    "TXTLG":"Generic Cost Collector"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0GECCO_ORDER_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

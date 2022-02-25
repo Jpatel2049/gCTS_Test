@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0ACTIVITY_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041209073022",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041209073022",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"活动编号网络",
+    "TXTMD":"活动编号网络和标准网络",
+    "TXTLG":"活动编号网络和标准网络 - 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activity No. Network",
+    "TXTMD":"액티비티 번호 네트워크 및 표준 네트워크",
+    "TXTLG":"액티비티 번호 네트워크 및 표준 네트워크 - 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activity No. Network",
+    "TXTMD":"Activity No. Network and Standard Netwrk",
+    "TXTLG":"Activity Number Network and Standard Network - Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Č.oper.- síť.diagr.",
+    "TXTMD":"Číslo operace síť.diagramu a stand.sítě",
+    "TXTLG":"Číslo operace síť.diagramu a stand.sítě - texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vorgangsnummer Netzp",
+    "TXTMD":"Vorgangsnummer Netzplan und Standardnetz",
+    "TXTLG":"Vorgangsnummer Netzplan und Standardnetz - Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activity No. Network",
+    "TXTMD":"Activity No. Network and Standard Netwrk",
+    "TXTLG":"Activity Number Network and Standard Network - Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N° activité réseau",
+    "TXTMD":"Numéro d'activité réseau et réseau stand",
+    "TXTLG":"Numéro d'activité réseau et réseau standard - textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activity No. Network",
+    "TXTMD":"Activity No. Network and Standard Netwrk",
+    "TXTLG":"Activity Number Network and Standard Network - Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Műveletszám: hálóter",
+    "TXTMD":"Hálóterv és standardháló műveletszáma",
+    "TXTLG":"Műveletszám: hálóterv és standard háló - szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N. op. di network",
+    "TXTMD":"N. op. di network e network standard",
+    "TXTLG":"N. operazione di network e network standard - Testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"活動番号ネットワーク",
+    "TXTMD":"活動番号ネットワークと標準ネットワーク",
+    "TXTLG":"活動番号ネットワークと標準ネットワーク - テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Operationsnr. netvæ.",
+    "TXTMD":"Operationsnr. netværk og standardnetværk",
+    "TXTLG":"Operationsnummer netværk og standardnetværk - tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nr czynności w sieci",
+    "TXTMD":"Nr czynności w sieci i sieci standard.",
+    "TXTLG":"Nr czynności w sieci i sieci standardowej - teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"作業號碼網狀圖",
+    "TXTMD":"作業號碼網狀圖和標準網狀圖",
+    "TXTLG":"作業號碼網狀圖和標準網狀圖 - 內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activ.nr. netwerkpl.",
+    "TXTMD":"Activ.nr. netwerkplan en standaardnetw.",
+    "TXTLG":"Activiteitsnummer netwerkplan en standaardnetwerk - teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Akt.nummer nettverk",
+    "TXTMD":"Akt.nr. nettverk og standardnettverk",
+    "TXTLG":"Aktivitetsnummer nettverk og standardnettverk - tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nº tarefa diagr.rede",
+    "TXTMD":"Nº tarefa diagrama rede e rede standard",
+    "TXTLG":"Nº tarefa diagrama rede e rede standard - textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Č.oper.- sieť.diagr.",
+    "TXTMD":"Č.operácie sieť.diagramu a štand.siete",
+    "TXTLG":"Číslo operácie sieť.diagramu a štand.siete - texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"НомерОпер-СетевГраф",
+    "TXTMD":"НомерОперации-СетевГрафик и СтандСеть",
+    "TXTLG":"Номер операции - сетевой график и станд. сеть - тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Núm.operac.grafo",
+    "TXTMD":"Número operación grafo y grafo estándar",
+    "TXTLG":"Número operación grafo y grafo estándar: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ağ planı işlem no.",
+    "TXTMD":"Ağ planı ve standart ağ işlem numarası",
+    "TXTLG":"Ağ planı ve standart ağ işlem numarası - metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vaiheen nro - verkko",
+    "TXTMD":"Vaiheen numero verkossa ja vakioverkossa",
+    "TXTLG":"Vaiheen numero verkossa ja vakioverkoss - tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"AktivNummer nätverk",
+    "TXTMD":"Aktivitetsnummer nätverk och StdNätverk",
+    "TXTLG":"Aktivitetsnummer nätverk och standardnätverk - texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0ACTIVITY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activity No. Network",
+    "TXTMD":"Activity No. Network and Standard Netwrk",
+    "TXTLG":"Activity Number Network and Standard Network - Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ACTIVITY_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

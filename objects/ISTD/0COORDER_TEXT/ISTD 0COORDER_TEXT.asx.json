@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"CO-OM-OPA-IO",
+    "COMSTRU":"0COORDER_TEXT",
+    "OWNER":"AAKOLK",
+    "TSTPNM":"AAKOLK",
+    "TIMESTMP":"+020030114170232",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030114170232",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"订单 - 文本",
+    "TXTMD":"订单 - 文本",
+    "TXTLG":"订单 - 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"오더 - 텍스트",
+    "TXTMD":"오더 - 텍스트",
+    "TXTLG":"오더 - 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Texts",
+    "TXTMD":"Orders - Texts",
+    "TXTLG":"Orders - Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zakázky - texty",
+    "TXTMD":"Zakázky - texty",
+    "TXTLG":"Zakázky - texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Aufträge - Texte",
+    "TXTMD":"Aufträge - Texte",
+    "TXTLG":"Aufträge - Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Texts",
+    "TXTMD":"Orders - Texts",
+    "TXTLG":"Orders - Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ordres - textes",
+    "TXTMD":"Ordres - textes",
+    "TXTLG":"Ordres - textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Texts",
+    "TXTMD":"Orders - Texts",
+    "TXTLG":"Orders - Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Rendelések - szöv.",
+    "TXTMD":"Rendelések - szövegek",
+    "TXTLG":"Rendelések - szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ordini - testi",
+    "TXTMD":"Ordini - testi",
+    "TXTLG":"Ordini - testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"指図 - テキスト",
+    "TXTMD":"指図 - テキスト",
+    "TXTLG":"指図 - テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ordrer - tekster",
+    "TXTMD":"Ordrer - tekster",
+    "TXTLG":"Ordrer - tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zlecenia - teksty",
+    "TXTMD":"Zlecenia - teksty",
+    "TXTLG":"Zlecenia - teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"訂單 - 內文",
+    "TXTMD":"訂單 - 內文",
+    "TXTLG":"訂單 - 內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - teksten",
+    "TXTMD":"Orders - teksten",
+    "TXTLG":"Orders - teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ordrer - tekster",
+    "TXTMD":"Ordrer - tekster",
+    "TXTLG":"Ordrer - tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ordens - textos",
+    "TXTMD":"Ordens - textos",
+    "TXTLG":"Ordens - textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zákazky - texty",
+    "TXTMD":"Zákazky - texty",
+    "TXTLG":"Zákazky - texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Заказы - тексты",
+    "TXTMD":"Заказы - тексты",
+    "TXTLG":"Заказы - тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Órdenes: Textos",
+    "TXTMD":"Órdenes: Textos",
+    "TXTLG":"Órdenes: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Siparişler-metinler",
+    "TXTMD":"Siparişler - metinler",
+    "TXTLG":"Siparişler - metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tilaukset - tekstit",
+    "TXTMD":"Tilaukset - tekstit",
+    "TXTLG":"Tilaukset - tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Order - texter",
+    "TXTMD":"Order - texter",
+    "TXTLG":"Order - texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0COORDER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Texts",
+    "TXTMD":"Orders - Texts",
+    "TXTLG":"Orders - Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0COORDER_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

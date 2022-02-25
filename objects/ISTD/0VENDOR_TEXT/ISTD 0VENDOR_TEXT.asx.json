@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"MM-IO",
+    "COMSTRU":"0VENDOR_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020523113026",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020523113026",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"供应商 (文本)",
+    "TXTMD":"供应商 (文本)",
+    "TXTLG":"供应商 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"공급업체 (텍스트)",
+    "TXTMD":"공급업체 (텍스트)",
+    "TXTLG":"공급업체 (텍스트)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vendor (Texts)",
+    "TXTMD":"Vendor (Texts)",
+    "TXTLG":"Vendor (Texts)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Dodavatel (texty)",
+    "TXTMD":"Dodavatel (texty)",
+    "TXTLG":"Dodavatel (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Lieferant (Texte)",
+    "TXTMD":"Lieferant (Texte)",
+    "TXTLG":"Lieferant (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vendor (Texts)",
+    "TXTMD":"Vendor (Texts)",
+    "TXTLG":"Vendor (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Fournisseur (textes)",
+    "TXTMD":"Fournisseur (textes)",
+    "TXTLG":"Fournisseur (textes)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vendor (Texts)",
+    "TXTMD":"Vendor (Texts)",
+    "TXTLG":"Vendor (Texts)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Szállító (szövegek)",
+    "TXTMD":"Szállító (szövegek)",
+    "TXTLG":"Szállító (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Fornitore (testi)",
+    "TXTMD":"Fornitore (testi)",
+    "TXTLG":"Fornitore (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"仕入先 (テキスト)",
+    "TXTMD":"仕入先 (テキスト)",
+    "TXTLG":"仕入先 (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Leverandør (tekster)",
+    "TXTMD":"Leverandør (tekster)",
+    "TXTLG":"Leverandør (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Dostawca (teksty)",
+    "TXTMD":"Dostawca (teksty)",
+    "TXTLG":"Dostawca (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"供應商（內文）",
+    "TXTMD":"供應商（內文）",
+    "TXTLG":"供應商（內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Leverancier (txt)",
+    "TXTMD":"Leverancier (teksten)",
+    "TXTLG":"Leverancier (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Leverandør (tekster)",
+    "TXTMD":"Leverandør (tekster)",
+    "TXTLG":"Leverandør (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Fornecedor (textos)",
+    "TXTMD":"Fornecedor (textos)",
+    "TXTLG":"Fornecedor (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Dodávateľ (texty)",
+    "TXTMD":"Dodávateľ (texty)",
+    "TXTLG":"Dodávateľ (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Поставщик (Тексты)",
+    "TXTMD":"Поставщик (Тексты)",
+    "TXTLG":"Поставщик (Тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Proveedor (textos)",
+    "TXTMD":"Proveedor (textos)",
+    "TXTLG":"Proveedor (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Satıcı (metinler)",
+    "TXTMD":"Satıcı (metinler)",
+    "TXTLG":"Satıcı (metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Toimittaja (tekstit)",
+    "TXTMD":"Toimittaja (tekstit)",
+    "TXTLG":"Toimittaja (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Leverantör (texter)",
+    "TXTMD":"Leverantör (texter)",
+    "TXTLG":"Leverantör (texter)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0VENDOR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vendor (Texts)",
+    "TXTMD":"Vendor (Texts)",
+    "TXTLG":"Vendor (Texts)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0VENDOR_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

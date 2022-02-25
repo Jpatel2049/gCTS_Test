@@ -1,0 +1,66 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ZCRM_SALES_CONT_ITEMS",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_SALES",
+    "COMSTRU":"ZCRM_SALES_CONT_ITEMS",
+    "OWNER":"HEFFERNAN",
+    "TSTPNM":"HEFFERNAN",
+    "TIMESTMP":"+020050408081324",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ISOURCE":"ZCRM_SALES_CONT_ITEMS",
+    "OBJVERS":"A",
+    "TXTSH":"Sales Contract Items",
+    "TXTMD":"Sales Contract Items for IDES Cleanup",
+    "TXTLG":"Sales Contract Items for IDES Cleanup"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ZCRM_SALES_CONT_ITEMS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HEFFERNAN",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

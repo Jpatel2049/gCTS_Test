@@ -1,0 +1,204 @@
+[
+ {
+  "table":"RSCURTRT",
+  "data":
+  [
+   {
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "RTYPE":"M",
+    "TCUR":"EUR",
+    "SCUR":"",
+    "INVKZ":"",
+    "DATMETH":"2",
+    "CDATE":"0000-00-00",
+    "TIMEREF":"",
+    "RATEIOBJNM":"",
+    "DATIOBJNM":"",
+    "TCURIOBJNM":"",
+    "SCURIOBJNM":"",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020010508092147",
+    "TCURUID":"",
+    "VDATEUID":"",
+    "RTYPEUID":"",
+    "OBJSTAT":"",
+    "CONTREL":"3.0/01",
+    "CONTTIMESTMP":"+020010508092147",
+    "OWNER":"",
+    "BWAPPL":"",
+    "CRNM":"",
+    "CRTSTMP":"0",
+    "SCURUID":"",
+    "TCURIOBJNM_USE":"",
+    "CTTYPE":"",
+    "CONVTYPE":"",
+    "TIMESHIFTUID":"",
+    "TIMESHIFT":0,
+    "PERIOD_0":""
+   }
+  ]
+ },
+ {
+  "table":"RSCURTXT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM:固定目标货币，当前日期"
+   },
+   {
+    "LANGU":"3",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: 고정 대상 통화, 현재일"
+   },
+   {
+    "LANGU":"C",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fixní cíl.měna, aktuální datum"
+   },
+   {
+    "LANGU":"D",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fixe Zielwährung, aktuelles Datum"
+   },
+   {
+    "LANGU":"E",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fixed Target Currency, Current Date"
+   },
+   {
+    "LANGU":"F",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM : devise cible fixe, date actuelle"
+   },
+   {
+    "LANGU":"H",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: rögzített célpénznem, akt. dátum"
+   },
+   {
+    "LANGU":"I",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: divisa dest. fissa, data attuale"
+   },
+   {
+    "LANGU":"J",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: 固定目標通貨、現在日付"
+   },
+   {
+    "LANGU":"K",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fast målvaluta, aktuel dato"
+   },
+   {
+    "LANGU":"L",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Ustal. waluta docel., aktualna data"
+   },
+   {
+    "LANGU":"M",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM：固定目標幣別，目前日期"
+   },
+   {
+    "LANGU":"N",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Vaste doelvaluta, huidige datum"
+   },
+   {
+    "LANGU":"O",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fast målvaluta, aktuell dato"
+   },
+   {
+    "LANGU":"P",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: moeda fixa de destino, data atual"
+   },
+   {
+    "LANGU":"Q",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fixná cieľová mena, aktuálny dátum"
+   },
+   {
+    "LANGU":"R",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: ФиксЦелевВалюта, актуальная дата"
+   },
+   {
+    "LANGU":"S",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Moneda destino fija, fecha actual"
+   },
+   {
+    "LANGU":"T",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Sabit hedef PB, güncel tarih"
+   },
+   {
+    "LANGU":"U",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: kiinteä kohdevaluutta, kuluva pvm"
+   },
+   {
+    "LANGU":"V",
+    "CTTNM":"0CMAKTDAY",
+    "OBJVERS":"A",
+    "TXTMD":"CM: Fast målvaluta, aktuellt datum"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"CTRT",
+    "OBJ_NAME":"0CMAKTDAY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

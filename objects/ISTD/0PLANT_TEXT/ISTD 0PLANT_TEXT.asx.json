@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"LO-IO",
+    "COMSTRU":"0PLANT_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030203185718",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030203185718",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"工厂 (文本)",
+    "TXTMD":"工厂 (文本)",
+    "TXTLG":"工厂 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"플랜트(텍스트)",
+    "TXTMD":"플랜트(텍스트)",
+    "TXTLG":"플랜트(텍스트)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Texts)",
+    "TXTMD":"Plant (Texts)",
+    "TXTLG":"Plant (Texts)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Závod (texty)",
+    "TXTMD":"Závod (texty)",
+    "TXTLG":"Závod (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Werk (Texte)",
+    "TXTMD":"Werk (Texte)",
+    "TXTLG":"Werk (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Texts)",
+    "TXTMD":"Plant (Texts)",
+    "TXTLG":"Plant (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Division (textes)",
+    "TXTMD":"Division (textes)",
+    "TXTLG":"Division (textes)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Texts)",
+    "TXTMD":"Plant (Texts)",
+    "TXTLG":"Plant (Texts)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Gyár (szövegek)",
+    "TXTMD":"Gyár (szövegek)",
+    "TXTLG":"Gyár (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Divisione (testi)",
+    "TXTMD":"Divisione (testi)",
+    "TXTLG":"Divisione (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"プラント (テキスト)",
+    "TXTMD":"プラント (テキスト)",
+    "TXTLG":"プラント (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Fabrik (tekster)",
+    "TXTMD":"Fabrik (tekster)",
+    "TXTLG":"Fabrik (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zakład (teksty)",
+    "TXTMD":"Zakład (teksty)",
+    "TXTLG":"Zakład (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"工廠（內文）",
+    "TXTMD":"工廠（內文）",
+    "TXTLG":"工廠（內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vestiging (teksten)",
+    "TXTMD":"Vestiging (teksten)",
+    "TXTLG":"Vestiging (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Fabrikk (tekster)",
+    "TXTMD":"Fabrikk (tekster)",
+    "TXTLG":"Fabrikk (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Centro (textos)",
+    "TXTMD":"Centro (textos)",
+    "TXTLG":"Centro (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Závod (texty)",
+    "TXTMD":"Závod (texty)",
+    "TXTLG":"Závod (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Завод (тексты)",
+    "TXTMD":"Завод (тексты)",
+    "TXTLG":"Завод (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Centro (textos)",
+    "TXTMD":"Centro (textos)",
+    "TXTLG":"Centro (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Üretim yeri (metin)",
+    "TXTMD":"Üretim yeri (metin)",
+    "TXTLG":"Üretim yeri (metin)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Toimipiste (tekstit)",
+    "TXTMD":"Toimipiste (tekstit)",
+    "TXTLG":"Toimipiste (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"PE (texter)",
+    "TXTMD":"Produktionsenhet (texter)",
+    "TXTLG":"Produktionsenhet (texter)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PLANT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Texts)",
+    "TXTMD":"Plant (Texts)",
+    "TXTLG":"Plant (Texts)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PLANT_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

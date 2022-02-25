@@ -1,0 +1,204 @@
+[
+ {
+  "table":"RSCURTRT",
+  "data":
+  [
+   {
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "RTYPE":"M",
+    "TCUR":"EUR",
+    "SCUR":"",
+    "INVKZ":"",
+    "DATMETH":"3",
+    "CDATE":"0000-00-00",
+    "TIMEREF":"A",
+    "RATEIOBJNM":"",
+    "DATIOBJNM":"0PSTNG_DATE",
+    "TCURIOBJNM":"",
+    "SCURIOBJNM":"",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020010213161823",
+    "TCURUID":"",
+    "VDATEUID":"",
+    "RTYPEUID":"",
+    "OBJSTAT":"",
+    "CONTREL":"3.0/01",
+    "CONTTIMESTMP":"+020010213161823",
+    "OWNER":"",
+    "BWAPPL":"",
+    "CRNM":"",
+    "CRTSTMP":"0",
+    "SCURUID":"",
+    "TCURIOBJNM_USE":"",
+    "CTTYPE":"",
+    "CONVTYPE":"",
+    "TIMESHIFTUID":"",
+    "TIMESHIFT":0,
+    "PERIOD_0":""
+   }
+  ]
+ },
+ {
+  "table":"RSCURTXT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP:记帐日期的数据库货币"
+   },
+   {
+    "LANGU":"3",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: 전기일에 대한 데이터베이스 통화"
+   },
+   {
+    "LANGU":"C",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Plán.měna k datu zaúčtování"
+   },
+   {
+    "LANGU":"D",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Planwährung zu Buchungsdatum"
+   },
+   {
+    "LANGU":"E",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Database Currency for Posting Date"
+   },
+   {
+    "LANGU":"F",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP : devise base données date comptable"
+   },
+   {
+    "LANGU":"H",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: tervpéznem könyvelési dátumhoz"
+   },
+   {
+    "LANGU":"I",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: divisa pian. per data registrazione"
+   },
+   {
+    "LANGU":"J",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: データベース通貨 (転記日付)"
+   },
+   {
+    "LANGU":"K",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Planlagt valuta til bogføringsdato"
+   },
+   {
+    "LANGU":"L",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Waluta planowa dla daty księgowania"
+   },
+   {
+    "LANGU":"M",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP：過帳日期的資料庫幣別"
+   },
+   {
+    "LANGU":"N",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Planvaluta voor boekingsdatum"
+   },
+   {
+    "LANGU":"O",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Planlagt valuta per konteringsdato"
+   },
+   {
+    "LANGU":"P",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: moeda planejamento p/data lçto."
+   },
+   {
+    "LANGU":"Q",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Plán.mena k dátumu účtovania"
+   },
+   {
+    "LANGU":"R",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: валюта плана к дате проводки"
+   },
+   {
+    "LANGU":"S",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Moneda plan p.fecha contab."
+   },
+   {
+    "LANGU":"T",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Kayıt tarihine ilişkin planlanan PB"
+   },
+   {
+    "LANGU":"U",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: suunn.valuutta kirjauspäivämääränä"
+   },
+   {
+    "LANGU":"V",
+    "CTTNM":"0CMMPSTDAT",
+    "OBJVERS":"A",
+    "TXTMD":"MAP: Planerad valuta till bokningsdatum"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"CTRT",
+    "OBJ_NAME":"0CMMPSTDAT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

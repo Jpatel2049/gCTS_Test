@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_SALES",
+    "COMSTRU":"0CRM_SALES_ACT_1",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020050420114939",
+    "CONTREL":"7.0/02",
+    "CONTTIMESTMP":"+020050420114939",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"平面结构中的活动",
+    "TXTMD":"ODS 平面结构中的活动",
+    "TXTLG":"ODS 平面结构中的活动"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"액티비티(플랫 구조)",
+    "TXTMD":"ODS 플랫 구조의 액티비티",
+    "TXTLG":"ODS 플랫 구조의 액티비티"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Činn.v ploché strukt",
+    "TXTMD":"Činnosti v ploché struktuře pro ODS",
+    "TXTLG":"Činnosti v ploché struktuře pro ODS"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Aktivitäten in flach",
+    "TXTMD":"Aktivitäten in flacher Struktur für ODS",
+    "TXTLG":"Aktivitäten in flacher Struktur für ODS"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Activities in Flat",
+    "TXTMD":"Activities in Flat Structure for ODS",
+    "TXTLG":"Activities in Flat Structure for ODS"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Activités dans str.p",
+    "TXTMD":"Activités dans structure plate pour PSA",
+    "TXTLG":"Activités dans structure plate pour PSA"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Tevékenységek egysz.",
+    "TXTMD":"Tevékenységek egyszintű str.-ban ODS-hez",
+    "TXTLG":"Tevékenységek egyszintű struktúrában ODS-hez"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Attività in strutt.",
+    "TXTMD":"Attività in struttura piatta per ODS",
+    "TXTLG":"Attività in struttura piatta per ODS"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"フラット構造内の活動",
+    "TXTMD":"ODS のフラット構造に含まれる活動",
+    "TXTLG":"ODS のフラット構造に含まれる活動"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Aktiviteter i flad",
+    "TXTMD":"Aktiviteter i flad struktur for ODS",
+    "TXTLG":"Aktiviteter i flad struktur for ODS"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dział. w płas.struk.",
+    "TXTMD":"Działania w płaskiej strukturze ODS",
+    "TXTLG":"Działania w płaskiej strukturze dla obiektu ODS"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"簡式結構中的作業",
+    "TXTMD":"ODS 簡式結構中的作業",
+    "TXTLG":"ODS 簡式結構中的作業"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Act. in platte",
+    "TXTMD":"Activiteiten in platte structuur v. ODS",
+    "TXTLG":"Activiteiten in platte structuur voor ODS"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Aktiviteter i flat",
+    "TXTMD":"Aktiviteter i flat struktur for ODS",
+    "TXTLG":"Aktiviteter i flat struktur for ODS"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Ativids.estr.plana",
+    "TXTMD":"Atividades em estrutura plana para ODS",
+    "TXTLG":"Atividades em estrutura plana para ODS"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Aktivity v ploch.štr",
+    "TXTMD":"Aktivity v plochej štruktúre pre ODS",
+    "TXTLG":"Aktivity v plochej štruktúre pre ODS"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Операции в плоской",
+    "TXTMD":"Операции в плоской структуре для ODS",
+    "TXTLG":"Операции в плоской структуре для ODS"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Actividades estr.pl.",
+    "TXTMD":"Actividades en estructura plana para ODS",
+    "TXTLG":"Actividades en estructura plana para ODS"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Düz yapıda akt.",
+    "TXTMD":"ODS için düz yapıda aktiviteler",
+    "TXTLG":"ODS için düz yapıda aktiviteler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Toiminnot vaakarak.",
+    "TXTMD":"Toiminnot vaakarakenteisina ODS:lle",
+    "TXTLG":"Toiminnot vaakarakenteisina ODS:lle"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_SALES_ACT_1",
+    "OBJVERS":"A",
+    "TXTSH":"Aktiviteter i platt",
+    "TXTMD":"Aktiviteter i platt struktur för ODS",
+    "TXTLG":"Aktiviteter i platt struktur för ODS"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_SALES_ACT_1",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

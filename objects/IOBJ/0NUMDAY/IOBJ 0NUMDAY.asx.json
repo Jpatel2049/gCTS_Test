@@ -1,0 +1,277 @@
+[
+ {
+  "table":"RSDIOBJ",
+  "data":
+  [
+   {
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "IOBJTP":"KYF",
+    "OBJSTAT":"ACT",
+    "CONTREL":"7.3/20",
+    "CONTTIMESTMP":"+020050314161159",
+    "OWNER":"SAP",
+    "BWAPPL":"BW",
+    "ACTIVFL":"",
+    "PROTECFL":"",
+    "PRIVATEFL":"",
+    "FIELDNM":"NUMDAY",
+    "ATRONLYFL":"",
+    "BCTCOMP":"",
+    "BDSFL":"",
+    "TSTPNM":"DDIC",
+    "TIMESTMP":"+020130921155140",
+    "ORIGIN":"",
+    "MTINFOAREA":"",
+    "MTMODELVERSION":"",
+    "TXTSH_SET":""
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBJT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"天数",
+    "TXTLG":"天数"
+   },
+   {
+    "LANGU":"3",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"일 수",
+    "TXTLG":"일 수"
+   },
+   {
+    "LANGU":"4",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Număr de zile",
+    "TXTLG":"Număr de zile"
+   },
+   {
+    "LANGU":"5",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Število dni",
+    "TXTLG":"Število dni"
+   },
+   {
+    "LANGU":"6",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Broj dana",
+    "TXTLG":"Broj dana"
+   },
+   {
+    "LANGU":"C",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Počet dnů",
+    "TXTLG":"Počet dnů"
+   },
+   {
+    "LANGU":"D",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Anzahl Tage",
+    "TXTLG":"Anzahl der Tage"
+   },
+   {
+    "LANGU":"E",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Days",
+    "TXTLG":"Number of Days"
+   },
+   {
+    "LANGU":"F",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Nombre de jours",
+    "TXTLG":"Nombre de jours"
+   },
+   {
+    "LANGU":"G",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Αριθμός Ημερών",
+    "TXTLG":"Αριθμός Ημερών"
+   },
+   {
+    "LANGU":"H",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Napok száma",
+    "TXTLG":"Napok száma"
+   },
+   {
+    "LANGU":"I",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Numero giorni",
+    "TXTLG":"Numero di giorni"
+   },
+   {
+    "LANGU":"J",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"日数",
+    "TXTLG":"日数"
+   },
+   {
+    "LANGU":"K",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antal dage",
+    "TXTLG":"Antal dage"
+   },
+   {
+    "LANGU":"L",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Liczba dni",
+    "TXTLG":"Liczba dni"
+   },
+   {
+    "LANGU":"M",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"天數",
+    "TXTLG":"天數"
+   },
+   {
+    "LANGU":"N",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Aantal dagen",
+    "TXTLG":"Aantal dagen"
+   },
+   {
+    "LANGU":"O",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antall dager",
+    "TXTLG":"Antall dager"
+   },
+   {
+    "LANGU":"P",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Nº de dias",
+    "TXTLG":"Nº de dias"
+   },
+   {
+    "LANGU":"Q",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Počet dní",
+    "TXTLG":"Počet dní"
+   },
+   {
+    "LANGU":"R",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Число дней",
+    "TXTLG":"Число дней"
+   },
+   {
+    "LANGU":"S",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Cantidad de días",
+    "TXTLG":"Cantidad de días"
+   },
+   {
+    "LANGU":"T",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Gün sayısı",
+    "TXTLG":"Gün sayısı"
+   },
+   {
+    "LANGU":"U",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Päivien lukumäärä",
+    "TXTLG":"Päivien lukumäärä"
+   },
+   {
+    "LANGU":"V",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antal dagar",
+    "TXTLG":"Antal dagar"
+   },
+   {
+    "LANGU":"W",
+    "IOBJNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Брой дни",
+    "TXTLG":"Брой дни"
+   }
+  ]
+ },
+ {
+  "table":"RSDKYF",
+  "data":
+  [
+   {
+    "KYFNM":"0NUMDAY",
+    "OBJVERS":"A",
+    "KYFTP":"INT",
+    "NCUMFL":"",
+    "FIXCUKY":"",
+    "FIXUNIT":"",
+    "AGGRGEN":"SUM",
+    "AGGREXC":"SUM",
+    "AGGRCHA":"",
+    "KYFDECIM":"",
+    "KYFPRSNT":"",
+    "KYFNAV":"0",
+    "UNINM":"",
+    "DOMANM":"",
+    "PACKFL":"",
+    "KYFSEMANTIC":"",
+    "STOCK_COVER_CALCTYPE":"",
+    "STOCK_COVER_PERIODS":0,
+    "DATATP":"INT4",
+    "TXTDEF":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IOBJ",
+    "OBJ_NAME":"0NUMDAY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"BACHMANNMAT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

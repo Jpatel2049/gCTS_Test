@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0DB",
+    "COMSTRU":"0DBDUNS_IMPORT_ATTR",
+    "OWNER":"SCHWARZ",
+    "TSTPNM":"DEGBEON",
+    "TIMESTMP":"+020030716063503",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030716063503",
+    "BCTCOMP":"DP_DB",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B 收入文件: 属性",
+    "TXTMD":"D&B 收入文件: 属性",
+    "TXTLG":"D&B 收入文件: 属性"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B 임포트 파일:속성",
+    "TXTMD":"D&B 임포트 파일: 속성",
+    "TXTLG":"D&B 임포트 파일: 속성"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Import File: Att",
+    "TXTMD":"D&B Import File: Attributes",
+    "TXTLG":"D&B Import File: Attributes"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Imp.soub.: Atr.",
+    "TXTMD":"D&B Importní soubor: Atributy",
+    "TXTLG":"D&B Importní soubor: Atributy"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Importdatei: Att",
+    "TXTMD":"D&B Importdatei: Attribute",
+    "TXTLG":"D&B Importdatei: Attribute"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Import File: Att",
+    "TXTMD":"D&B Import File: Attributes",
+    "TXTLG":"D&B Import File: Attributes"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Fich. imp. : att",
+    "TXTMD":"D&B Fichier d'importation : attributs",
+    "TXTLG":"D&B Fichier d'importation : attributs"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Import File: Att",
+    "TXTMD":"D&B Import File: Attributes",
+    "TXTLG":"D&B Import File: Attributes"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B importfájl: attr",
+    "TXTMD":"D&B importfájl: attribútumok",
+    "TXTLG":"D&B importfájl: attribútumok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B dati imp.: att.",
+    "TXTMD":"D&B dati importazione: attributi",
+    "TXTLG":"D&B dati importazione: attributi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Import File:属性",
+    "TXTMD":"D&B インポートファイル: 属性",
+    "TXTLG":"D&B インポートファイル: 属性"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Importfil: Att.",
+    "TXTMD":"D&B Importfil: Attributter",
+    "TXTLG":"D&B Importfil: Attributter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Plik importu D&B:",
+    "TXTMD":"Plik importu D&B: Atrybuty",
+    "TXTLG":"Plik importu D&B: Atrybuty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B 輸出檔案：屬性",
+    "TXTMD":"D&B 輸出檔案：屬性",
+    "TXTLG":"D&B 輸出檔案：屬性"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B-importbest.: att",
+    "TXTMD":"D&B-importbestand: attributen",
+    "TXTLG":"D&B-importbestand: attributen"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B: Importfil attr.",
+    "TXTMD":"D&B: Importfil - attributter",
+    "TXTLG":"D&B: Importfil - attributter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B FileImport.:atr.",
+    "TXTMD":"D&B file de importação: atributos",
+    "TXTLG":"D&B file de importação: atributos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B súbor importu:At",
+    "TXTMD":"D&B súbor importu: Atribúty",
+    "TXTLG":"D&B súbor importu: Atribúty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B: файл имп.: атр.",
+    "TXTMD":"D&B: файл импорта: атрибуты",
+    "TXTLG":"D&B: файл импорта: атрибуты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B fich.imp.: Atr.",
+    "TXTMD":"D&B fichero de importación: Atributos",
+    "TXTLG":"D&B fichero de importación: Atributos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B içe aktr.dsy:Ntl",
+    "TXTMD":"D&B içe aktarım dosyası: Nitelikler",
+    "TXTLG":"D&B içe aktarım dosyası: Nitelikler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B tuontitied: määr",
+    "TXTMD":"D&B tuontitiedosto: määritteet",
+    "TXTLG":"D&B tuontitiedosto: määritteet"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B-importfil: Attri",
+    "TXTMD":"D&B-importfil: Attribut",
+    "TXTLG":"D&B-importfil: Attribut"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0DBDUNS_IMPORT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"D&B Import File: Att",
+    "TXTMD":"D&B Import File: Attributes",
+    "TXTLG":"D&B Import File: Attributes"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0DBDUNS_IMPORT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUDISILL",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0IS_ME-IO",
+    "COMSTRU":"0ME_TITLE_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040803141045",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020040803141045",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"标题，名称词缀",
+    "TXTMD":"标题，名称词缀，名称前缀",
+    "TXTLG":"标题，名称词缀，名称前缀"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"직함, 경칭",
+    "TXTMD":"직함, 경칭, 호칭",
+    "TXTLG":"직함, 경칭, 호칭"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Titul oslovení, dod.",
+    "TXTMD":"Titul oslovení, dod.za jménem, před jm.",
+    "TXTLG":"Titul oslovení, dod.za jménem, před jm."
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Anredetitel, Namensz",
+    "TXTMD":"Anredetitel, Namenszusatz, Namensvorsatz",
+    "TXTLG":"Anredetitel, Namenszusatz, Namensvorsatz"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Title, Name Affix",
+    "TXTMD":"Title, Name Affix, Name Prefix",
+    "TXTLG":"Title, Name Affix, Name Prefix"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Titre, compl. nom",
+    "TXTMD":"Titre, compl. nom, partic. du nom",
+    "TXTLG":"Titre, compl. nom, partic. du nom"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Megszólítási cím, né",
+    "TXTMD":"Megszólítási cím, névkieg., névprefixum",
+    "TXTLG":"Megszólítási cím, névkiegészítés, névprefixum"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Titolo, patronimico",
+    "TXTMD":"Titolo, patronimico, prefisso nome",
+    "TXTLG":"Titolo, patronimico, prefisso nome"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"タイトル、敬称",
+    "TXTMD":"タイトル、敬称",
+    "TXTLG":"タイトル、敬称"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Titel, navnesup.",
+    "TXTMD":"Titel, navnesupplement, navnepræfiks",
+    "TXTLG":"Titel, navnesupplement, navnepræfiks"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tytuł, dod. nazwiska",
+    "TXTMD":"Tytuł, dod. nazwiska, przedrostek nazw.",
+    "TXTLG":"Tytuł, dod. nazwiska, przedrostek nazw."
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"標題，後置稱謂",
+    "TXTMD":"標題，後置稱謂，前置稱謂",
+    "TXTLG":"標題，後置稱謂，前置稱謂"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Aansp.tit., vvoegsel",
+    "TXTMD":"Aanspreektitel, titel/vvgsl, voorvoegsel",
+    "TXTLG":"Aanspreektitel, titel/voorvoegsel, voorvoegsel"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tittel, navnetillegg",
+    "TXTMD":"Tittel, navnetillegg",
+    "TXTLG":"Tittel, navnetillegg"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Título, complem.nome",
+    "TXTMD":"Título, complemento nome, prep.sobrenome",
+    "TXTLG":"Título, complemento nome, prep.sobrenome"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Titul, tit.za menom",
+    "TXTMD":"Titul, titul za menom, titul pred menom",
+    "TXTLG":"Titul, titul za menom, titul pred menom"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Титул, аффикс имени",
+    "TXTMD":"Титул обращения, префикс, аффикс имени",
+    "TXTLG":"Титул обращения, префикс, аффикс имени"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tít.encab., ComplNom",
+    "TXTMD":"Tít.encab., compl.nombre, antec.nombre",
+    "TXTLG":"Título encabezamiento, complem.nombre, antecedente nombre"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Unv.,ad eki,ad ön ek",
+    "TXTMD":"Unvan, ad eki, ad ön eki",
+    "TXTLG":"Unvan, ad eki, ad ön eki"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Puh.ots., nimen lisä",
+    "TXTMD":"Puh.ots., nimen l.tieto, nimen etuliite",
+    "TXTLG":"Puhutteluotsikko, nimen lisätieto, nimen etuliite"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ME_TITLE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"TilltTitel, namnpre.",
+    "TXTMD":"Tilltalstitel, namnsuffix, namnprefix",
+    "TXTLG":"Tilltalstitel, namnsuffix, namnprefix"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ME_TITLE_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"KEITH",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

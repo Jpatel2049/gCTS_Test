@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0APO-IO",
+    "COMSTRU":"0APO_PROD_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020305152223",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020305152223",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 产品文本",
+    "TXTMD":"APO 产品文本",
+    "TXTLG":"APO 产品文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 제품 텍스트",
+    "TXTMD":"APO 제품 텍스트",
+    "TXTLG":"APO 제품 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Product Text",
+    "TXTMD":"APO Product Text",
+    "TXTLG":"APO Product Text"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Text produktu",
+    "TXTMD":"APO Text produktu",
+    "TXTLG":"APO Text produktu"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Produkt Text",
+    "TXTMD":"APO Produkt Text",
+    "TXTLG":"APO Produkt Text"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Product Text",
+    "TXTMD":"APO Product Text",
+    "TXTLG":"APO Product Text"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO texte produit",
+    "TXTMD":"APO texte produit",
+    "TXTLG":"APO texte produit"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Product Text",
+    "TXTMD":"APO Product Text",
+    "TXTLG":"APO Product Text"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO termék - szöveg",
+    "TXTMD":"APO termék - szöveg",
+    "TXTLG":"APO termék - szöveg"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO testo prodotto",
+    "TXTMD":"APO testo prodotto",
+    "TXTLG":"APO testo prodotto"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 製品テキスト",
+    "TXTMD":"APO 製品テキスト",
+    "TXTLG":"APO 製品テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Produkttekst",
+    "TXTMD":"APO Produkttekst",
+    "TXTLG":"APO Produkttekst"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Opis produktu",
+    "TXTMD":"APO Opis produktu",
+    "TXTLG":"APO Opis produktu"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 產品內文",
+    "TXTMD":"APO 產品內文",
+    "TXTLG":"APO 產品內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tekst APO-product",
+    "TXTMD":"Tekst APO-product",
+    "TXTLG":"Tekst APO-product"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO: Produkttekst",
+    "TXTMD":"APO: Produkttekst",
+    "TXTLG":"APO: Produkttekst"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO texto produto",
+    "TXTMD":"APO texto produto",
+    "TXTLG":"APO texto produto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Text produktu",
+    "TXTMD":"APO Text produktu",
+    "TXTLG":"APO Text produktu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO-продукт - текст",
+    "TXTMD":"APO-продукт - текст",
+    "TXTLG":"APO-продукт - текст"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Texto producto APO",
+    "TXTMD":"Texto producto APO",
+    "TXTLG":"Texto producto APO"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO ürün metni",
+    "TXTMD":"APO ürün metni",
+    "TXTLG":"APO ürün metni"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO-tuotteen teksti",
+    "TXTMD":"APO-tuotteen teksti",
+    "TXTLG":"APO-tuotteen teksti"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Produkttext",
+    "TXTMD":"APO Produkttext",
+    "TXTLG":"APO Produkttext"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0APO_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Product Text",
+    "TXTMD":"APO Product Text",
+    "TXTLG":"APO Product Text"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0APO_PROD_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

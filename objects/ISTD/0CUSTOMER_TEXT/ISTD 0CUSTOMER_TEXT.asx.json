@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"LO-IO",
+    "COMSTRU":"0CUSTOMER_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020522095411",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020522095411",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"客户 (文本)",
+    "TXTMD":"客户 (文本)",
+    "TXTLG":"客户 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"고객(텍스트)",
+    "TXTMD":"고객(텍스트)",
+    "TXTLG":"고객(텍스트)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Customer (Texts)",
+    "TXTMD":"Customer (Texts)",
+    "TXTLG":"Customer (Texts)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zákazník (texty)",
+    "TXTMD":"Zákazník (texty)",
+    "TXTLG":"Zákazník (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kunde (Texte)",
+    "TXTMD":"Kunde (Texte)",
+    "TXTLG":"Kunde (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Customer (Texts)",
+    "TXTMD":"Customer (Texts)",
+    "TXTLG":"Customer (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Client (textes)",
+    "TXTMD":"Client (textes)",
+    "TXTLG":"Client (textes)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Customer (Texts)",
+    "TXTMD":"Customer (Texts)",
+    "TXTLG":"Customer (Texts)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vevő (szövegek)",
+    "TXTMD":"Vevő (szövegek)",
+    "TXTLG":"Vevő (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Cliente (testi)",
+    "TXTMD":"Cliente (testi)",
+    "TXTLG":"Cliente (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"得意先 (テキスト)",
+    "TXTMD":"得意先 (テキスト)",
+    "TXTLG":"得意先 (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kunde (tekster)",
+    "TXTMD":"Kunde (tekster)",
+    "TXTLG":"Kunde (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Klient (teksty)",
+    "TXTMD":"Klient (teksty)",
+    "TXTLG":"Klient (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"客戶（內文）",
+    "TXTMD":"客戶（內文）",
+    "TXTLG":"客戶（內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Klant (teksten)",
+    "TXTMD":"Klant (teksten)",
+    "TXTLG":"Klant (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kunde (tekster)",
+    "TXTMD":"Kunde (tekster)",
+    "TXTLG":"Kunde (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Cliente (textos)",
+    "TXTMD":"Cliente (textos)",
+    "TXTLG":"Cliente (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Zákazník (texty)",
+    "TXTMD":"Zákazník (texty)",
+    "TXTLG":"Zákazník (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Клиент (тексты)",
+    "TXTMD":"Клиент (тексты)",
+    "TXTLG":"Клиент (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Cliente (textos)",
+    "TXTMD":"Cliente (textos)",
+    "TXTLG":"Cliente (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Müşteri (metinler)",
+    "TXTMD":"Müşteri (metinler)",
+    "TXTLG":"Müşteri (metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Asiakas (tekstit)",
+    "TXTMD":"Asiakas (tekstit)",
+    "TXTLG":"Asiakas (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kund (texter)",
+    "TXTMD":"Kund (texter)",
+    "TXTLG":"Kund (texter)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0CUSTOMER_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Customer (Texts)",
+    "TXTMD":"Customer (Texts)",
+    "TXTLG":"Customer (Texts)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CUSTOMER_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

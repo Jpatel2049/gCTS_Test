@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PRODUCT_STATUS_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030220075844",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030220075844",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 状态属性",
+    "TXTMD":"产品: 状态属性",
+    "TXTLG":"产品: 状态属性"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 상태 속성",
+    "TXTMD":"제품: 상태 속성",
+    "TXTLG":"제품: 상태 속성"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Status Attr",
+    "TXTMD":"Product: Status Attributes",
+    "TXTLG":"Product: Status Attributes"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Stav.atrib.",
+    "TXTMD":"Produkt: Stavové atributy",
+    "TXTLG":"Produkt: Stavové atributy"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Statusattri",
+    "TXTMD":"Produkt: Statusattribute",
+    "TXTLG":"Produkt: Statusattribute"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Status Attr",
+    "TXTMD":"Product: Status Attributes",
+    "TXTLG":"Product: Status Attributes"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit (attr. stat)",
+    "TXTMD":"Produit : attributs de statut",
+    "TXTLG":"Produit : attributs de statut"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Status Attr",
+    "TXTMD":"Product: Status Attributes",
+    "TXTLG":"Product: Status Attributes"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: státusattrib",
+    "TXTMD":"Termék: státusattribútumok",
+    "TXTLG":"Termék: státusattribútumok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod. (attr. stato)",
+    "TXTMD":"Prodotto (attributi stato)",
+    "TXTLG":"Prodotto (attributi stato)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: ステータス属性",
+    "TXTMD":"製品: ステータス属性",
+    "TXTLG":"製品: ステータス属性"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Statusattr.",
+    "TXTMD":"Produkt: Statusattributter",
+    "TXTLG":"Produkt: Statusattributter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Atr. stat.",
+    "TXTMD":"Produkt: Atrybuty statusu",
+    "TXTLG":"Produkt: Atrybuty statusu"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：狀態屬性",
+    "TXTMD":"產品：狀態屬性",
+    "TXTLG":"產品：狀態屬性"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: statusattr.",
+    "TXTMD":"Product: statusattributen",
+    "TXTLG":"Product: statusattributen"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Statusattr.",
+    "TXTMD":"Produkt: Statusattributter",
+    "TXTLG":"Produkt: Statusattributter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: atrib.status",
+    "TXTMD":"Produto: atributos de status",
+    "TXTLG":"Produto: atributos de status"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Atrib.stat.",
+    "TXTMD":"Produkt: Atribúty statusu",
+    "TXTLG":"Produkt: Atribúty statusu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт:АтрибСтатуса",
+    "TXTMD":"Продукт: атрибуты статуса",
+    "TXTLG":"Продукт: атрибуты статуса"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: Atrib.status",
+    "TXTMD":"Producto: Atributos de status",
+    "TXTLG":"Producto: Atributos de status"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Durum ntlk.",
+    "TXTMD":"Ürün: Durum nitelikleri",
+    "TXTLG":"Ürün: Durum nitelikleri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: tilamäär.",
+    "TXTMD":"Tuote: tilamääritteet",
+    "TXTLG":"Tuote: tilamääritteet"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (statusatt.)",
+    "TXTMD":"Produkt (statusattribut)",
+    "TXTLG":"Produkt (statusattribut)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PRODUCT_STATUS_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Status Attr",
+    "TXTMD":"Product: Status Attributes",
+    "TXTLG":"Product: Status Attributes"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PRODUCT_STATUS_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

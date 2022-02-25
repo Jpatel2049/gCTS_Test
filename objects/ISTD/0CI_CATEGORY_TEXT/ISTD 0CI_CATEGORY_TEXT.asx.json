@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CI-IO",
+    "COMSTRU":"0CI_CATEGORY_TEXT",
+    "OWNER":"SCHWARZ",
+    "TSTPNM":"SCHWARZ",
+    "TIMESTMP":"+020020320105318",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020320105318",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"类别 (文本)",
+    "TXTMD":"类别 (文本)",
+    "TXTLG":"类别 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"범주 (텍스트)",
+    "TXTMD":"범주 (텍스트)",
+    "TXTLG":"범주 (텍스트)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategorie (texty)",
+    "TXTMD":"Kategorie (texty)",
+    "TXTLG":"Kategorie (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategorie (Texte)",
+    "TXTMD":"Kategorie (Texte)",
+    "TXTLG":"Kategorie (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Category (Texts)",
+    "TXTMD":"Category (Texts)",
+    "TXTLG":"Category (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Catégorie (textes)",
+    "TXTMD":"Catégorie (textes)",
+    "TXTLG":"Catégorie (textes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategória (szövegek)",
+    "TXTMD":"Kategória (szövegek)",
+    "TXTLG":"Kategória (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Categorie (testi)",
+    "TXTMD":"Categorie (testi)",
+    "TXTLG":"Categorie (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"カテゴリ (テキスト)",
+    "TXTMD":"カテゴリ (テキスト)",
+    "TXTLG":"カテゴリ (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategori (tekster)",
+    "TXTMD":"Kategori (tekster)",
+    "TXTLG":"Kategori (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategoria (teksty)",
+    "TXTMD":"Kategoria (teksty)",
+    "TXTLG":"Kategoria (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"種類〈內文〉",
+    "TXTMD":"種類〈內文〉",
+    "TXTLG":"種類〈內文〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Categorie (teksten)",
+    "TXTMD":"Categorie (teksten)",
+    "TXTLG":"Categorie (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategori (tekster)",
+    "TXTMD":"Kategori (tekster)",
+    "TXTLG":"Kategori (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Categoria (textos)",
+    "TXTMD":"Categoria (textos)",
+    "TXTLG":"Categoria (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategória (texty)",
+    "TXTMD":"Kategória (texty)",
+    "TXTLG":"Kategória (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Категория (тексты)",
+    "TXTMD":"Категория (тексты)",
+    "TXTLG":"Категория (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Categoría (textos)",
+    "TXTMD":"Categoría (textos)",
+    "TXTLG":"Categoría (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategori (metinler)",
+    "TXTMD":"Kategori (metinler)",
+    "TXTLG":"Kategori (metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Luokka (tekstit)",
+    "TXTMD":"Luokka (tekstit)",
+    "TXTLG":"Luokka (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CI_CATEGORY_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kategori (texter)",
+    "TXTMD":"Kategori (texter)",
+    "TXTLG":"Kategori (texter)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CI_CATEGORY_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

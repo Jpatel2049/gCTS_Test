@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"LO-IO",
+    "COMSTRU":"0PLANT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020080602113912",
+    "CONTREL":"7.0/04",
+    "CONTTIMESTMP":"+020080602113912",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"工厂（属性）",
+    "TXTMD":"工厂（属性）",
+    "TXTLG":"工厂（属性）"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"플랜트(속성)",
+    "TXTMD":"플랜트(속성)",
+    "TXTLG":"플랜트(속성)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Attributes)",
+    "TXTMD":"Plant (Attributes)",
+    "TXTLG":"Plant (Attributes)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Závod (atributy)",
+    "TXTMD":"Závod (atributy)",
+    "TXTLG":"Závod (atributy)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Werk (Attribute)",
+    "TXTMD":"Werk (Attribute)",
+    "TXTLG":"Werk (Attribute)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Attributes)",
+    "TXTMD":"Plant (Attributes)",
+    "TXTLG":"Plant (Attributes)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Division (attributs)",
+    "TXTMD":"Division (attributs)",
+    "TXTLG":"Division (attributs)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Attributes)",
+    "TXTMD":"Plant (Attributes)",
+    "TXTLG":"Plant (Attributes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Gyár (attribútumok)",
+    "TXTMD":"Gyár (attribútumok)",
+    "TXTLG":"Gyár (attribútumok)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Divisione (attrib.)",
+    "TXTMD":"Divisione (attributi)",
+    "TXTLG":"Divisione (attributi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"プラント (属性)",
+    "TXTMD":"プラント (属性)",
+    "TXTLG":"プラント (属性)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Fabrik (attributter)",
+    "TXTMD":"Fabrik (attributter)",
+    "TXTLG":"Fabrik (attributter)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Zakład (atrybuty)",
+    "TXTMD":"Zakład (atrybuty)",
+    "TXTLG":"Zakład (atrybuty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"工廠（屬性）",
+    "TXTMD":"工廠（屬性）",
+    "TXTLG":"工廠（屬性）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Vestiging (attr.)",
+    "TXTMD":"Vestiging (attributen)",
+    "TXTLG":"Vestiging (attributen)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Fabrikk (attr.)",
+    "TXTMD":"Fabrikk (attributter)",
+    "TXTLG":"Fabrikk (attributter)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Centro (atributos)",
+    "TXTMD":"Centro (atributos)",
+    "TXTLG":"Centro (atributos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Závod (atribúty)",
+    "TXTMD":"Závod (atribúty)",
+    "TXTLG":"Závod (atribúty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Завод (атрибуты)",
+    "TXTMD":"Завод (атрибуты)",
+    "TXTLG":"Завод (атрибуты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Centro (atributos)",
+    "TXTMD":"Centro (atributos)",
+    "TXTLG":"Centro (atributos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Üretim yr.(nitelik)",
+    "TXTMD":"Üretim yeri (nitelikler)",
+    "TXTLG":"Üretim yeri (nitelikler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tmp (määritteet)",
+    "TXTMD":"Toimipiste (määritteet)",
+    "TXTLG":"Toimipiste (määritteet)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"PE (attribut)",
+    "TXTMD":"Produktionsenhet (attribut)",
+    "TXTLG":"Produktionsenhet (attribut)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Plant (Attributes)",
+    "TXTMD":"Plant (Attributes)",
+    "TXTLG":"Plant (Attributes)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PLANT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUDISILL",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

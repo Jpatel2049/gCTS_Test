@@ -1,0 +1,66 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ACRM_ZDM_COPA",
+    "OBJVERS":"A",
+    "APPLNM":"ZACRM",
+    "COMSTRU":"ACRM_ZDM_COPA",
+    "OWNER":"RUSCHA",
+    "TSTPNM":"RUSCHA",
+    "TIMESTMP":"+020041013125500",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ISOURCE":"ACRM_ZDM_COPA",
+    "OBJVERS":"A",
+    "TXTSH":"Data for Cube ZDM_CO",
+    "TXTMD":"Data for Cube ZDM_COPA",
+    "TXTLG":"Data for Cube ZDM_COPA"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ACRM_ZDM_COPA",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUSCHA",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

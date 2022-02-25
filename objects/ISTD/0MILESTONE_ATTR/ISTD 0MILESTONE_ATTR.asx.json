@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0MILESTONE_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041201094917",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041201094917",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"重要事件 - 主数据",
+    "TXTMD":"重要事件 - 主数据",
+    "TXTLG":"重要事件 - 主数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne - MasterData",
+    "TXTMD":"마일스톤 - 마스터 데이터",
+    "TXTLG":"마일스톤 - 마스터 데이터"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne - MasterData",
+    "TXTMD":"Milestone - Master Data",
+    "TXTLG":"Milestone - Master Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milník - km.data",
+    "TXTMD":"Milníky - km.data",
+    "TXTLG":"Milníky - km.data"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Meilenstein - Stammd",
+    "TXTMD":"Meilenstein - Stammdaten",
+    "TXTLG":"Meilenstein - Stammdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne - MasterData",
+    "TXTMD":"Milestone - Master Data",
+    "TXTLG":"Milestone - Master Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Jalon - données bse",
+    "TXTMD":"Jalon - données de base",
+    "TXTLG":"Jalon - données de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne - MasterData",
+    "TXTMD":"Milestone - Master Data",
+    "TXTLG":"Milestone - Master Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Mérföldkő - törzsada",
+    "TXTMD":"Mérföldkő - törzsadatok",
+    "TXTLG":"Mérföldkő - törzsadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milestone - Dati an.",
+    "TXTMD":"Milestone - Dati anagrafici",
+    "TXTLG":"Milestone - Dati anagrafici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne-マスタデータ",
+    "TXTMD":"マイルストーン - マスタデータ",
+    "TXTLG":"マイルストーン - マスタデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milepæl - stamdata",
+    "TXTMD":"Milepæl - stamdata",
+    "TXTLG":"Milepæl - stamdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Kam.milowy-d.podst.",
+    "TXTMD":"Kamień milowy - dane podstawowe",
+    "TXTLG":"Kamień milowy - dane podstawowe"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"里程碑 - 主檔資料",
+    "TXTMD":"里程碑 - 主檔資料",
+    "TXTLG":"里程碑 - 主檔資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Mijlpaal - stamgeg.",
+    "TXTMD":"Mijlpaal - stamgegevens",
+    "TXTLG":"Mijlpaal - stamgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milepæl - stamdata",
+    "TXTMD":"Milepæl - stamdata",
+    "TXTLG":"Milepæl - stamdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Marco - dados mestre",
+    "TXTMD":"Marco - dados mestre",
+    "TXTLG":"Marco - dados mestre"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Míľnik - km.dáta",
+    "TXTMD":"Míľnik - kmeňové dáta",
+    "TXTLG":"Míľnik - kmeňové dáta"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Этап - осн. данные",
+    "TXTMD":"Этап - основные данные",
+    "TXTLG":"Этап - основные данные"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Hito: Datos maestros",
+    "TXTMD":"Hito: Datos maestros",
+    "TXTLG":"Hito: Datos maestros"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Özgün kntr.nok.- AV",
+    "TXTMD":"Özgün kontrol noktası - ana veriler",
+    "TXTLG":"Özgün kontrol noktası - ana veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tark.piste - perust.",
+    "TXTMD":"Tarkistuspiste - perustiedot",
+    "TXTLG":"Tarkistuspiste - perustiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstolpe - basdata",
+    "TXTMD":"Milstolpe - basdata",
+    "TXTLG":"Milstolpe - basdata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0MILESTONE_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Milstne - MasterData",
+    "TXTMD":"Milestone - Master Data",
+    "TXTLG":"Milestone - Master Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MILESTONE_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

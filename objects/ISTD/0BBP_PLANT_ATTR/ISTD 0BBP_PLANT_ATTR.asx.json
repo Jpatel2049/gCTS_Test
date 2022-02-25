@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0BBP-IO",
+    "COMSTRU":"0BBP_PLANT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030131121154",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030131121154",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"业务合作伙伴编号",
+    "TXTMD":"业务合作伙伴编号分配到 R/3",
+    "TXTLG":"业务合作伙伴编号分配到 R/3 工厂"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"비즈니스 파트너 번호",
+    "TXTMD":"R/3에 비즈니스 파트너 번호 지정",
+    "TXTLG":"R/3 플랜트에 비즈니스 파트너 번호 지정"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner No",
+    "TXTMD":"Business Partner No. Assgmt to R/3",
+    "TXTLG":"Business Partner Number Assgmt to R/3 Plant"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Č.obchodního partn.",
+    "TXTMD":"Přiřazení č. obch.partnera k závodu Rf/3",
+    "TXTLG":"Přiřazení čísla obch.partnera k závodu Rf/3"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Geschäftspartnernumm",
+    "TXTMD":"Geschäftspartnernummer Zuordnung zu R/3",
+    "TXTLG":"Geschäftspartnernummer Zuordnung zu R/3  Werk"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner No",
+    "TXTMD":"Business Partner No. Assgmt to R/3",
+    "TXTLG":"Business Partner Number Assgmt to R/3 Plant"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Numéro partenaire",
+    "TXTMD":"Affectation partenaire à division R/3",
+    "TXTLG":"Affectation partenaire à division R/3"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner No",
+    "TXTMD":"Business Partner No. Assgmt to R/3",
+    "TXTLG":"Business Partner Number Assgmt to R/3 Plant"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Üzleti partner száma",
+    "TXTMD":"Üzl.partner-szám hozzárendelése R/3-hoz",
+    "TXTLG":"Üzletipartner-szám hozzárendelése R/3-hoz gyár"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"N. business partner",
+    "TXTMD":"N. business partner attribuzione a R/3",
+    "TXTLG":"N. business partner attribuzione per R/3 divisione"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ビジネスパートナ番号",
+    "TXTMD":"ビジネスパートナ番号を R/3 へ割当",
+    "TXTLG":"ビジネスパートナ番号を R/3 プラントへ割当"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ForretnPartnernr.",
+    "TXTMD":"Forretningspartnernr. allokering til R/3",
+    "TXTLG":"Forretningspartnernummer allokering til R/3-fabrik"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nr partnera handl.",
+    "TXTMD":"Przyp. numeru partn. bizn. do zakł.(R/3)",
+    "TXTLG":"Przypisanie numeru partnera biznesowego do zakładu (R/3)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"業務夥伴號碼",
+    "TXTMD":"業務夥伴號碼指派至 R/3 工廠",
+    "TXTLG":"業務夥伴號碼指派至 R/3 工廠"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer zakenpartner",
+    "TXTMD":"Toewijzing nummer zakenpartner aan R/3",
+    "TXTLG":"Toewijzing nummer zakenpartner aan R/3 vestiging"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Forr.partnernummer",
+    "TXTMD":"Forretningspartnernr. - tilordn. til R/3",
+    "TXTLG":"Forretningspartnernummer - tilordning til R/3-fabrikk"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nº parceiro negócios",
+    "TXTMD":"Atribuição nº parceiro a R/3 Enterprise",
+    "TXTLG":"Atribuição de nº de parceiro a centro R/3 Enterprise"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Čís.obchod.partnera",
+    "TXTMD":"Prirad.čísla obch.partnera k závodu R/3",
+    "TXTLG":"Priradenie čísla obchodného partnera k závodu R/3"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Номер дел. партнера",
+    "TXTMD":"Номер ДП: присвоение к заводу R/3",
+    "TXTLG":"Номер делового партнера: присвоение к заводу R/3"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nº interl.comercial",
+    "TXTMD":"Núm.interl.comercial asign.centro R/3",
+    "TXTLG":"Número de interlocutor comercial asignación a centro R/3"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Muhatap numarası",
+    "TXTMD":"R/3 üretim yerine muhatap no.tayini",
+    "TXTLG":"R/3 üretim yerine muhatap numarası tayini"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Liikekumppaninumero",
+    "TXTMD":"Liikekumppaninumero, kohdistus -> R/3",
+    "TXTLG":"Liikekumppaninumero, kohdistus R/3-toimipisteeseen"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Affärspartnernummer",
+    "TXTMD":"Affärspartnernummer allokering till R/3",
+    "TXTLG":"Affärspartnernummer allokering till R/3 PE"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BBP_PLANT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner No",
+    "TXTMD":"Business Partner No. Assgmt to R/3",
+    "TXTLG":"Business Partner Number Assgmt to R/3 Plant"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BBP_PLANT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

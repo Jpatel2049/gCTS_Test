@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM-IO",
+    "COMSTRU":"0CRM_PR_MAT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030610103115",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030610103115",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 产品: MATNR/LSTN",
+    "TXTMD":"CRM 产品: MATNR/LSTNR",
+    "TXTLG":"CRM 产品: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 제품:MATNR/LSTNR",
+    "TXTMD":"CRM 제품: MATNR/LSTNR",
+    "TXTLG":"CRM 제품: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Product: MATNR/L",
+    "TXTMD":"CRM Product: MATNR/LSTNR",
+    "TXTLG":"CRM Product: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Produkt: MATNR/L",
+    "TXTMD":"CRM Produkt: MATNR/LSTNR",
+    "TXTLG":"CRM Produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Produkt: MATNR/L",
+    "TXTMD":"CRM Produkt: MATNR/LSTNR",
+    "TXTLG":"CRM Produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Product: MATNR/L",
+    "TXTMD":"CRM Product: MATNR/LSTNR",
+    "TXTLG":"CRM Product: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM produit: MATNR/L",
+    "TXTMD":"CRM produit : MATNR/LSTNR",
+    "TXTLG":"CRM produit : MATNR/LSTNR"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Product: MATNR/L",
+    "TXTMD":"CRM Product: MATNR/LSTNR",
+    "TXTLG":"CRM Product: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM term.MATNR/LSTNR",
+    "TXTMD":"CRM termék: MATNR/LSTNR",
+    "TXTLG":"CRM termék: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod. CRM: MATNR/LST",
+    "TXTMD":"Prodotto CRM: MATNR/LSTNR",
+    "TXTLG":"Prodotto CRM: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 製品: MATNR/L",
+    "TXTMD":"CRM 製品: MATNR/LSTNR",
+    "TXTLG":"CRM 製品: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM produkt: MATNR/L",
+    "TXTMD":"CRM produkt: MATNR/LSTNR",
+    "TXTLG":"CRM produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Produkt: MATNR/L",
+    "TXTMD":"CRM Produkt: MATNR/LSTNR",
+    "TXTLG":"CRM Produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 產品：MATNR/L",
+    "TXTMD":"CRM 產品：MATNR/LSTNR",
+    "TXTLG":"CRM 產品：MATNR/LSTNR"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM-product: MATNR/L",
+    "TXTMD":"CRM-product: MATNR/LSTNR",
+    "TXTLG":"CRM-product: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM-prod:MATNR/LSTNR",
+    "TXTMD":"CRM-produkt: MATNR/LSTNR",
+    "TXTLG":"CRM-produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.CRM:MATNR/LSTNR",
+    "TXTMD":"Produto CRM: MATNR/LSTNR",
+    "TXTLG":"Produto CRM: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Produkt: MATNR/L",
+    "TXTMD":"CRM Produkt: MATNR/LSTNR",
+    "TXTLG":"CRM Produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM-продукт: MATNR/L",
+    "TXTMD":"CRM-продукт MATNR/LSTNR",
+    "TXTLG":"CRM-продукт MATNR/LSTNR"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.CRM: MATNR/LSTN",
+    "TXTMD":"Producto CRM: MATNR/LSTNR",
+    "TXTLG":"Producto CRM: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM ür.: MATNR/LSTNR",
+    "TXTMD":"CRM ürünü: MATNR/LSTNR",
+    "TXTLG":"CRM ürünü: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM-tuote: MATNR/L",
+    "TXTMD":"CRM-tuote: MATNR/LSTNR",
+    "TXTLG":"CRM-tuote: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM-produkt: MATNR/L",
+    "TXTMD":"CRM-produkt: MATNR/LSTNR",
+    "TXTLG":"CRM-produkt: MATNR/LSTNR"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0CRM_PR_MAT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Product: MATNR/L",
+    "TXTMD":"CRM Product: MATNR/LSTNR",
+    "TXTLG":"CRM Product: MATNR/LSTNR"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_PR_MAT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

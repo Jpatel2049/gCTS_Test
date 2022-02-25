@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "APPLNM":"0DB",
+    "COMSTRU":"0DBDUNS_APPENDIX_ATTR_1",
+    "OWNER":"REYM",
+    "TSTPNM":"SCHWARZ",
+    "TIMESTMP":"+020030123160753",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030123160753",
+    "BCTCOMP":"DP_DB",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"催款和电子表格 A",
+    "TXTMD":"US 标识的催款和电子表格附加",
+    "TXTLG":"US 标识的催款和电子表格附加"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"Dun and Bradstreet US 부록 지시자",
+    "TXTLG":"Dun and Bradstreet US 부록 지시자"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"Dun and Bradstreet Appendix for US Indic",
+    "TXTLG":"Dun and Bradstreet Appendix for US Indicators"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet-d.",
+    "TXTMD":"Dun & Bradstreet - dodatek pro indik.US",
+    "TXTLG":"Dun & Bradstreet - dodatek pro indikátory US"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet Anh",
+    "TXTMD":"Dun & Bradstreet Anhang für US-Indik.",
+    "TXTLG":"Dun & Bradstreet Anhang für US-Indikatoren"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"Dun and Bradstreet Appendix for US Indic",
+    "TXTLG":"Dun and Bradstreet Appendix for US Indicators"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Annexe Dun & Bradstr",
+    "TXTMD":"Annexe Dun & Bradstreet pour indicateur",
+    "TXTLG":"Annexe Dun & Bradstreet pour indicateur US"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"Dun and Bradstreet Appendix for US Indic",
+    "TXTLG":"Dun and Bradstreet Appendix for US Indicators"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet mll",
+    "TXTMD":"Dun & Bradstreet melléklet US-indik.",
+    "TXTLG":"Dun & Bradstreet melléklet US-indikátorokhoz"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet all",
+    "TXTMD":"Dun & Bradstreet alleg. per ind. US",
+    "TXTLG":"Dun & Bradstreet allegato per indicatori US"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B 補足",
+    "TXTMD":"D&B US フラグの補足",
+    "TXTLG":"D&B US フラグの補足"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B - bilag",
+    "TXTMD":"Dun & Bradstreet - bilag til US-indik.",
+    "TXTLG":"Dun & Bradstreet - bilag til US-indikatorer"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet:",
+    "TXTMD":"Dun & Bradstreet: Dodatek dla wskaźn.",
+    "TXTLG":"Dun & Bradstreet: Dodatek dla wskaźników US"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"US 指示碼的 Dun and Bradstreet 附錄",
+    "TXTLG":"US 指示碼的 Dun and Bradstreet 附錄"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B-appendix",
+    "TXTMD":"Dun & Bradstreet-appendix voor US-ID's",
+    "TXTLG":"Dun & Bradstreet-appendix voor US-ID's"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B: Vedlegg",
+    "TXTMD":"Dun & Bradstreet: Vedlegg for US-ind.",
+    "TXTLG":"Dun & Bradstreet: Vedlegg for US-indikatorer"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B anexo",
+    "TXTMD":"Dun & Bradstreet anexo para indics.US",
+    "TXTLG":"Dun & Bradstreet anexo para indicadores US"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet-dod",
+    "TXTMD":"Dun & Bradstreet - dodatok pre indik.US",
+    "TXTLG":"Dun & Bradstreet - dodatok pre indikátory US"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet пр.",
+    "TXTMD":"Dun & Bradstreet: приложение для US-инд.",
+    "TXTLG":"Dun & Bradstreet: приложение для US-индикаторов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet an.",
+    "TXTMD":"Dun & Bradstreet anexo p.ID EEUU",
+    "TXTLG":"Dun & Bradstreet anexo para indicadores EEUU"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun & Bradstreet ek",
+    "TXTMD":"Dun & Bradstreet US göstergeleri için ek",
+    "TXTLG":"Dun & Bradstreet US göstergeleri için ek"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B - liite",
+    "TXTMD":"D&B - liite US-tunnisteita varten",
+    "TXTLG":"Dun & Bradstreet - liite US-tunnisteita varten"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"D&B: Bilaga",
+    "TXTMD":"D&B: Bilaga för US-indikatorer",
+    "TXTLG":"D&B: Bilaga för US-indikatorer"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0DBDUNS_APPENDIX_ATTR_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dun and Bradstreet A",
+    "TXTMD":"Dun and Bradstreet Appendix for US Indic",
+    "TXTLG":"Dun and Bradstreet Appendix for US Indicators"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0DBDUNS_APPENDIX_ATTR_1",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUDISILL",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

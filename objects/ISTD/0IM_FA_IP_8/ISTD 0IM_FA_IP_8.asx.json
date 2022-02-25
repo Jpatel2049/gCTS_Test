@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "APPLNM":"IM-IO",
+    "COMSTRU":"0IM_FA_IP_8",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020000317111619",
+    "CONTREL":"2.0/02",
+    "CONTTIMESTMP":"+020000317111619",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"订单分配",
+    "TXTMD":"订单分配",
+    "TXTLG":"订单分配"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"오더 지정",
+    "TXTMD":"오더 지정",
+    "TXTLG":"오더 지정"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Assignment of Orders",
+    "TXTMD":"Assignment of Orders",
+    "TXTLG":"Assignment of Orders"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Přiřazení zakázek",
+    "TXTMD":"Přiřazení zakázek",
+    "TXTLG":"Přiřazení zakázek"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Zuordnung Aufträge",
+    "TXTMD":"Zuordnung Aufträge",
+    "TXTLG":"Zuordnung Aufträge"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Assignment of Orders",
+    "TXTMD":"Assignment of Orders",
+    "TXTLG":"Assignment of Orders"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Affectation d'ordres",
+    "TXTMD":"Affectation d'ordres",
+    "TXTLG":"Affectation d'ordres"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Assignment of Orders",
+    "TXTMD":"Assignment of Orders",
+    "TXTLG":"Assignment of Orders"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Rendelések hozzárend",
+    "TXTMD":"Rendelések hozzárendelése",
+    "TXTLG":"Rendelések hozzárendelése"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Attribuzione ordini",
+    "TXTMD":"Attribuzione ordini",
+    "TXTLG":"Attribuzione ordini"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"指図割当",
+    "TXTMD":"指図割当",
+    "TXTLG":"指図割当"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Allokering af ordrer",
+    "TXTMD":"Allokering af ordrer",
+    "TXTLG":"Allokering af ordrer"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Przypisanie zleceń",
+    "TXTMD":"Przypisanie zleceń",
+    "TXTLG":"Przypisanie zleceń"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"工單指派",
+    "TXTMD":"工單指派",
+    "TXTLG":"工單指派"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Toewijzing orders",
+    "TXTMD":"Toewijzing orders",
+    "TXTLG":"Toewijzing orders"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Tilordning ordrer",
+    "TXTMD":"Tilordning ordrer",
+    "TXTLG":"Tilordning ordrer"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Atribuição ordens",
+    "TXTMD":"Atribuição ordens",
+    "TXTLG":"Atribuição ordens"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Priradenie zákaziek",
+    "TXTMD":"Priradenie zákaziek",
+    "TXTLG":"Priradenie zákaziek"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Присвоение заказов",
+    "TXTMD":"Присвоение заказов",
+    "TXTLG":"Присвоение заказов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Asignación órdenes",
+    "TXTMD":"Asignación órdenes",
+    "TXTLG":"Asignación órdenes"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Siparişlerin tayini",
+    "TXTMD":"Siparişlerin tayini",
+    "TXTLG":"Siparişlerin tayini"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Tilausten kohdistus",
+    "TXTMD":"Tilausten kohdistus",
+    "TXTLG":"Tilausten kohdistus"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Allokering - order",
+    "TXTMD":"Allokering - order",
+    "TXTLG":"Allokering - order"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0IM_FA_IP_8",
+    "OBJVERS":"A",
+    "TXTSH":"Assignment of Orders",
+    "TXTMD":"Assignment of Orders",
+    "TXTLG":"Assignment of Orders"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0IM_FA_IP_8",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

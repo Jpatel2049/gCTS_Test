@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_GENERIC",
+    "COMSTRU":"0WEB_GEN_01",
+    "OWNER":"HERGERM",
+    "TSTPNM":"HERGERM",
+    "TIMESTMP":"+020020409234719",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020409234719",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"一般事件",
+    "TXTMD":"一般事件",
+    "TXTLG":"一般事件"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"일반이벤트",
+    "TXTMD":"일반이벤트",
+    "TXTLG":"일반이벤트"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generické události",
+    "TXTMD":"Generické události",
+    "TXTLG":"Generické události"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generische Ereigniss",
+    "TXTMD":"Generische Ereignisse",
+    "TXTLG":"Generische Ereignisse"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Events",
+    "TXTMD":"Generic Events",
+    "TXTLG":"Generic Events"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"EvénementsGénériques",
+    "TXTMD":"Evénements génériques",
+    "TXTLG":"Evénements génériques"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generikus események",
+    "TXTMD":"Generikus események",
+    "TXTLG":"Generikus események"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Eventi generici",
+    "TXTMD":"Eventi generici",
+    "TXTLG":"Eventi generici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"ジェネリックイベント",
+    "TXTMD":"ジェネリックイベント",
+    "TXTLG":"ジェネリックイベント"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generiske hændelser",
+    "TXTMD":"Generiske hændelser",
+    "TXTLG":"Generiske hændelser"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenia ogólne",
+    "TXTMD":"Zdarzenia ogólne",
+    "TXTLG":"Zdarzenia ogólne"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"同種類事件",
+    "TXTMD":"同種類事件",
+    "TXTLG":"同種類事件"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generieke resultaten",
+    "TXTMD":"Generieke resultaten",
+    "TXTLG":"Generieke resultaten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generiske hendelser",
+    "TXTMD":"Generiske hendelser",
+    "TXTLG":"Generiske hendelser"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Eventos genéricos",
+    "TXTMD":"Eventos genéricos",
+    "TXTLG":"Eventos genéricos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generické udalosti",
+    "TXTMD":"Generické udalosti",
+    "TXTLG":"Generické udalosti"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Родовые события",
+    "TXTMD":"Родовые события",
+    "TXTLG":"Родовые события"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Eventos genéricos",
+    "TXTMD":"Eventos genéricos",
+    "TXTLG":"Eventos genéricos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Genel olaylar",
+    "TXTMD":"Genel olaylar",
+    "TXTLG":"Genel olaylar"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Gen. tapahtumat",
+    "TXTMD":"Geneeriset tapahtumat",
+    "TXTLG":"Geneeriset tapahtumat"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_GEN_01",
+    "OBJVERS":"A",
+    "TXTSH":"Generiska händelser",
+    "TXTMD":"Generiska händelser",
+    "TXTLG":"Generiska händelser"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_GEN_01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

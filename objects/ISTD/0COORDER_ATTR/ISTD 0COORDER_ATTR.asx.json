@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"CO-OM-OPA-IO",
+    "COMSTRU":"0COORDER_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020050113110251",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020050113110251",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"订单 - 主数据",
+    "TXTMD":"订单 - 主数据",
+    "TXTLG":"订单 - 主数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"오더 - 마스터 데이터",
+    "TXTMD":"오더 - 마스터 데이터",
+    "TXTLG":"오더 - 마스터 데이터"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Master Data",
+    "TXTMD":"Orders - Master Data",
+    "TXTLG":"Orders - Master Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Zakázky - km.data",
+    "TXTMD":"Zakázky - km.data",
+    "TXTLG":"Zakázky - km.data"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Aufträge - Stammdate",
+    "TXTMD":"Aufträge - Stammdaten",
+    "TXTLG":"Aufträge - Stammdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Master Data",
+    "TXTMD":"Orders - Master Data",
+    "TXTLG":"Orders - Master Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ordres - Données bas",
+    "TXTMD":"Ordres - Données de base",
+    "TXTLG":"Ordres - Données de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Master Data",
+    "TXTMD":"Orders - Master Data",
+    "TXTLG":"Orders - Master Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Rendelések - törzsad",
+    "TXTMD":"Rendelések - törzsadatok",
+    "TXTLG":"Rendelések - törzsadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ordini - dati anagr.",
+    "TXTMD":"Ordini - dati anagrafici",
+    "TXTLG":"Ordini - dati anagrafici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"受注 - マスタデータ",
+    "TXTMD":"受注 - マスタデータ",
+    "TXTLG":"受注 - マスタデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ordrer - stamdata",
+    "TXTMD":"Ordrer - stamdata",
+    "TXTLG":"Ordrer - stamdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Zlecenia-dane podst.",
+    "TXTMD":"Zlecenia - dane podstawowe",
+    "TXTLG":"Zlecenia - dane podstawowe"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"訂單 - 主檔資料",
+    "TXTMD":"訂單 - 主檔資料",
+    "TXTLG":"訂單 - 主檔資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - stamgeg.",
+    "TXTMD":"Orders - stamgegevens",
+    "TXTLG":"Orders - stamgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ordre - stamdata",
+    "TXTMD":"Ordre - stamdata",
+    "TXTLG":"Ordre - stamdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ordens-dados mestre",
+    "TXTMD":"Ordens - dados mestre",
+    "TXTLG":"Ordens - dados mestre"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Zákazky - km.dáta",
+    "TXTMD":"Zákazky - kmeňové dáta",
+    "TXTLG":"Zákazky - kmeňové dáta"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Заказы - ОснДанные",
+    "TXTMD":"Заказы - осн. данные",
+    "TXTLG":"Заказы - осн. данные"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Órdenes: Datos maes.",
+    "TXTMD":"Órdenes: Datos maestros",
+    "TXTLG":"Órdenes: Datos maestros"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Siparişler - ana vr.",
+    "TXTMD":"Siparişler - ana veriler",
+    "TXTLG":"Siparişler - ana veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tilaukset - per.tied",
+    "TXTMD":"Tilaukset - perustiedot",
+    "TXTLG":"Tilaukset - perustiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Order - basdata",
+    "TXTMD":"Order - basdata",
+    "TXTLG":"Order - basdata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0COORDER_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Orders - Master Data",
+    "TXTMD":"Orders - Master Data",
+    "TXTLG":"Orders - Master Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0COORDER_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

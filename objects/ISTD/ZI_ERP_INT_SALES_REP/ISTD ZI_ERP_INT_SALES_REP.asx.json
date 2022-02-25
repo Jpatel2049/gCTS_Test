@@ -1,0 +1,66 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ZI_ERP_INT_SALES_REP",
+    "OBJVERS":"A",
+    "APPLNM":"ZI_ERP_CLOSED_LOOP",
+    "COMSTRU":"ZI_ERP_INT_SALES_REP",
+    "OWNER":"D043682",
+    "TSTPNM":"D043682",
+    "TIMESTMP":"+020050121102042",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ISOURCE":"ZI_ERP_INT_SALES_REP",
+    "OBJVERS":"A",
+    "TXTSH":"ERP Internal Sales R",
+    "TXTMD":"ERP Internal Sales Representative",
+    "TXTLG":"ERP Internal Sales Representative"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ZI_ERP_INT_SALES_REP",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"D043682",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

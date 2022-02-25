@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0MDM_PRD",
+    "COMSTRU":"0MDM_PCA_ATTR",
+    "OWNER":"HAURYA",
+    "TSTPNM":"HAURYA",
+    "TIMESTMP":"+020040817075956",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020040817075956",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品类别属性",
+    "TXTMD":"产品类别属性",
+    "TXTLG":"产品类别属性"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품 범주 속성",
+    "TXTMD":"제품 범주 속성",
+    "TXTLG":"제품 범주 속성"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Atributy kat.produk.",
+    "TXTMD":"Atributy kategorie produktů",
+    "TXTLG":"Atributy kategorie produktů"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategorieatt.",
+    "TXTMD":"Produktkategorieattribute",
+    "TXTLG":"Produktkategorieattribute"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"product category att",
+    "TXTMD":"product category attributes",
+    "TXTLG":"product category attributes"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Attr. catég. produit",
+    "TXTMD":"Attributs catégorie produit",
+    "TXTLG":"Attributs catégorie produit"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termékkateg.-attrib.",
+    "TXTMD":"Termékkategória-attribútumok",
+    "TXTLG":"Termékkategória-attribútumok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Attr. cat. prodotto",
+    "TXTMD":"Attributi categoria prodotto",
+    "TXTLG":"Attributi categoria prodotto"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品カテゴリ属性",
+    "TXTMD":"製品カテゴリ属性",
+    "TXTLG":"製品カテゴリ属性"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategoriattr.",
+    "TXTMD":"Produktkategoriattributter",
+    "TXTLG":"Produktkategoriattributter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Atrybuty kat. prod.",
+    "TXTMD":"Atrybuty kategorii produktów",
+    "TXTLG":"Atrybuty kategorii produktów"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品種類屬性",
+    "TXTMD":"產品種類屬性",
+    "TXTLG":"產品種類屬性"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Productcategorieatt.",
+    "TXTMD":"Productcategorieattributen",
+    "TXTLG":"Productcategorieattributen"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategoriattr.",
+    "TXTMD":"Produktkategoriattributter",
+    "TXTLG":"Produktkategoriattributter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Atributo ctg.produto",
+    "TXTMD":"Atributos da categoria do produto",
+    "TXTLG":"Atributos da categoria do produto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Atr.kategórie prod.",
+    "TXTMD":"Atribúty kategórie produktu",
+    "TXTLG":"Atribúty kategórie produktu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"АтрибКатегПродуктов",
+    "TXTMD":"Атрибуты категории продуктов",
+    "TXTLG":"Атрибуты категории продуктов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Atrib.categ.prod.",
+    "TXTMD":"Atributos categoría producto",
+    "TXTLG":"Atributos categoría producto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün kategorisi ntl.",
+    "TXTMD":"Ürün kategorisi nitelikleri",
+    "TXTLG":"Ürün kategorisi nitelikleri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuoteluokkamääritt.",
+    "TXTMD":"Tuoteluokkamääritteet",
+    "TXTLG":"Tuoteluokkamääritteet"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MDM_PCA_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategoriattr.",
+    "TXTMD":"Produktkategoriattribut",
+    "TXTLG":"Produktkategoriattribut"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MDM_PCA_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

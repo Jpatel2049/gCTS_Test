@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PRODUCT_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020021206115015",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020021206115015",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 文本",
+    "TXTMD":"产品: 文本",
+    "TXTLG":"产品: 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 텍스트",
+    "TXTMD":"제품: 텍스트",
+    "TXTLG":"제품: 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts",
+    "TXTMD":"Product: Texts",
+    "TXTLG":"Product: Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texty",
+    "TXTMD":"Produkt: Texty",
+    "TXTLG":"Produkt: Texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texte",
+    "TXTMD":"Produkt: Texte",
+    "TXTLG":"Produkt: Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts",
+    "TXTMD":"Product: Texts",
+    "TXTLG":"Product: Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : textes",
+    "TXTMD":"Produit : textes",
+    "TXTLG":"Produit : textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts",
+    "TXTMD":"Product: Texts",
+    "TXTLG":"Product: Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: szövegek",
+    "TXTMD":"Termék: szövegek",
+    "TXTLG":"Termék: szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto testi",
+    "TXTMD":"Prodotto testi",
+    "TXTLG":"Prodotto testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"製品: テキスト",
+    "TXTMD":"製品: テキスト",
+    "TXTLG":"製品: テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Tekster",
+    "TXTMD":"Produkt: Tekster",
+    "TXTLG":"Produkt: Tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Teksty",
+    "TXTMD":"Produkt: Teksty",
+    "TXTLG":"Produkt: Teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"產品：內文",
+    "TXTMD":"產品：內文",
+    "TXTLG":"產品：內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: teksten",
+    "TXTMD":"Product: teksten",
+    "TXTLG":"Product: teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Tekster",
+    "TXTMD":"Produkt: Tekster",
+    "TXTLG":"Produkt: Tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: textos",
+    "TXTMD":"Produto: textos",
+    "TXTLG":"Produto: textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texty",
+    "TXTMD":"Produkt: Texty",
+    "TXTLG":"Produkt: Texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: тексты",
+    "TXTMD":"Продукт: тексты",
+    "TXTLG":"Продукт: тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: Textos",
+    "TXTMD":"Producto: Textos",
+    "TXTLG":"Producto: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Metinler",
+    "TXTMD":"Ürün: Metinler",
+    "TXTLG":"Ürün: Metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: tekstit",
+    "TXTMD":"Tuote: tekstit",
+    "TXTLG":"Tuote: tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texter",
+    "TXTMD":"Produkt: Texter",
+    "TXTLG":"Produkt: Texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PRODUCT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts",
+    "TXTMD":"Product: Texts",
+    "TXTLG":"Product: Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PRODUCT_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_GENERIC",
+    "COMSTRU":"0WEB_MAP_01",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020726173638",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020726173638",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"映射信息对象字段名",
+    "TXTMD":"映射信息对象字段名",
+    "TXTLG":"映射信息对象字段名"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"IO 필드이름 매핑",
+    "TXTMD":"인포오브젝트 필드이름 매핑",
+    "TXTLG":"인포오브젝트 필드이름 매핑"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapov.názvu pole IO",
+    "TXTMD":"Mapování názvu pole infoobjektu",
+    "TXTLG":"Mapování názvu pole infoobjektu"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapping InfoObjekt-F",
+    "TXTMD":"Mapping InfoObjekt-Feldname",
+    "TXTLG":"Mapping InfoObjekt-Feldname"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapping IO Field Nme",
+    "TXTMD":"Mapping InfoObject Field Name",
+    "TXTLG":"Mapping InfoObject Field Name"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mappage zone InfoObj",
+    "TXTMD":"Mappage nom de zone InfoObjet",
+    "TXTLG":"Mappage nom de zone InfoObjet"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapping infóobj.mező",
+    "TXTMD":"Mapping infóobjektum-mezőnév",
+    "TXTLG":"Mapping infóobjektum-mezőnév"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapp.no.cmp.InfoObj.",
+    "TXTMD":"Mappaggio nome campo InfoObject",
+    "TXTLG":"Mappaggio nome campo InfoObject"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"IO 項目名マッピング",
+    "TXTMD":"インフォオブジェクト項目名マッピング",
+    "TXTLG":"インフォオブジェクト項目名マッピング"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapping InfoObject-f",
+    "TXTMD":"Mapping InfoObject-feltnavn",
+    "TXTLG":"Mapping InfoObject-feltnavn"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapow. ob. inf.-n.p.",
+    "TXTMD":"Mapowanie obiekt informacji - nazwa pola",
+    "TXTLG":"Mapowanie obiekt informacji - nazwa pola"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"對映 IO 欄位名稱",
+    "TXTMD":"對映 InfoObject 欄位名稱",
+    "TXTLG":"對映 InfoObject 欄位名稱"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapping IO-veldnaam",
+    "TXTMD":"Mapping InfoObject-veldnaam",
+    "TXTLG":"Mapping InfoObject-veldnaam"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Kobl. IO - feltnavn",
+    "TXTMD":"Kobling infoobjekt - feltnavn",
+    "TXTLG":"Kobling infoobjekt - feltnavn"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Map.nome.cpo.InfoObj",
+    "TXTMD":"Mapeamento nome do campo InfoObjeto",
+    "TXTLG":"Mapeamento nome do campo InfoObjeto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mapov.náz.p.infoobj.",
+    "TXTMD":"Mapovanie názvu poľa infoobjektu",
+    "TXTLG":"Mapovanie názvu poľa infoobjektu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Мэппинг-ИмяПоляИнфОб",
+    "TXTMD":"Мэппинг - имя поля инфо-объекта",
+    "TXTLG":"Мэппинг - имя поля инфо-объекта"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Asign.InfoObj.- Cpo.",
+    "TXTMD":"Asignación InfoObjeto-nombre campo",
+    "TXTLG":"Asignación InfoObjeto-nombre campo"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Bil.nsn.aln.adı eşl.",
+    "TXTMD":"Bilgi nesnesi alanı adı eşlemesi",
+    "TXTLG":"Bilgi nesnesi alanı adı eşlemesi"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Kart. IO-kentän nimi",
+    "TXTMD":"Kartoitus - info-objektin kentän nimi",
+    "TXTLG":"Kartoitus - info-objektin kentän nimi"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_MAP_01",
+    "OBJVERS":"A",
+    "TXTSH":"Mappn. infoobj.fältn",
+    "TXTMD":"Mappning fältnamn infoobjekt",
+    "TXTLG":"Mappning fältnamn infoobjekt"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_MAP_01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

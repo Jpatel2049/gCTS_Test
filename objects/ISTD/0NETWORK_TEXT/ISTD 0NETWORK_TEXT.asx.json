@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0NETWORK_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041209072156",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041209072156",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"网络 - 文本",
+    "TXTMD":"网络 - 文本",
+    "TXTLG":"网络 - 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"네트워크 - 텍스트",
+    "TXTMD":"네트워크 - 텍스트",
+    "TXTLG":"네트워크 - 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Texts",
+    "TXTMD":"Network - Texts",
+    "TXTLG":"Network - Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Síť.diag.- texty",
+    "TXTMD":"Síť.diag.- texty",
+    "TXTLG":"Síť.diag.- texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Netzplan - Texte",
+    "TXTMD":"Netzplan - Texte",
+    "TXTLG":"Netzplan - Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Texts",
+    "TXTMD":"Network - Texts",
+    "TXTLG":"Network - Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Réseau - textes",
+    "TXTMD":"Réseau - textes",
+    "TXTLG":"Réseau - textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Texts",
+    "TXTMD":"Network - Texts",
+    "TXTLG":"Network - Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Hálóterv - szövegek",
+    "TXTMD":"Hálóterv - szövegek",
+    "TXTLG":"Hálóterv - szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Testi",
+    "TXTMD":"Network - Testi",
+    "TXTLG":"Network - Testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - テキスト",
+    "TXTMD":"ネットワーク - テキスト",
+    "TXTLG":"ネットワーク - テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Netværk - tekster",
+    "TXTMD":"Netværk - tekster",
+    "TXTLG":"Netværk - tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Sieć - teksty",
+    "TXTMD":"Sieć - teksty",
+    "TXTLG":"Sieć - teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"網狀圖 - 內文",
+    "TXTMD":"網狀圖 - 內文",
+    "TXTLG":"網狀圖 - 內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"NW-plan - teksten",
+    "TXTMD":"Netwerkplan - teksten",
+    "TXTLG":"Netwerkplan - teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nettverk - tekster",
+    "TXTMD":"Nettverk - tekster",
+    "TXTLG":"Nettverk - tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Diagrama rede-textos",
+    "TXTMD":"Diagrama rede-textos",
+    "TXTLG":"Diagrama rede-textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Sieť.diagr.- texty",
+    "TXTMD":"Sieť.diagram - texty",
+    "TXTLG":"Sieť.diagram - texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"СетГрафик - тексты",
+    "TXTMD":"СетГрафик - тексты",
+    "TXTLG":"СетГрафик - тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Grafo: Textos",
+    "TXTMD":"Grafo: Textos",
+    "TXTLG":"Grafo: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ağ planı - metinler",
+    "TXTMD":"Ağ planı - metinler",
+    "TXTLG":"Ağ planı - metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Verkko - tekstit",
+    "TXTMD":"Verkko - tekstit",
+    "TXTLG":"Verkko - tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nätverk - texter",
+    "TXTMD":"Nätverk - texter",
+    "TXTLG":"Nätverk - texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0NETWORK_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Network - Texts",
+    "TXTMD":"Network - Texts",
+    "TXTLG":"Network - Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0NETWORK_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

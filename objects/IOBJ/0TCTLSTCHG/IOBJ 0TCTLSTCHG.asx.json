@@ -1,0 +1,314 @@
+[
+ {
+  "table":"RSDCHA",
+  "data":
+  [
+   {
+    "CHANM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "CHABASNM":"0TCTTIMSTMP",
+    "BCHREFFL":"X",
+    "CMPSTA":"",
+    "CHACONST":"",
+    "AUTHRELFL":"",
+    "AUTHFIELD":"",
+    "MASTAUTHFL":"",
+    "BDSFL":"",
+    "ODSFL":"",
+    "DEFMEMBER":"",
+    "CHAPRSNT":"2",
+    "CHANAV":"0",
+    "CHASEL":"0",
+    "TXTDEF":"",
+    "F4PRSNT":"",
+    "BWSTATISTICS":"",
+    "BWSTATWHM":"",
+    "QPROPVERS":0,
+    "READMODE":"H",
+    "CACHEMODE":"1",
+    "CACHEDELAY":0,
+    "NLREADMODE":"",
+    "NOPARALLELQDEF":"",
+    "KIDSEL":"",
+    "CACHEUSEREXIT":"",
+    "NOHPA":"",
+    "TREXOPS":"",
+    "MATERIALIZEQUERYLAYER":"",
+    "PACKFLQDEF":"",
+    "HANAMODELFL":"",
+    "SUPP_QUERY_W_DUPL_KYF":"",
+    "CACHEUSAGEMODE":"",
+    "DATA_INTEGRITY_SCENARIO":"",
+    "READ_CHILD_KIDS":"",
+    "AUTOREFRESH":"",
+    "CB_DATA_INTEGRITY_SCENARIO":"",
+    "CB_READMODE":"",
+    "CB_ACTUALDATA":"",
+    "CB_NLREADMODE":"",
+    "CB_CACHEMODE":"",
+    "CB_DELTACACHE":"",
+    "CB_PARTITIONMODE":"",
+    "CB_TREXOPS":"",
+    "CB_MATERIALIZEQUERYLAYER":"",
+    "CB_KIDSEL":"",
+    "CB_PACKFLQDEF":"",
+    "CB_NOPARALLELQDEF":"",
+    "CB_CACHEUSEREXIT":"",
+    "CB_CACHEDELAY":"",
+    "CB_CACHEUSAGEMODE":"",
+    "CB_AUTOREFRESH":"",
+    "NOINFOPROVFL":"",
+    "MIME_TYPE":"",
+    "DIFFERS_FROM_BAS":"",
+    "SORTINITIALKEYFL":""
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBJ",
+  "data":
+  [
+   {
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "IOBJTP":"CHA",
+    "OBJSTAT":"ACT",
+    "CONTREL":"2.0/02",
+    "CONTTIMESTMP":"+020000126164216",
+    "OWNER":"SAP",
+    "BWAPPL":"BW",
+    "ACTIVFL":"X",
+    "PROTECFL":"",
+    "PRIVATEFL":"",
+    "FIELDNM":"TCTLSTCHG",
+    "ATRONLYFL":"",
+    "BCTCOMP":"",
+    "BDSFL":"",
+    "TSTPNM":"I034635",
+    "TIMESTMP":"+020130910210245",
+    "ORIGIN":"",
+    "MTINFOAREA":"",
+    "MTMODELVERSION":"",
+    "TXTSH_SET":""
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBJT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"上次更改",
+    "TXTLG":"上次更改"
+   },
+   {
+    "LANGU":"3",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"최종 변경",
+    "TXTLG":"최종 변경"
+   },
+   {
+    "LANGU":"4",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Ultima modificare",
+    "TXTLG":"Ultima modificare"
+   },
+   {
+    "LANGU":"5",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Zadnja sprememba",
+    "TXTLG":"Zadnja sprememba"
+   },
+   {
+    "LANGU":"6",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Zadnja promjena",
+    "TXTLG":"Zadnja promjena"
+   },
+   {
+    "LANGU":"C",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Poslední změna",
+    "TXTLG":"Poslední změna"
+   },
+   {
+    "LANGU":"D",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Letzte Änderung",
+    "TXTLG":"Letzte Änderung"
+   },
+   {
+    "LANGU":"E",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Last Changed",
+    "TXTLG":"Last Changed"
+   },
+   {
+    "LANGU":"F",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Dernière modificat.",
+    "TXTLG":"Dernière modification"
+   },
+   {
+    "LANGU":"G",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Τελευταία Αλλαγή",
+    "TXTLG":"Τελευταία Αλλαγή"
+   },
+   {
+    "LANGU":"H",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Utolsó módosítás",
+    "TXTLG":"Utolsó módosítás"
+   },
+   {
+    "LANGU":"I",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Ultima modifica",
+    "TXTLG":"Ultima modifica"
+   },
+   {
+    "LANGU":"J",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"最終変更",
+    "TXTLG":"最終変更"
+   },
+   {
+    "LANGU":"K",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Seneste ændring",
+    "TXTLG":"Seneste ændring"
+   },
+   {
+    "LANGU":"L",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Ostatnia zmiana",
+    "TXTLG":"Ostatnia zmiana"
+   },
+   {
+    "LANGU":"M",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"最後更改",
+    "TXTLG":"最後更改"
+   },
+   {
+    "LANGU":"N",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Laatste wijziging",
+    "TXTLG":"Laatste wijziging"
+   },
+   {
+    "LANGU":"O",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Siste endring",
+    "TXTLG":"Siste endring"
+   },
+   {
+    "LANGU":"P",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Última modificação",
+    "TXTLG":"Última modificação"
+   },
+   {
+    "LANGU":"Q",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Posledná zmena",
+    "TXTLG":"Posledná zmena"
+   },
+   {
+    "LANGU":"R",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Последнее изменение",
+    "TXTLG":"Последнее изменение"
+   },
+   {
+    "LANGU":"S",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Modificado por",
+    "TXTLG":"Modificado por"
+   },
+   {
+    "LANGU":"T",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Son değişiklik",
+    "TXTLG":"Son değişiklik"
+   },
+   {
+    "LANGU":"U",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Viimeinen muutos",
+    "TXTLG":"Viimeinen muutos"
+   },
+   {
+    "LANGU":"V",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Senaste ändring",
+    "TXTLG":"Senaste ändring"
+   },
+   {
+    "LANGU":"W",
+    "IOBJNM":"0TCTLSTCHG",
+    "OBJVERS":"A",
+    "TXTSH":"Посл.променен",
+    "TXTLG":"Посл.променен"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IOBJ",
+    "OBJ_NAME":"0TCTLSTCHG",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

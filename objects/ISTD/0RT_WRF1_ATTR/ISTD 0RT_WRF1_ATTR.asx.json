@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0RT_MAPN-IO",
+    "COMSTRU":"0RT_WRF1_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030131160542",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030131160542",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"零售: 站点",
+    "TXTMD":"零售: 站点",
+    "TXTLG":"零售: 站点"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"소매: 매장",
+    "TXTMD":"소매: 매장",
+    "TXTLG":"소매: 매장"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Site",
+    "TXTMD":"Retail: Site",
+    "TXTLG":"Retail: Site"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Provoz",
+    "TXTMD":"Retail: Provoz",
+    "TXTLG":"Retail: Provoz"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Betrieb",
+    "TXTMD":"Retail: Betrieb",
+    "TXTLG":"Retail: Betrieb"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Site",
+    "TXTMD":"Retail: Site",
+    "TXTLG":"Retail: Site"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail : site",
+    "TXTMD":"Retail : site",
+    "TXTLG":"Retail : site"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Site",
+    "TXTMD":"Retail: Site",
+    "TXTLG":"Retail: Site"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: telephely",
+    "TXTMD":"Retail: telephely",
+    "TXTLG":"Retail: telephely"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: sito",
+    "TXTMD":"Retail: sito",
+    "TXTLG":"Retail: sito"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: サイト",
+    "TXTMD":"Retail: サイト",
+    "TXTLG":"Retail: サイト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Handelssted",
+    "TXTMD":"Retail: Handelssted",
+    "TXTLG":"Retail: Handelssted"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Sprzed. detal.:Oddz.",
+    "TXTMD":"Sprzedaż detaliczna: Oddział",
+    "TXTLG":"Sprzedaż detaliczna: Oddział"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"零售：點",
+    "TXTMD":"零售：點",
+    "TXTLG":"零售：點"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: vestiging",
+    "TXTMD":"Retail: vestiging",
+    "TXTLG":"Retail: vestiging"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Det.hand.: Hand.sted",
+    "TXTMD":"Detaljhandel: Handelssted",
+    "TXTLG":"Detaljhandel: Handelssted"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: ponto",
+    "TXTMD":"Retail: ponto",
+    "TXTLG":"Retail: ponto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Prevádzka",
+    "TXTMD":"Retail: Prevádzka",
+    "TXTLG":"Retail: Prevádzka"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Торговля: предпр.",
+    "TXTMD":"Торговля: предприятие",
+    "TXTLG":"Торговля: предприятие"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Centro",
+    "TXTMD":"Retail: Centro",
+    "TXTLG":"Retail: Centro"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Mağazacılık: Lok.",
+    "TXTMD":"Mağazacılık: Lokasyon",
+    "TXTLG":"Mağazacılık: Lokasyon"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: toimipiste",
+    "TXTMD":"Retail: toimipiste",
+    "TXTLG":"Retail: toimipiste"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Handelsenhet",
+    "TXTMD":"Retail: Handelsenhet",
+    "TXTLG":"Retail: Handelsenhet"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0RT_WRF1_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Retail: Site",
+    "TXTMD":"Retail: Site",
+    "TXTLG":"Retail: Site"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0RT_WRF1_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"KEITH",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

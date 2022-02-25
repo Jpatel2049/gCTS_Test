@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0MDM_PRD",
+    "COMSTRU":"0MDM_PRD_CATEGORY_ATTR",
+    "OWNER":"HAURYA",
+    "TSTPNM":"FERROC",
+    "TIMESTMP":"+020040820093031",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020040820093031",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品数据: 产品",
+    "TXTMD":"产品数据: 产品类别",
+    "TXTLG":"产品数据: 产品类别"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품 데이터: 제품",
+    "TXTMD":"제품 데이터: 제품 범주",
+    "TXTLG":"제품 데이터: 제품 범주"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Data prod.: Kat.prod",
+    "TXTMD":"Data produktu: Kategorie produktu",
+    "TXTLG":"Data produktu: Kategorie produktu"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktdaten: ProKat",
+    "TXTMD":"Produktdaten: Produktkategorien",
+    "TXTLG":"Produktdaten: Produktkategorien"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"product data: produc",
+    "TXTMD":"product data: product categories",
+    "TXTLG":"product data: product categories"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dnées prod.: cat. pd",
+    "TXTMD":"Données produit : catégories produit",
+    "TXTLG":"Données produit : catégories produit"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termékadat.:term.kat",
+    "TXTMD":"Termékadatok: termékkategóriák",
+    "TXTLG":"Termékadatok: termékkategóriák"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dati prod.:cat.prod.",
+    "TXTMD":"Dati prodotto: categorie prodotto",
+    "TXTLG":"Dati prodotto: categorie prodotto"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品データ: 製品 Cat",
+    "TXTMD":"製品データ: 製品カテゴリ",
+    "TXTLG":"製品データ: 製品カテゴリ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.data: Pro.kat.",
+    "TXTMD":"Produktdata: Produktkategorier",
+    "TXTLG":"Produktdata: Produktkategorier"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dane prod.: Kat. pr.",
+    "TXTMD":"Dane produktu: Kategorie produktów",
+    "TXTLG":"Dane produktu: Kategorie produktów"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品資料：產品種類",
+    "TXTMD":"產品資料：產品種類",
+    "TXTLG":"產品資料：產品種類"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Productgeg.: prodCat",
+    "TXTMD":"Productgegevens: productcategorieën",
+    "TXTLG":"Productgegevens: productcategorieën"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktdata: ProdKat",
+    "TXTMD":"Produktdata: Produktkategorier",
+    "TXTLG":"Produktdata: Produktkategorier"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dds.prod.: ctg.prod.",
+    "TXTMD":"Dados do produto: categorias do produto",
+    "TXTLG":"Dados do produto: categorias do produto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dáta produktu: KatPr",
+    "TXTMD":"Dáta produktu: Kategórie produktu",
+    "TXTLG":"Dáta produktu: Kategórie produktu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ДаннПрод: КатегПрод",
+    "TXTMD":"Данные продукта: категории продуктов",
+    "TXTLG":"Данные продукта: категории продуктов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Dat.prod:Categ.prod.",
+    "TXTMD":"Datos producto: Categorías producto",
+    "TXTLG":"Datos producto: Categorías producto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün vr.: Ürün ktg.",
+    "TXTMD":"Ürün verileri: Ürün kategorileri",
+    "TXTLG":"Ürün verileri: Ürün kategorileri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuotetiedot: TuoLuok",
+    "TXTMD":"Tuotetiedot: tuoteluokat",
+    "TXTLG":"Tuotetiedot: tuoteluokat"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MDM_PRD_CATEGORY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produktdata: ProdKat",
+    "TXTMD":"Produktdata: Produktkategorier",
+    "TXTLG":"Produktdata: Produktkategorier"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MDM_PRD_CATEGORY_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

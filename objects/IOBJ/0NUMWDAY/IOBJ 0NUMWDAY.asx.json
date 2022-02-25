@@ -1,0 +1,277 @@
+[
+ {
+  "table":"RSDIOBJ",
+  "data":
+  [
+   {
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "IOBJTP":"KYF",
+    "OBJSTAT":"ACT",
+    "CONTREL":"7.3/20",
+    "CONTTIMESTMP":"+020050314161137",
+    "OWNER":"SAP",
+    "BWAPPL":"BW",
+    "ACTIVFL":"",
+    "PROTECFL":"",
+    "PRIVATEFL":"",
+    "FIELDNM":"NUMWDAY",
+    "ATRONLYFL":"",
+    "BCTCOMP":"",
+    "BDSFL":"",
+    "TSTPNM":"DDIC",
+    "TIMESTMP":"+020130921155140",
+    "ORIGIN":"",
+    "MTINFOAREA":"",
+    "MTMODELVERSION":"",
+    "TXTSH_SET":""
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBJT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"工作日数量",
+    "TXTLG":"工作日数量"
+   },
+   {
+    "LANGU":"3",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"근무일 수",
+    "TXTLG":"근무일 수"
+   },
+   {
+    "LANGU":"4",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Nr. zile lucrătoare",
+    "TXTLG":"Număr zile lucrătoare"
+   },
+   {
+    "LANGU":"5",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Število delovnih dni",
+    "TXTLG":"Število delovnih dni"
+   },
+   {
+    "LANGU":"6",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Broj radnih dana",
+    "TXTLG":"Broj radnih dana"
+   },
+   {
+    "LANGU":"C",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Počet pracovních dní",
+    "TXTLG":"Počet pracovních dní"
+   },
+   {
+    "LANGU":"D",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Anzahl Arbeitstage",
+    "TXTLG":"Anzahl der Arbeitstage"
+   },
+   {
+    "LANGU":"E",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Workdays",
+    "TXTLG":"Number of Workdays"
+   },
+   {
+    "LANGU":"F",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Nombre jours ouvrés",
+    "TXTLG":"Nombre de jours ouvrés"
+   },
+   {
+    "LANGU":"G",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Αρ.Εργάσιμων Ημερών",
+    "TXTLG":"Αρ.Εργάσιμων Ημερών"
+   },
+   {
+    "LANGU":"H",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Munkanapok száma",
+    "TXTLG":"Munkanapok száma"
+   },
+   {
+    "LANGU":"I",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"N. giornate lavor.",
+    "TXTLG":"N. di giornate lavorative"
+   },
+   {
+    "LANGU":"J",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"稼働日数",
+    "TXTLG":"稼働日数"
+   },
+   {
+    "LANGU":"K",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antal arbejdsdage",
+    "TXTLG":"Antal arbejdsdage"
+   },
+   {
+    "LANGU":"L",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Liczba dni roboczych",
+    "TXTLG":"Liczba dni roboczych"
+   },
+   {
+    "LANGU":"M",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"工作天數",
+    "TXTLG":"工作天數"
+   },
+   {
+    "LANGU":"N",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Aantal werkdagen",
+    "TXTLG":"Aantal werkdagen"
+   },
+   {
+    "LANGU":"O",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antall arbeidsdager",
+    "TXTLG":"Antall arbeidsdager"
+   },
+   {
+    "LANGU":"P",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Nº dias de trabalho",
+    "TXTLG":"Nº de dias de trabalho"
+   },
+   {
+    "LANGU":"Q",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Počet pracovných dní",
+    "TXTLG":"Počet pracovných dní"
+   },
+   {
+    "LANGU":"R",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Число рабочих дней",
+    "TXTLG":"Число рабочих дней"
+   },
+   {
+    "LANGU":"S",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Ctd.días laborables",
+    "TXTLG":"Cantidad de días laborables"
+   },
+   {
+    "LANGU":"T",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"İşgünü sayısı",
+    "TXTLG":"İşgünü sayısı"
+   },
+   {
+    "LANGU":"U",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Työpäivien lukumäärä",
+    "TXTLG":"Työpäivien lukumäärä"
+   },
+   {
+    "LANGU":"V",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Antal arbetsdagar",
+    "TXTLG":"Antal arbetsdagar"
+   },
+   {
+    "LANGU":"W",
+    "IOBJNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "TXTSH":"Брой работни дни",
+    "TXTLG":"Брой работни дни"
+   }
+  ]
+ },
+ {
+  "table":"RSDKYF",
+  "data":
+  [
+   {
+    "KYFNM":"0NUMWDAY",
+    "OBJVERS":"A",
+    "KYFTP":"INT",
+    "NCUMFL":"",
+    "FIXCUKY":"",
+    "FIXUNIT":"",
+    "AGGRGEN":"SUM",
+    "AGGREXC":"SUM",
+    "AGGRCHA":"",
+    "KYFDECIM":"",
+    "KYFPRSNT":"",
+    "KYFNAV":"0",
+    "UNINM":"",
+    "DOMANM":"",
+    "PACKFL":"",
+    "KYFSEMANTIC":"",
+    "STOCK_COVER_CALCTYPE":"",
+    "STOCK_COVER_PERIODS":0,
+    "DATATP":"INT4",
+    "TXTDEF":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IOBJ",
+    "OBJ_NAME":"0NUMWDAY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"BACHMANNMAT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

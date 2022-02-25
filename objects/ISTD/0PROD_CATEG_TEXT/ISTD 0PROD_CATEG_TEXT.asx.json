@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PROD_CATEG_TEXT",
+    "OWNER":"HOMBERGER",
+    "TSTPNM":"HOMBERGER",
+    "TIMESTMP":"+020020522074123",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020522074123",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品类别:文本",
+    "TXTMD":"产品类别:文本",
+    "TXTLG":"产品类别:文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"제품 범주: 텍스트",
+    "TXTMD":"제품 범주: 텍스트",
+    "TXTLG":"제품 범주: 텍스트"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kateg.produktu (text",
+    "TXTMD":"Kategorie produktu (texty)",
+    "TXTLG":"Kategorie produktu (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategorie: Te",
+    "TXTMD":"Produktkategorie: Texte",
+    "TXTLG":"Produktkategorie: Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product Cat.: Texts",
+    "TXTMD":"Product Category: Texts",
+    "TXTLG":"Product Category: Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Catég produit (Txte)",
+    "TXTMD":"Catégories de produit(textes)",
+    "TXTLG":"Catégories de produit(textes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termékkategória: szö",
+    "TXTMD":"Termékkategória: szövegek",
+    "TXTLG":"Termékkategória: szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Cat. prod.: testi",
+    "TXTMD":"Cat. prodotto: testi",
+    "TXTLG":"Cat. prodotto: testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"製品カテゴリ: Text",
+    "TXTMD":"製品カテゴリ: テキスト",
+    "TXTLG":"製品カテゴリ: テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategori: Tek",
+    "TXTMD":"Produktkategori: Tekster",
+    "TXTLG":"Produktkategori: Tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kat. prod.: Teksty",
+    "TXTMD":"Kategoria produktu: Teksty",
+    "TXTLG":"Kategoria produktu: Teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"產品種類：內文",
+    "TXTMD":"產品種類：內文",
+    "TXTLG":"產品種類：內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.categorie (txt)",
+    "TXTMD":"Productcategorie (teksten)",
+    "TXTLG":"Productcategorie (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.kategori: Tkst.",
+    "TXTMD":"Produktkategori: Tekster",
+    "TXTLG":"Produktkategori: Tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ctg.produto: textos",
+    "TXTMD":"Categoria do produto: textos",
+    "TXTLG":"Categoria do produto: textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Kateg.produktu: Tex.",
+    "TXTMD":"Kategória produktu: Texty",
+    "TXTLG":"Kategória produktu: Texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"КатегПродукт: тексты",
+    "TXTMD":"Категория продукта: тексты",
+    "TXTLG":"Категория продукта: тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Categ.prod.: Textos",
+    "TXTMD":"Categoría de producto: Textos",
+    "TXTLG":"Categoría de producto: Textos"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün kategorisi: Mtn",
+    "TXTMD":"Ürün kategorisi: Metinler",
+    "TXTLG":"Ürün kategorisi: Metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuoteluokka (tekst.)",
+    "TXTMD":"Tuoteluokka (tekstit)",
+    "TXTLG":"Tuoteluokka (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PROD_CATEG_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produktkategori: Txt",
+    "TXTMD":"Produktkategori: (Texter)",
+    "TXTLG":"Produktkategori: (Texter)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PROD_CATEG_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

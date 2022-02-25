@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"MM-IO",
+    "COMSTRU":"0SERVICE_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020305152511",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020305152511",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"服务编号 (文本)",
+    "TXTMD":"服务编号 (文本)",
+    "TXTLG":"服务编号 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"서비스 번호 (텍스트)",
+    "TXTMD":"서비스 번호 (텍스트)",
+    "TXTLG":"서비스 번호 (텍스트)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Číslo výkonu (texty)",
+    "TXTMD":"Číslo výkonu (texty)",
+    "TXTLG":"Číslo výkonu (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Leistungsnummer (Tex",
+    "TXTMD":"Leistungsnummer (Texte)",
+    "TXTLG":"Leistungsnummer (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Service No. (Texts)",
+    "TXTMD":"Service Number (Texts)",
+    "TXTLG":"Service Number (Texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N° service (textes)",
+    "TXTMD":"Numéro de service (textes)",
+    "TXTLG":"Numéro de service (textes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Szolg. száma (szöv.)",
+    "TXTMD":"Szolgáltatás száma (szövegek)",
+    "TXTLG":"Szolgáltatás száma (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N. prest. (testi)",
+    "TXTMD":"Numero prestazione (testi)",
+    "TXTLG":"Numero prestazione (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"サービス番号 (Text)",
+    "TXTMD":"サービス番号 (テキスト)",
+    "TXTLG":"サービス番号 (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"ServiceydNr. (text.)",
+    "TXTMD":"Serviceydelsesnummer (tekster)",
+    "TXTLG":"Serviceydelsesnummer (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nr usługi (teksty)",
+    "TXTMD":"Numer usługi (teksty)",
+    "TXTLG":"Numer usługi (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"服務號碼（內文）",
+    "TXTMD":"服務號碼（內文）",
+    "TXTLG":"服務號碼（內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Servicenummer (txt)",
+    "TXTMD":"Servicenummer (teksten)",
+    "TXTLG":"Servicenummer (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tjen.nr. (tekster)",
+    "TXTMD":"Tjenestenummer (tekster)",
+    "TXTLG":"Tjenestenummer (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nº serviço (textos)",
+    "TXTMD":"Nº do serviço (textos)",
+    "TXTLG":"Nº do serviço (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Č.výkonu (texty)",
+    "TXTMD":"Číslo výkonu (texty)",
+    "TXTLG":"Číslo výkonu (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Номер работы (тексты",
+    "TXTMD":"Номер  работы (тексты)",
+    "TXTLG":"Номер  работы (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Núm.servicio (txt.)",
+    "TXTMD":"Número servicio (textos)",
+    "TXTLG":"Número servicio (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Hzm.numarası (mtn.)",
+    "TXTMD":"Hizmet numarası (metinler)",
+    "TXTLG":"Hizmet numarası (metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Palv. nro (tekstit)",
+    "TXTMD":"Palvelun numero (tekstit)",
+    "TXTLG":"Palvelun numero (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0SERVICE_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tjänstenummer (texte",
+    "TXTMD":"Tjänstenummer (texter)",
+    "TXTLG":"Tjänstenummer (texter)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0SERVICE_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

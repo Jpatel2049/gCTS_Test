@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_08",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214195827",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214195827",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 购物篮中的商品 (茶叶)",
+    "TXTLG":"事件 - 购物篮中的商品 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 상품",
+    "TXTMD":"이벤트 - 쇼핑바구니 상품 (TL)",
+    "TXTLG":"이벤트 - 쇼핑바구니 상품 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - artikl",
+    "TXTMD":"Událost - artikl v nákupním koši (TL)",
+    "TXTLG":"Událost - artikl v nákupním koši (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Artikel",
+    "TXTMD":"Ereignis - Artikel im Warenkorb (TL)",
+    "TXTLG":"Ereignis - Artikel im Warenkorb (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Article",
+    "TXTMD":"Event - Article in Shopping Basket (TL)",
+    "TXTLG":"Event - Article in Shopping Basket (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - article",
+    "TXTMD":"Evénement-article dans chariot (Tealeaf)",
+    "TXTLG":"Evénement - article dans chariot (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Esemény - cikk",
+    "TXTMD":"Esemény - cikk a bevásárlókosárban (TL)",
+    "TXTLG":"Esemény - cikk a bevásárlókosárban (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - articolo",
+    "TXTMD":"Evento - articolo nel carrello (TL)",
+    "TXTLG":"Evento - articolo nel carrello (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - 商品",
+    "TXTMD":"イベント - ショッピングカートの商品 (TL)",
+    "TXTLG":"イベント - ショッピングカートの商品 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - artikel",
+    "TXTMD":"Hændelse - artikel i indkøbskurv (TL)",
+    "TXTLG":"Hændelse - artikel i indkøbskurv (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - artykuł",
+    "TXTMD":"Zdarz. - artykuł w koszyku zakupów (TL)",
+    "TXTLG":"Zdarzenie - artykuł w koszyku zakupów (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 購物籃中的商品 (TL)",
+    "TXTLG":"事件 - 購物籃中的商品 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Event - artikel",
+    "TXTMD":"Event - artikel in boodschappenmand (TL)",
+    "TXTLG":"Event - artikel in boodschappenmand (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - artikkel",
+    "TXTMD":"Hendelse - artikkel i handlekurv (TL)",
+    "TXTLG":"Hendelse - artikkel i handlekurv (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Artigo",
+    "TXTMD":"Evento - Artigo no cesto de compras (TL)",
+    "TXTLG":"Evento - Artigo no cesto de compras (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - artikel",
+    "TXTMD":"Udalosť - artikel v nákupnom koši (TL)",
+    "TXTLG":"Udalosť - artikel v nákupnom koši (Tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - товар",
+    "TXTMD":"Событие - товар в товарной корзине (TL)",
+    "TXTLG":"Событие - товар в товарной корзине (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Artículo",
+    "TXTMD":"Evento: Artículo de cesta compras (TL)",
+    "TXTLG":"Evento: Artículo de la cesta de compras (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Olay-alışveriş sepet",
+    "TXTMD":"Olay-alışveriş sepetindeki ür. (Tealeaf)",
+    "TXTLG":"Olay - alışveriş sepetindeki ürün (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma - tuote",
+    "TXTMD":"Tapahtuma - tuote ostoskorissa (TeaLeaf)",
+    "TXTLG":"Tapahtuma - tuote ostoskorissa (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_08",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - artikel",
+    "TXTMD":"Händelse - artikel i inköpskorg  (TL)",
+    "TXTLG":"Händelse - artikel i inköpskorg (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_08",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

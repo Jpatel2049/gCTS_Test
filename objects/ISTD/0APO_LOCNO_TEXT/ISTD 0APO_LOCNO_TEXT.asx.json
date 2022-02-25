@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0APO-IO",
+    "COMSTRU":"0APO_LOCNO_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020080602114525",
+    "CONTREL":"7.0/04",
+    "CONTTIMESTMP":"+020080602114525",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 位置文本",
+    "TXTMD":"APO 位置文本",
+    "TXTLG":"APO 位置文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 위치 텍스트",
+    "TXTMD":"APO 위치 텍스트",
+    "TXTLG":"APO 위치 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Location Text",
+    "TXTMD":"APO Location Text",
+    "TXTLG":"APO Location Text"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Text lokace",
+    "TXTMD":"APO Text lokace",
+    "TXTLG":"APO Text lokace"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Lokation Text",
+    "TXTMD":"APO Lokation Text",
+    "TXTLG":"APO Lokation Text"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Location Text",
+    "TXTMD":"APO Location Text",
+    "TXTLG":"APO Location Text"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Texte site APO",
+    "TXTMD":"Texte site APO",
+    "TXTLG":"Texte site APO"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Location Text",
+    "TXTMD":"APO Location Text",
+    "TXTLG":"APO Location Text"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO lokáció - szöveg",
+    "TXTMD":"APO lokáció - szöveg",
+    "TXTLG":"APO lokáció - szöveg"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO - Tst.ubicazione",
+    "TXTMD":"APO - Testo ubicazione",
+    "TXTLG":"APO - Testo ubicazione"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO ロケーションText",
+    "TXTMD":"APO ロケーションテキスト",
+    "TXTLG":"APO ロケーションテキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Lokation tekst",
+    "TXTMD":"APO Lokation tekst",
+    "TXTLG":"APO Lokation tekst"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO: Tekst lokaliz.",
+    "TXTMD":"APO: Tekst lokalizacji",
+    "TXTLG":"APO: Tekst lokalizacji"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO 地點內文",
+    "TXTMD":"進階規劃與最佳化工具地點內文",
+    "TXTLG":"進階規劃與最佳化工具地點內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO: tekstlocatie",
+    "TXTMD":"APO: tekstlocatie",
+    "TXTLG":"APO: tekstlocatie"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO: Lokal. tekst",
+    "TXTMD":"APO: Lokalisering tekst",
+    "TXTLG":"APO: Lokalisering tekst"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO texto da UG",
+    "TXTMD":"APO texto da unidade gerencial",
+    "TXTLG":"APO texto da unidade gerencial"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Text lokácie",
+    "TXTMD":"APO Text lokácie",
+    "TXTLG":"APO Text lokácie"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO-местоп. - текст",
+    "TXTMD":"APO-местоположение - текст",
+    "TXTLG":"APO-местоположение - текст"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Texto ubicación APO",
+    "TXTMD":"Texto ubicación APO",
+    "TXTLG":"Texto ubicación APO"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO lokasyon metni",
+    "TXTMD":"APO lokasyon metni",
+    "TXTLG":"APO lokasyon metni"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO-verk.p. teksti",
+    "TXTMD":"APO-verkostopisteen teksti",
+    "TXTLG":"APO-verkostopisteen teksti"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Enhetstext",
+    "TXTMD":"APO Enhetstext",
+    "TXTLG":"APO Enhetstext"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0APO_LOCNO_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"APO Location Text",
+    "TXTMD":"APO Location Text",
+    "TXTLG":"APO Location Text"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0APO_LOCNO_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

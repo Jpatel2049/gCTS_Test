@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM-IO",
+    "COMSTRU":"0CRM_PROD_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020020531071717",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020531071717",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 文本 (过时",
+    "TXTMD":"产品: 文本 (过时)",
+    "TXTLG":"产品: 文本 (过时)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 텍스트(폐기)",
+    "TXTMD":"제품: 텍스트(폐기)",
+    "TXTLG":"제품: 텍스트(폐기)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts (Obso",
+    "TXTMD":"Product: Texts (Obsolete)",
+    "TXTLG":"Product: Texts (Obsolete)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texty (zast",
+    "TXTMD":"Produkt: Texty (zastaralé)",
+    "TXTLG":"Produkt: Texty (zastaralé)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texte (obso",
+    "TXTMD":"Produkt: Texte (obsolet)",
+    "TXTLG":"Produkt: Texte (obsolet)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts (Obso",
+    "TXTMD":"Product: Texts (Obsolete)",
+    "TXTLG":"Product: Texts (Obsolete)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : textes",
+    "TXTMD":"Produit : textes (obsolète)",
+    "TXTLG":"Produit : textes (obsolète)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts (Obso",
+    "TXTMD":"Product: Texts (Obsolete)",
+    "TXTLG":"Product: Texts (Obsolete)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termék:szövegek(ela.",
+    "TXTMD":"Termék: szövegek (elavult)",
+    "TXTLG":"Termék: szövegek (elavult)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto: testi (ob)",
+    "TXTMD":"Prodotto: testi (obsol.)",
+    "TXTLG":"Prodotto: testi (obsol.)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"製品: テキスト(無効)",
+    "TXTMD":"製品: テキスト (無効)",
+    "TXTLG":"製品: テキスト (無効)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Tekster (fo",
+    "TXTMD":"Produkt: Tekster (forældet)",
+    "TXTLG":"Produkt: Tekster (forældet)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Teksty",
+    "TXTMD":"Produkt: Teksty (nieaktualne)",
+    "TXTLG":"Produkt: Teksty (nieaktualne)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"產品：內文〈作廢〉",
+    "TXTMD":"產品：內文〈作廢〉",
+    "TXTLG":"產品：內文〈作廢〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: teksten (oud)",
+    "TXTMD":"Product: teksten (verouderd)",
+    "TXTLG":"Product: teksten (verouderd)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Tekster",
+    "TXTMD":"Produkt: Tekster (foreldet)",
+    "TXTLG":"Produkt: Tekster (foreldet)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produto:textos (obs.",
+    "TXTMD":"Produto: textos (obsoleto)",
+    "TXTLG":"Produto: textos (obsoleto)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Texty (zas.",
+    "TXTMD":"Produkt: Texty (zastarané)",
+    "TXTLG":"Produkt: Texty (zastarané)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Прод.: тексты (уст.)",
+    "TXTMD":"Продукт: тексты (уставревш.)",
+    "TXTLG":"Продукт: тексты (уставревш.)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: Textos (obs.)",
+    "TXTMD":"Producto: Textos (obsoleto)",
+    "TXTLG":"Producto: Textos (obsoleto)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün:Metinler(kllDş)",
+    "TXTMD":"Ürün: Metinler (kullanım dışı)",
+    "TXTLG":"Ürün: Metinler (kullanım dışı)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: tekstit (vanh",
+    "TXTMD":"Tuote: tekstit (vanhentunut)",
+    "TXTLG":"Tuote: tekstit (vanhentunut)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Txtr (inak)",
+    "TXTMD":"Produkt: Texter (inaktuellt)",
+    "TXTLG":"Produkt: Texter (inaktuellt)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0CRM_PROD_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Texts (Obso",
+    "TXTMD":"Product: Texts (Obsolete)",
+    "TXTLG":"Product: Texts (Obsolete)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_PROD_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

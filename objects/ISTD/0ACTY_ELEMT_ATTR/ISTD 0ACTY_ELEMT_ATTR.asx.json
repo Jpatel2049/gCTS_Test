@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0ACTY_ELEMT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041201093711",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041201093711",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"网络活动元素",
+    "TXTMD":"网络活动元素 - 主数据",
+    "TXTLG":"网络活动元素 - 主数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"네트워크액티비티요소",
+    "TXTMD":"네트워크 액티비티 요소 - 마스터 데이터",
+    "TXTLG":"네트워크 액티비티 요소 - 마스터 데이터"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netwrk Activity Elem",
+    "TXTMD":"Network Activity Element - Master Data",
+    "TXTLG":"Network Activity Element - Master Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prvek oper.síť.diagr",
+    "TXTMD":"Prvek oper.síť.diagramu- kmenová data",
+    "TXTLG":"Prvek oper.síť.diagramu- kmenová data"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netzplanvorgangselem",
+    "TXTMD":"Netzplanvorgangselement - Stammdaten",
+    "TXTLG":"Netzplanvorgangselement - Stammdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netwrk Activity Elem",
+    "TXTMD":"Network Activity Element - Master Data",
+    "TXTLG":"Network Activity Element - Master Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ss-activité réseau",
+    "TXTMD":"Sous-activité de réseau - données base",
+    "TXTLG":"Sous-activité de réseau - données de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netwrk Activity Elem",
+    "TXTMD":"Network Activity Element - Master Data",
+    "TXTLG":"Network Activity Element - Master Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Hálóterv-műveletelem",
+    "TXTMD":"Hálóterv-műveletelem - törzsadatok",
+    "TXTLG":"Hálóterv-műveletelem - törzsadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Elem. op. di network",
+    "TXTMD":"Elem. op. di network - Dati anagrafici",
+    "TXTLG":"Elem. op. di network - Dati anagrafici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ネットワーク活動要素",
+    "TXTMD":"ネットワーク活動要素 - マスタデータ",
+    "TXTLG":"ネットワーク活動要素 - マスタデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netværksoperat.elem.",
+    "TXTMD":"Netværksoperationselement - stamdata",
+    "TXTLG":"Netværksoperationselement - stamdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Element czyn. siec.",
+    "TXTMD":"Element czyn. sieciowej - dane podst.",
+    "TXTLG":"Element czyn. sieciowej - dane podstawowe"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"網狀圖作業元素",
+    "TXTMD":"網狀圖作業元素 - 主檔資料",
+    "TXTLG":"網狀圖作業元素 - 主檔資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NW-plansubactiviteit",
+    "TXTMD":"Netwerkplansubactiviteit - stamgegevens",
+    "TXTLG":"Netwerkplansubactiviteit - stamgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nettverksakt.element",
+    "TXTMD":"Nettverksaktivitetselement - stamdata",
+    "TXTLG":"Nettverksaktivitetselement - stamdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Elem.tar.diagr.rede",
+    "TXTMD":"Elemento tarefa diagrama rede-dds.mestre",
+    "TXTLG":"Elemento tarefa diagrama rede-dds.mestre"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prvok op.sieť.diag.",
+    "TXTMD":"Prvok operácie sieť.diagramu - km.dáta",
+    "TXTLG":"Prvok operácie sieť.diagramu - kmeňové dáta"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ЭлемОперСетевГрафика",
+    "TXTMD":"ЭлемОперацМетевГрафика - осн. данные",
+    "TXTLG":"ЭлемОперацМетевГрафика - осн. данные"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Oper.subord.de red",
+    "TXTMD":"Operación subordinada de red: Dat.maest.",
+    "TXTLG":"Operación subordinada de red: Dat.maest."
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ağ plan işlem öğesi",
+    "TXTMD":"Ağ plan işlem öğesi - ana veriler",
+    "TXTLG":"Ağ plan işlem öğesi - ana veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Verkkovaihe-elem.",
+    "TXTMD":"Verkkovaihe-elementti - perustiedot",
+    "TXTLG":"Verkkovaihe-elementti - perustiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Aktivitetselement",
+    "TXTMD":"Aktivitetselement - basdata",
+    "TXTLG":"Aktivitetselement - basdata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0ACTY_ELEMT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netwrk Activity Elem",
+    "TXTMD":"Network Activity Element - Master Data",
+    "TXTLG":"Network Activity Element - Master Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ACTY_ELEMT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

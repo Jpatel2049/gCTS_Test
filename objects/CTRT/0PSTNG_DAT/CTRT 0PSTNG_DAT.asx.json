@@ -1,0 +1,204 @@
+[
+ {
+  "table":"RSCURTRT",
+  "data":
+  [
+   {
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "RTYPE":"M",
+    "TCUR":"",
+    "SCUR":"",
+    "INVKZ":"",
+    "DATMETH":"3",
+    "CDATE":"0000-00-00",
+    "TIMEREF":"A",
+    "RATEIOBJNM":"",
+    "DATIOBJNM":"0PSTNG_DATE",
+    "TCURIOBJNM":"",
+    "SCURIOBJNM":"",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020000327161623",
+    "TCURUID":"",
+    "VDATEUID":"",
+    "RTYPEUID":"",
+    "OBJSTAT":"",
+    "CONTREL":"2.0/02",
+    "CONTTIMESTMP":"+020000327161623",
+    "OWNER":"SAP",
+    "BWAPPL":"",
+    "CRNM":"",
+    "CRTSTMP":"0",
+    "SCURUID":"",
+    "TCURIOBJNM_USE":"",
+    "CTTYPE":"",
+    "CONVTYPE":"",
+    "TIMESHIFTUID":"",
+    "TIMESHIFT":0,
+    "PERIOD_0":""
+   }
+  ]
+ },
+ {
+  "table":"RSCURTXT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"0PSING_DATE 的标准转换"
+   },
+   {
+    "LANGU":"3",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"0PSING_DATE의 표준 전환"
+   },
+   {
+    "LANGU":"C",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standard.přepočet na 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"D",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standardumrechnung zu 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"E",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standard Conversion on 0PSING_DATE"
+   },
+   {
+    "LANGU":"F",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Conversion standard en 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"H",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standard átszámítás 0PSTNG_DATE-hez"
+   },
+   {
+    "LANGU":"I",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Conversione standard in 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"J",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"0PSING_DATE での標準変換"
+   },
+   {
+    "LANGU":"K",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standardomregning til 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"L",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Przeliczenie standardowe 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"M",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"0PSING_DATE 標準轉換"
+   },
+   {
+    "LANGU":"N",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standaardomrekening voor 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"O",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standardomregning til 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"P",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Conversão standard para 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"Q",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Štandardný prepočet k 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"R",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Станд. пересчет для 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"S",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Conversión estándar a 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"T",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"0PSTNG_DATE için standart dönüştürme"
+   },
+   {
+    "LANGU":"U",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Vakiomuunto - 0PSTNG_DATE"
+   },
+   {
+    "LANGU":"V",
+    "CTTNM":"0PSTNG_DAT",
+    "OBJVERS":"A",
+    "TXTMD":"Standardomräkning per 0PSTNG_DATE"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"CTRT",
+    "OBJ_NAME":"0PSTNG_DAT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

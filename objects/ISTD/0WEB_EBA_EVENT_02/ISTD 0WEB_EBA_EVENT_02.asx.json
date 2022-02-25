@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_02",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214205936",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214205936",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 错误",
+    "TXTMD":"事件 - 错误 (茶叶)",
+    "TXTLG":"事件 - 错误 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 오류",
+    "TXTMD":"이벤트 - 오류 (Tealeaf)",
+    "TXTLG":"이벤트 - 오류 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - chyba",
+    "TXTMD":"Událost - chyba (Tealeaf)",
+    "TXTLG":"Událost - chyba (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Fehler",
+    "TXTMD":"Ereignis - Fehler (Tealeaf)",
+    "TXTLG":"Ereignis - Fehler (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Error",
+    "TXTMD":"Event - Error (Tealeaf)",
+    "TXTLG":"Event - Error (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - erreur",
+    "TXTMD":"Evénement - erreur (Tealeaf)",
+    "TXTLG":"Evénement - erreur (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Esemény - hiba",
+    "TXTMD":"Esemény - hiba (Tealeaf)",
+    "TXTLG":"Esemény - hiba (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - errore",
+    "TXTMD":"Evento - errore (Tealeaf)",
+    "TXTLG":"Evento - errore (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - エラー",
+    "TXTMD":"イベント - エラー (Tealeaf)",
+    "TXTLG":"イベント - エラー (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - fejl",
+    "TXTMD":"Hændelse - fejl (Tealeaf)",
+    "TXTLG":"Hændelse - fejl (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - błąd",
+    "TXTMD":"Zdarzenie - błąd (Tealeaf)",
+    "TXTLG":"Zdarzenie - błąd (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 錯誤",
+    "TXTMD":"事件 - 錯誤 (Tealeaf)",
+    "TXTLG":"事件 - 錯誤 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"event - fout",
+    "TXTMD":"Event - fout (tealeaf)",
+    "TXTLG":"Event - fout (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - feil",
+    "TXTMD":"Hendelse - feil (TeaLeaf)",
+    "TXTLG":"Hendelse - feil (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Erro",
+    "TXTMD":"Evento - Erro (Tealeaf)",
+    "TXTLG":"Evento - Erro (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - chyba",
+    "TXTMD":"Udalosť - chyba (tealeaf)",
+    "TXTLG":"Udalosť - chyba (tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - ошибка",
+    "TXTMD":"Событие - ошибка (Tealeaf)",
+    "TXTLG":"Событие - ошибка (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Error",
+    "TXTMD":"Evento: Error (Tealeaf)",
+    "TXTLG":"Evento: Error (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - hata (Tealeaf",
+    "TXTMD":"Olay - hata (Tealeaf)",
+    "TXTLG":"Olay - hata (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma - virhe",
+    "TXTMD":"Tapahtuma - virhe (TeaLeaf)",
+    "TXTLG":"Tapahtuma - virhe (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_02",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - fel",
+    "TXTMD":"Händelse - fel (Tealeaf)",
+    "TXTLG":"Händelse - fel (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_02",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

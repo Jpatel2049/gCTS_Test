@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PR_SALES_CATEG_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040129154933",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040129154933",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品:类别",
+    "TXTMD":"产品:类别(销售)",
+    "TXTLG":"产品:类别(销售)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 범주",
+    "TXTMD":"제품: 범주(판매)",
+    "TXTLG":"제품: 범주(판매)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Category",
+    "TXTMD":"Product: Category (Sales)",
+    "TXTLG":"Product: Category (Sales)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategorie",
+    "TXTMD":"Produkt: Kategorie (prodej)",
+    "TXTLG":"Produkt: Kategorie (prodej)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategorie (",
+    "TXTMD":"Produkt: Kategorie (Verkauf)",
+    "TXTLG":"Produkt: Kategorie (Verkauf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Category",
+    "TXTMD":"Product: Category (Sales)",
+    "TXTLG":"Product: Category (Sales)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : catégorie",
+    "TXTMD":"Produit : catégorie (vente)",
+    "TXTLG":"Produit : catégorie (vente)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Category",
+    "TXTMD":"Product: Category (Sales)",
+    "TXTLG":"Product: Category (Sales)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: kategória (",
+    "TXTMD":"Termék: kategória (eladás)",
+    "TXTLG":"Termék: kategória (eladás)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: categoria",
+    "TXTMD":"Prodotto: categoria (vendita)",
+    "TXTLG":"Prodotto: categoria (vendita)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: カテゴリ",
+    "TXTMD":"製品: カテゴリ (販売)",
+    "TXTLG":"製品: カテゴリ (販売)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategori",
+    "TXTMD":"Produkt: Kategori (salg)",
+    "TXTLG":"Produkt: Kategori (salg)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategoria (",
+    "TXTMD":"Produkt: Kategoria (sprzedaż)",
+    "TXTLG":"Produkt: Kategoria (sprzedaż)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：種類",
+    "TXTMD":"產品：種類（銷售）",
+    "TXTLG":"產品：種類（銷售）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: categorie (",
+    "TXTMD":"Product: categorie (verkoop)",
+    "TXTLG":"Product: categorie (verkoop)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategori",
+    "TXTMD":"Produkt: Kategori (salg)",
+    "TXTLG":"Produkt: Kategori (salg)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: categoria (",
+    "TXTMD":"Produto: categoria (venda)",
+    "TXTLG":"Produto: categoria (venda)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategória (",
+    "TXTMD":"Produkt: Kategória (predaj)",
+    "TXTLG":"Produkt: Kategória (predaj)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: категория",
+    "TXTMD":"Продукт: категория (продажа)",
+    "TXTLG":"Продукт: категория (продажа)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: Categoría",
+    "TXTMD":"Producto: Categoría (venta)",
+    "TXTLG":"Producto: Categoría (venta)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Kategori (",
+    "TXTMD":"Ürün: Kategori (satış)",
+    "TXTLG":"Ürün: Kategori (satış)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: luokka",
+    "TXTMD":"Tuote: luokka (myynti)",
+    "TXTLG":"Tuote: luokka (myynti)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kategori (",
+    "TXTMD":"Produkt: Kategori (försäljning)",
+    "TXTLG":"Produkt: Kategori (försäljning)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PR_SALES_CATEG_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Category",
+    "TXTMD":"Product: Category (Sales)",
+    "TXTLG":"Product: Category (Sales)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PR_SALES_CATEG_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

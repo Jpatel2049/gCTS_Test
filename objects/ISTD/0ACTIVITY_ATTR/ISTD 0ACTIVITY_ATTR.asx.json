@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0ACTIVITY_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041201093554",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041201093554",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"网络活动-主数据",
+    "TXTMD":"网络活动 - 主数据",
+    "TXTLG":"网络活动 - 主数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NtwrkAct.-MasterData",
+    "TXTMD":"네트워크 액티비티 - 마스터 데이터",
+    "TXTLG":"네트워크 액티비티 - 마스터 데이터"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NtwrkAct.-MasterData",
+    "TXTMD":"Network Activity - Master Data",
+    "TXTLG":"Network Activity - Master Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Oper.síť.diag.-km.d.",
+    "TXTMD":"Operace síť.diagramu - km.data",
+    "TXTLG":"Operace síť.diagramu - km.data"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netzplanvorgang - St",
+    "TXTMD":"Netzplanvorgang - Stammdaten",
+    "TXTLG":"Netzplanvorgang - Stammdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NtwrkAct.-MasterData",
+    "TXTMD":"Network Activity - Master Data",
+    "TXTLG":"Network Activity - Master Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Activité réseau - do",
+    "TXTMD":"Activité de réseau - données de base",
+    "TXTLG":"Activité de réseau - données de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NtwrkAct.-MasterData",
+    "TXTMD":"Network Activity - Master Data",
+    "TXTLG":"Network Activity - Master Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Hálóterv-művelet - t",
+    "TXTMD":"Hálóterv-művelet - törzsadatok",
+    "TXTLG":"Hálóterv-művelet - törzsadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Op. di network - DtA",
+    "TXTMD":"Operazione di network - Dati anagrafici",
+    "TXTLG":"Operazione di network - Dati anagrafici"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ntwrk活動-MasterData",
+    "TXTMD":"ネットワーク活動 - マスタデータ",
+    "TXTLG":"ネットワーク活動 - マスタデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netværksoperat. - st",
+    "TXTMD":"Netværksoperation - stamdata",
+    "TXTLG":"Netværksoperation - stamdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Czynność sieciowa",
+    "TXTMD":"Czynność sieciowa - dane podstawowe",
+    "TXTLG":"Czynność sieciowa - dane podstawowe"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"網狀圖作業 - 主檔資",
+    "TXTMD":"網狀圖作業 - 主檔資料",
+    "TXTLG":"網狀圖作業 - 主檔資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Netw.planact. - st.",
+    "TXTMD":"Netwerkplanactiviteit - stamgegevens",
+    "TXTLG":"Netwerkplanactiviteit - stamgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nettv.akt. - stamd.",
+    "TXTMD":"Nettverksaktivitet - stamdata",
+    "TXTLG":"Nettverksaktivitet - stamdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tar.diagr.rede-mest.",
+    "TXTMD":"Tarefa do diagrama de rede-dados mestre",
+    "TXTLG":"Tarefa do diagrama de rede-dados mestre"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"OpSieťDiag-KmDáta",
+    "TXTMD":"Operácia sieť.diagramu - km.dáta",
+    "TXTLG":"Operácia sieť.diagramu - kmeňové dáta"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"ОперСетГрафика-ОснДа",
+    "TXTMD":"Опер. сетевого графика - осн. данные",
+    "TXTLG":"Опер. сетевого графика - осн. данные"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Operación grafo: DM",
+    "TXTMD":"Operación grafo: Datos maestros",
+    "TXTLG":"Operación grafo: Datos maestros"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ağ pln.işl.- ana vr.",
+    "TXTMD":"Ağ planı işlemi - ana veriler",
+    "TXTLG":"Ağ planı işlemi - ana veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Verkkovaihe - per.t.",
+    "TXTMD":"Verkkovaihe - perustiedot",
+    "TXTLG":"Verkkovaihe - perustiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Nätverksaktiv. basd.",
+    "TXTMD":"Nätverksaktivitet - basdata",
+    "TXTLG":"Nätverksaktivitet - basdata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0ACTIVITY_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"NtwrkAct.-MasterData",
+    "TXTMD":"Network Activity - Master Data",
+    "TXTLG":"Network Activity - Master Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ACTIVITY_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

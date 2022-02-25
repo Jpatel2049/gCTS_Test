@@ -1,0 +1,238 @@
+[
+ {
+  "table":"RSLDPIO",
+  "data":
+  [
+   {
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "SOURCE":"0COSTCENTER",
+    "TYP":"O",
+    "LOGSYS":"T90CLNT090",
+    "LOGDPID_N":"",
+    "FIRSTFLAG":"",
+    "UNAME":"",
+    "TIMESTAMP":"0",
+    "OBJSTAT":"",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030729080026",
+    "OWNER":"",
+    "BWAPPL":"",
+    "OLTPSOURCE":"0COSTCENTER_0101_HIER",
+    "OLTPTYP":"H",
+    "GENERATED":"",
+    "CRT_PACKAGE":"",
+    "PUSH_PACKAGE":"",
+    "MASTERIPAK":"",
+    "ISMASTERIPAK":"",
+    "LPI":"",
+    "LPI_CHAIN":""
+   }
+  ]
+ },
+ {
+  "table":"RSLDPIOT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"客户",
+    "TEXT":"AXA 层级"
+   },
+   {
+    "LANGU":"3",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA 계층구조"
+   },
+   {
+    "LANGU":"6",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA Hierarchy"
+   },
+   {
+    "LANGU":"C",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"AXA Hierarchie"
+   },
+   {
+    "LANGU":"D",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA Hierarchie"
+   },
+   {
+    "LANGU":"E",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA Hierarchy"
+   },
+   {
+    "LANGU":"F",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENT",
+    "TEXT":"AXA Hiérarchie"
+   },
+   {
+    "LANGU":"G",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA Hierarchy"
+   },
+   {
+    "LANGU":"H",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"VEVŐ",
+    "TEXT":"AXA hierarchia"
+   },
+   {
+    "LANGU":"I",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"AXA gerarchia"
+   },
+   {
+    "LANGU":"J",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"カスタマ",
+    "TEXT":"AXA 階層"
+   },
+   {
+    "LANGU":"K",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"AXA hierarki"
+   },
+   {
+    "LANGU":"L",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"KLIENT",
+    "TEXT":"AXA Hierarchia"
+   },
+   {
+    "LANGU":"M",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"客戶",
+    "TEXT":"AXA 階層"
+   },
+   {
+    "LANGU":"N",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"KLANT",
+    "TEXT":"AXA hiërarchie"
+   },
+   {
+    "LANGU":"O",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"AXA hierarki"
+   },
+   {
+    "LANGU":"P",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"AXA hierarquia"
+   },
+   {
+    "LANGU":"Q",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"AXA Hierarchia"
+   },
+   {
+    "LANGU":"R",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"КЛИЕНТ",
+    "TEXT":"AXA - иерархия"
+   },
+   {
+    "LANGU":"S",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"AXA jerarquía"
+   },
+   {
+    "LANGU":"T",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"MÜŞTERİ",
+    "TEXT":"AXA hiyerarşisi"
+   },
+   {
+    "LANGU":"U",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"ASIAKAS",
+    "TEXT":"AXA hierarkia"
+   },
+   {
+    "LANGU":"V",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"KUND",
+    "TEXT":"AXA Hierarki"
+   },
+   {
+    "LANGU":"W",
+    "LOGDPID":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"AXA Hierarchy"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISIP",
+    "OBJ_NAME":"0PAK_5GAA5IQTEVQJNAEZ36C7LXI97",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

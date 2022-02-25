@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"FI-AA-IO",
+    "COMSTRU":"0ASSET_ATTR_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"LANGMIC",
+    "TIMESTMP":"+020030904140415",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030904140415",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"资产子编号",
+    "TXTMD":"资产子编号 (弹性更新)",
+    "TXTLG":"资产子编号 (弹性更新)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"자산 하위번호",
+    "TXTMD":"자산 하위번호 (가변 갱신)",
+    "TXTLG":"자산 하위번호 (가변 갱신)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Podčíslo inv.majetku",
+    "TXTMD":"Podčíslo inv.majetku (flexib.aktualice)",
+    "TXTLG":"Podčíslo inv.majetku (flexibilní aktualizace)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Anlagenunternummer (",
+    "TXTMD":"Anlagenunternummer (flexible Fortschreib",
+    "TXTLG":"Anlagenunternummer (flexible Fortschreibung)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Asset Subnumber",
+    "TXTMD":"Asset Subnumber (Flexible Update)",
+    "TXTLG":"Asset Subnumber (Flexible Update)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N° subs. immo. (",
+    "TXTMD":"N° subs. immobilisation (MàJ flexible)",
+    "TXTLG":"N° subsidiare d'immobilisation (MàJ flexible)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Eszközalszám (",
+    "TXTMD":"Eszközalszám (flexibilis aktualizálás)",
+    "TXTLG":"Eszközalszám (flexibilis aktualizálás)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"N. second. cespiti",
+    "TXTMD":"N. secondario cespiti (agg. flessibile)",
+    "TXTLG":"Numero secondario cespiti (aggiornamento flessibile)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"資産補助番号",
+    "TXTMD":"資産補助番号 (フレキシブル更新)",
+    "TXTLG":"資産補助番号 (フレキシブル更新)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Anlægsundernummer",
+    "TXTMD":"Anlægsundernummer (fleksibel opdatering)",
+    "TXTLG":"Anlægsundernummer (fleksibel opdatering)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Podnum. skład. akt.",
+    "TXTMD":"Podnumer skład. akt. trw. (elast. akt.)",
+    "TXTLG":"Podnumer składnika aktywów trwałych (elast. aktualizacja)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"資產子號碼",
+    "TXTMD":"資產子號碼〈彈性更新〉",
+    "TXTLG":"資產子號碼〈彈性更新〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vastactiefsubnummer",
+    "TXTMD":"Vastactiefsubnummer (flexibele update)",
+    "TXTLG":"Vastactiefsubnummer (flexibele update)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Und.ordn. anleggsnr.",
+    "TXTMD":"Underordnet anleggsnr. (fleks. oppdat.)",
+    "TXTLG":"Underordnet anleggsnummer (fleksibel oppdatering)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Subnº do imobilizado",
+    "TXTMD":"Subnº do imobilizado (atualização flex.)",
+    "TXTLG":"Subnº do imobilizado (atualização flexível)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Podčíslo inv.majetku",
+    "TXTMD":"Podčíslo inv.majetku (flex.aktualizácia)",
+    "TXTLG":"Podčíslo inv.majetku (flexibilná aktualizácia)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"СубномерОснСредства",
+    "TXTMD":"Субномер осн. средства (гибкое обновл.)",
+    "TXTLG":"Субномер осн. средства (гибкое обновление)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Subnúmero de AF (",
+    "TXTMD":"Subnúmero de AF (actualización flexible)",
+    "TXTLG":"Subnúmero de activo fijo (actualización flexible)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Duran varlık alt no.",
+    "TXTMD":"Duran varlık alt numarası (esnek gncl.)",
+    "TXTLG":"Duran varlık alt numarası (esnek güncelleme)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Käyttöom. alanumero(",
+    "TXTMD":"Käyttöom. alanumero (joustava päivitys)",
+    "TXTLG":"Käyttöomaisuuden alanumero (joustava päivitys)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ASSET_ATTR_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"UndOrdnAnlNr (flex.)",
+    "TXTMD":"Underordn. anläggn.nr (flexibel uppdat.)",
+    "TXTLG":"Underordnat anläggningsnr (flexibel uppdatering)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ASSET_ATTR_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

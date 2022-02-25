@@ -1,0 +1,90 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ZBW_IS_CUST",
+    "OBJVERS":"A",
+    "APPLNM":"ZBW_PM_MD",
+    "COMSTRU":"ZBW_IS_CUST",
+    "OWNER":"UHLER",
+    "TSTPNM":"UHLER",
+    "TIMESTMP":"+020041026141917",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"6",
+    "ISOURCE":"ZBW_IS_CUST",
+    "OBJVERS":"A",
+    "TXTSH":"Customers from North",
+    "TXTMD":"Customers from Northwind",
+    "TXTLG":"Customers from Northwind"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"ZBW_IS_CUST",
+    "OBJVERS":"A",
+    "TXTSH":"Customers from North",
+    "TXTMD":"Customers from Northwind",
+    "TXTLG":"Customers from Northwind"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"ZBW_IS_CUST",
+    "OBJVERS":"A",
+    "TXTSH":"Customers from North",
+    "TXTMD":"Customers from Northwind",
+    "TXTLG":"Customers from Northwind"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"ZBW_IS_CUST",
+    "OBJVERS":"A",
+    "TXTSH":"Customers from North",
+    "TXTMD":"Customers from Northwind",
+    "TXTLG":"Customers from Northwind"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ZBW_IS_CUST",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"UHLER",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

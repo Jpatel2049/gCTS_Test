@@ -1,0 +1,66 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"ACRM_0CSALMC02",
+    "OBJVERS":"A",
+    "APPLNM":"ZACRM_FACT_SHEET_SALESMAN",
+    "COMSTRU":"ACRM_0CSALMC02",
+    "OWNER":"RUSCHA",
+    "TSTPNM":"RUSCHA",
+    "TIMESTMP":"+020040907161347",
+    "CONTREL":"",
+    "CONTTIMESTMP":"0",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ISOURCE":"ACRM_0CSALMC02",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Sales Funnel / P",
+    "TXTMD":"CRM Sales Funnel / Pipeline",
+    "TXTLG":"CRM Sales Funnel / Pipeline"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"ACRM_0CSALMC02",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUSCHA",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

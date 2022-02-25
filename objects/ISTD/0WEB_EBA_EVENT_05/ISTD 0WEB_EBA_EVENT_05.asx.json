@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_05",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214194454",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214194454",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 查看商品 (茶叶)",
+    "TXTLG":"事件 - 查看商品 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 상품",
+    "TXTMD":"이벤트 - 상품조회 (Tealeaf)",
+    "TXTLG":"이벤트 - 상품조회 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - artikl",
+    "TXTMD":"Událost - view artiklu (Tealeaf)",
+    "TXTLG":"Událost - view artiklu (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Artikel",
+    "TXTMD":"Ereignis - Artikel ansehen (Tealeaf)",
+    "TXTLG":"Ereignis - Artikel ansehen (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Article",
+    "TXTMD":"Event - Viewing Article (Tealeaf)",
+    "TXTLG":"Event - Viewing Article (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - article",
+    "TXTMD":"Evénement - visualiser article (Tealeaf)",
+    "TXTLG":"Evénement - visualiser article (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Esemény - cikk",
+    "TXTMD":"Esemény - cikk megjelenítése (Tealeaf)",
+    "TXTLG":"Esemény - cikk megjelenítése (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - articolo",
+    "TXTMD":"Evento - visualizzare articolo (Tealeaf)",
+    "TXTLG":"Evento - visualizzare articolo (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - 商品",
+    "TXTMD":"イベント - 商品照会 (Tealeaf)",
+    "TXTLG":"イベント - 商品照会 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - artikel",
+    "TXTMD":"Hændelse - vis artikel (Tealeaf)",
+    "TXTLG":"Hændelse - vis artikel (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - artykuł",
+    "TXTMD":"Zdarzenie - przegląd artykułów (Tealeaf)",
+    "TXTLG":"Zdarzenie - przegląd artykułów (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 檢視商品 (Tealeaf)",
+    "TXTLG":"事件 - 檢視商品 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Event - artikel",
+    "TXTMD":"Event - artikel bekijken (tealeaf)",
+    "TXTLG":"Event - artikel bekijken (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - artikkel",
+    "TXTMD":"Hendelse - vis artikkel (TeaLeaf)",
+    "TXTLG":"Hendelse - vis artikkel (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Artigo",
+    "TXTMD":"Evento - Ver artigo (Tealeaf)",
+    "TXTLG":"Evento - Ver artigo (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - artikel",
+    "TXTMD":"Udalosť - view artikla (tealeaf)",
+    "TXTLG":"Udalosť - view artikla (tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - товар",
+    "TXTMD":"Событие - просмотр товара (Tealeaf)",
+    "TXTLG":"Событие - просмотр товара (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Artículo",
+    "TXTMD":"Evento: Ver artículo (Tealeaf)",
+    "TXTLG":"Evento: Ver artículo (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - ürüne bak",
+    "TXTMD":"Olay - ürüne bak (Tealeaf)",
+    "TXTLG":"Olay - ürüne bak (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma - tuote",
+    "TXTMD":"Tapahtuma - katso tuotetta (TeaLeaf)",
+    "TXTLG":"Tapahtuma - katso tuotetta (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_05",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - artikel",
+    "TXTMD":"Händelse - visa artikel (Tealeaf)",
+    "TXTLG":"Händelse - visa artikel (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_05",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

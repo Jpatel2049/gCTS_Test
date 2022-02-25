@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "APPLNM":"0PH_BP",
+    "COMSTRU":"0BP_PH_GR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030701081725",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030701081725",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"业务合作伙伴组",
+    "TXTMD":"业务合作伙伴组",
+    "TXTLG":"业务合作伙伴组"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"비즈니스 파트너 그룹",
+    "TXTMD":"비즈니스 파트너 그룹",
+    "TXTLG":"비즈니스 파트너 그룹"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Gro",
+    "TXTMD":"Business Partner Groups",
+    "TXTLG":"Business Partner Groups"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Skupiny OP",
+    "TXTMD":"Skupiny obchodních partnerů",
+    "TXTLG":"Skupiny obchodních partnerů"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"GP-Gruppen",
+    "TXTMD":"Geschäftspartnergruppen",
+    "TXTLG":"Geschäftspartnergruppen"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Gro",
+    "TXTMD":"Business Partner Groups",
+    "TXTLG":"Business Partner Groups"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Groupes partenaire",
+    "TXTMD":"Groupes partenaire",
+    "TXTLG":"Groupes partenaire"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Gro",
+    "TXTMD":"Business Partner Groups",
+    "TXTLG":"Business Partner Groups"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"ÜP-csoportok",
+    "TXTMD":"Üzletipartner-csoportok",
+    "TXTLG":"Üzletipartner-csoportok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Gruppi BP",
+    "TXTMD":"Gruppi business partner",
+    "TXTLG":"Gruppi business partner"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"ビジネスパートナ Grp",
+    "TXTMD":"ビジネスパートナグループ",
+    "TXTLG":"ビジネスパートナグループ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"FP-grupper",
+    "TXTMD":"Forretningspartnergrupper",
+    "TXTLG":"Forretningspartnergrupper"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Grupy PB",
+    "TXTMD":"Grupy partnerów biznesowych",
+    "TXTLG":"Grupy partnerów biznesowych"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"業務夥伴群組",
+    "TXTMD":"業務夥伴群組",
+    "TXTLG":"業務夥伴群組"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"ZP-groepen",
+    "TXTMD":"Zakenpartnergroepen",
+    "TXTLG":"Zakenpartnergroepen"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"FP-grupper",
+    "TXTMD":"Forretningspartnergrupper",
+    "TXTLG":"Forretningspartnergrupper"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Grupos PN",
+    "TXTMD":"Grupos de parceiros de negócios",
+    "TXTLG":"Grupos de parceiros de negócios"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Skupiny OP",
+    "TXTMD":"Skupiny obchodných partnerov",
+    "TXTLG":"Skupiny obchodných partnerov"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Группы ДП",
+    "TXTMD":"Группы деловых партнеров",
+    "TXTLG":"Группы деловых партнеров"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Grupos IC",
+    "TXTMD":"Grupos de interlocutores comerciales",
+    "TXTLG":"Grupos de interlocutores comerciales"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Muhatap grupları",
+    "TXTMD":"Muhatap grupları",
+    "TXTLG":"Muhatap grupları"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Liikekumppaniryhmät",
+    "TXTMD":"Liikekumppaniryhmät",
+    "TXTLG":"Liikekumppaniryhmät"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Affärspartnergrupper",
+    "TXTMD":"Affärspartnergrupper",
+    "TXTLG":"Affärspartnergrupper"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BP_PH_GR",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Gro",
+    "TXTMD":"Business Partner Groups",
+    "TXTLG":"Business Partner Groups"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BP_PH_GR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

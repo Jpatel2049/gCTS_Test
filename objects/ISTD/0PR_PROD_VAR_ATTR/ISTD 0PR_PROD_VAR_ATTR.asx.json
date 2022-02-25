@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PR_PROD_VAR_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040129153928",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040129153928",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 分配",
+    "TXTMD":"产品: 分配产品差异 -配置",
+    "TXTLG":"产品: 分配产品差异 - 配置产品"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 지정",
+    "TXTMD":"제품: 지정 제품 변형 - 구성가능",
+    "TXTLG":"제품: 지정 제품 변형 - 구성가능 제품"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Assignment",
+    "TXTMD":"Product: Assignment Product Var. - Confi",
+    "TXTLG":"Product. Assignment Product Var. - Configurable Product"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Přiřazení",
+    "TXTMD":"Produkt: Přiř.var.produktu - konf.prod.",
+    "TXTLG":"Produkt: Přířazení var.produktu - konfigurovatelný produkt"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Zuordnung P",
+    "TXTMD":"Produkt: Zuordnung Produktvar. - konfigu",
+    "TXTLG":"Produkt: Zuordnung Produktvar. - konfigurierbares Produkt"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Assignment",
+    "TXTMD":"Product: Assignment Product Var. - Confi",
+    "TXTLG":"Product. Assignment Product Var. - Configurable Product"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit: affectation",
+    "TXTMD":"Prodt: affect. var.prodt - prodt config.",
+    "TXTLG":"Produit : affectation var. produit - produit configurable"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Assignment",
+    "TXTMD":"Product: Assignment Product Var. - Confi",
+    "TXTLG":"Product. Assignment Product Var. - Configurable Product"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: hozzárend.",
+    "TXTMD":"Termék: hozzárendelés termékvált. - konf",
+    "TXTLG":"Termék: hozzárendelés: termékvált. - konfigurálható termék"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: att.var.prod.",
+    "TXTMD":"Prodotto: attrib. var. prod.- prod.conf.",
+    "TXTLG":"Prodotto: attrib. variante prod.- prodotto configurabile"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 割当",
+    "TXTMD":"製品: 割当製品バリアント - 選定可能製品",
+    "TXTLG":"製品: 割当製品バリアント - 選定可能製品"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Allokering",
+    "TXTMD":"Produkt: Allokering produktvar. - konf.",
+    "TXTLG":"Produkt: Allokering produktvar. - produkt der kan konfigur."
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Przypis.",
+    "TXTMD":"Produkt: Przypis. war. produktu - konf.",
+    "TXTLG":"Produkt: Przypis. war. produktu - produkt konfigurowalny"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：指派",
+    "TXTMD":"產品：指派產品變式 - 可選配",
+    "TXTLG":"產品：指派產品變式 - 可選配產品"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: toewijz. P",
+    "TXTMD":"Product: toewijzing productvar. - Config",
+    "TXTLG":"Product: toewijzing productvar. - configureerbaar product"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Tilordn. p.",
+    "TXTMD":"Prod.: Tilordn. prod.var. - konf. prod.",
+    "TXTLG":"Produkt: Tilordning produktvar. - konfigurerbart produkt"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: atribuição",
+    "TXTMD":"Produto: atrib.var.prod.- prod.configur.",
+    "TXTLG":"Produto: atribuição variante produto - produto configurável"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Priradenie",
+    "TXTMD":"Produkt: Prirad.var.produktu - konfig.",
+    "TXTLG":"Produkt: Priradenie var.produktu - produkt s možn.konfigur."
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Прод.: присв. ВарПрд",
+    "TXTMD":"Продукт: присв. ВариантПрод - КонфПрод",
+    "TXTLG":"Продукт: присвоение ВариантПродукт - конфигурируемый продукт"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: Asign.prod.",
+    "TXTMD":"Producto: Asign.variante prod.-config.",
+    "TXTLG":"Prod.: Asignación variante producto - producto configurable"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Tayin - ürün",
+    "TXTMD":"Ürün: Tyn.- ürün vry.- konf.edlblr.ürün",
+    "TXTLG":"Ürün: Tayin - ürün varyantı - konfigüre edilebilir ürün"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: kohd. tuote",
+    "TXTMD":"Tuote: tuotevar. - konfig. tuote -kohd.",
+    "TXTLG":"Tuote: tuotevariantti - konfiguroitava tuote -kohdistus"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Allokering",
+    "TXTMD":"Produkt: Allokering produktvar. - konfig",
+    "TXTLG":"Produkt: Allokering produktvar. - konfigurerbar produkt"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PR_PROD_VAR_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Assignment",
+    "TXTMD":"Product: Assignment Product Var. - Confi",
+    "TXTLG":"Product. Assignment Product Var. - Configurable Product"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PR_PROD_VAR_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

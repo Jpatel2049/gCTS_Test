@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "APPLNM":"0FSCM_CR",
+    "COMSTRU":"0FSCM_CM_1",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040130063845",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040130063845",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"抬头数据",
+    "TXTMD":"抬头数据",
+    "TXTLG":"抬头数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"헤더데이타",
+    "TXTMD":"헤더데이타",
+    "TXTLG":"헤더데이타"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Header Data",
+    "TXTMD":"Header Data",
+    "TXTLG":"Header Data"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Data hlavičky",
+    "TXTMD":"Data hlavičky",
+    "TXTLG":"Data hlavičky"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Kopfdaten",
+    "TXTMD":"Kopfdaten",
+    "TXTLG":"Kopfdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Header Data",
+    "TXTMD":"Header Data",
+    "TXTLG":"Header Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Données d'en-tête",
+    "TXTMD":"Données d'en-tête",
+    "TXTLG":"Données d'en-tête"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Header Data",
+    "TXTMD":"Header Data",
+    "TXTLG":"Header Data"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Fejlécadatok",
+    "TXTMD":"Fejlécadatok",
+    "TXTLG":"Fejlécadatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dati testata",
+    "TXTMD":"Dati testata",
+    "TXTLG":"Dati testata"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"ヘッダデータ",
+    "TXTMD":"ヘッダデータ",
+    "TXTLG":"ヘッダデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Topdata",
+    "TXTMD":"Topdata",
+    "TXTLG":"Topdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dane nagłówka",
+    "TXTMD":"Dane nagłówka",
+    "TXTLG":"Dane nagłówka"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"表頭資料",
+    "TXTMD":"表頭資料",
+    "TXTLG":"表頭資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Kopgegevens",
+    "TXTMD":"Kopgegevens",
+    "TXTLG":"Kopgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Toppdata",
+    "TXTMD":"Toppdata",
+    "TXTLG":"Toppdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dados do cabeçalho",
+    "TXTMD":"Dados do cabeçalho",
+    "TXTLG":"Dados do cabeçalho"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Dáta hlavičky",
+    "TXTMD":"Dáta hlavičky",
+    "TXTLG":"Dáta hlavičky"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Данные заголовка",
+    "TXTMD":"Данные заголовка",
+    "TXTLG":"Данные заголовка"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Datos cab.",
+    "TXTMD":"Datos cab.",
+    "TXTLG":"Datos cab."
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Başlık verileri",
+    "TXTMD":"Başlık verileri",
+    "TXTLG":"Başlık verileri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Otsikkotiedot",
+    "TXTMD":"Otsikkotiedot",
+    "TXTLG":"Otsikkotiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Huvuddata",
+    "TXTMD":"Huvuddata",
+    "TXTLG":"Huvuddata"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0FSCM_CM_1",
+    "OBJVERS":"A",
+    "TXTSH":"Header Data",
+    "TXTMD":"Header Data",
+    "TXTLG":"Header Data"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0FSCM_CM_1",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

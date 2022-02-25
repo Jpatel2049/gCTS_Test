@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0MDM_PRD",
+    "COMSTRU":"0MDM_PRD_GENERAL_ATTR",
+    "OWNER":"FERROC",
+    "TSTPNM":"HAURYA",
+    "TIMESTMP":"+020040402081717",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040402081717",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品普通数据",
+    "TXTMD":"产品普通数据",
+    "TXTLG":"产品普通数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품 일반 데이터",
+    "TXTMD":"제품 일반 데이터",
+    "TXTLG":"제품 일반 데이터"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Všeob.data",
+    "TXTMD":"Všeobecná data pro produkt",
+    "TXTLG":"Všeobecná data pro produkt"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: allg. Daten",
+    "TXTMD":"Allgemeine Daten für Produkt",
+    "TXTLG":"Allgemeine Daten für Produkt"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"product general data",
+    "TXTMD":"product general data",
+    "TXTLG":"product general data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prodt: données gnles",
+    "TXTMD":"Données générales pour produit",
+    "TXTLG":"Données générales pour produit"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: ált. adatok",
+    "TXTMD":"Termék általános adatai",
+    "TXTLG":"Termék általános adatai"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto: dati gen.",
+    "TXTMD":"Dati generali per prodotto",
+    "TXTLG":"Dati generali per prodotto"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品一般データ",
+    "TXTMD":"製品一般データ",
+    "TXTLG":"製品一般データ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Gen. data",
+    "TXTMD":"Generelle data for produkt",
+    "TXTLG":"Generelle data for produkt"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Dane ogólne",
+    "TXTMD":"Dane ogólne dla produktu",
+    "TXTLG":"Dane ogólne dla produktu"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品一般資料",
+    "TXTMD":"產品一般資料",
+    "TXTLG":"產品一般資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: alg. gegev.",
+    "TXTMD":"Algemene gegevens voor product",
+    "TXTLG":"Algemene gegevens voor product"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Gen. data",
+    "TXTMD":"Generelle data for produkt",
+    "TXTLG":"Generelle data for produkt"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: dds.gerais",
+    "TXTMD":"Dados gerais para produto",
+    "TXTLG":"Dados gerais para produto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Všeob.dáta",
+    "TXTMD":"Všeobecné dáta pre produkt",
+    "TXTLG":"Všeobecné dáta pre produkt"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: общие данн.",
+    "TXTMD":"Общие данные для продукта",
+    "TXTLG":"Общие данные для продукта"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: DatGrales",
+    "TXTMD":"Datos generales para producto",
+    "TXTLG":"Datos generales para producto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Genel veriler",
+    "TXTMD":"Ürün için genel veriler",
+    "TXTLG":"Ürün için genel veriler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: yleiset tied.",
+    "TXTMD":"Tuotteen yleiset tiedot",
+    "TXTLG":"Tuotteen yleiset tiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MDM_PRD_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Allm. data",
+    "TXTMD":"Allmänna data för produkt",
+    "TXTLG":"Allmänna data för produkt"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MDM_PRD_GENERAL_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "APPLNM":"0PH_BP",
+    "COMSTRU":"0BP_PH_SP",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030701083259",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030701083259",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"业务合作伙伴特性",
+    "TXTMD":"业务合作伙伴特性 (主数据",
+    "TXTLG":"业务合作伙伴特性 (主数据, 文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"BP 특이사항",
+    "TXTMD":"BP 특이사항(마스터 데이터, 텍스트)",
+    "TXTLG":"비즈니스 파트너 특이사항(마스터 데이터, 텍스트)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Spe",
+    "TXTMD":"Business Partner Specialities (Master Da",
+    "TXTLG":"Business Partner Specialities (Master Data, Text)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Specializace OP",
+    "TXTMD":"Specializace OP (kmen.data, text)",
+    "TXTLG":"Specializace obchodního partnera (km.data, text)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"GP-Spezialisierung",
+    "TXTMD":"GP-Spezialisierung (Stammdaten, Text)",
+    "TXTLG":"Geschäftspartnerspezialisierung (Stammdaten, Text)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Spe",
+    "TXTMD":"Business Partner Specialities (Master Da",
+    "TXTLG":"Business Partner Specialities (Master Data, Text)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Spécialisation part.",
+    "TXTMD":"Spécialisation parten.(d.base, texte)",
+    "TXTLG":"Spécialisation partenaire (données de base, texte)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Spe",
+    "TXTMD":"Business Partner Specialities (Master Da",
+    "TXTLG":"Business Partner Specialities (Master Data, Text)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"ÜP-specializálás",
+    "TXTMD":"ÜP-specializálás (törzsadatok, szöveg)",
+    "TXTLG":"Üzletipartner-specializálás (törzsadatok, szöveg)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Specializzazione BP",
+    "TXTMD":"Specializzazione BP (dt. anagr., testo)",
+    "TXTLG":"Specializzazione business partner (dati anagr., testo)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"ビジネスパートナ専門",
+    "TXTMD":"ビジネスパートナ専門 (マスタデータ,Text)",
+    "TXTLG":"ビジネスパートナ専門 (マスタデータ、テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"FP-specialisering",
+    "TXTMD":"FP-specialisering (stamdata, tekst)",
+    "TXTLG":"Forretningspartnerspecialisering (stamdata, tekst)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Specjalizacja PB",
+    "TXTMD":"Specjalizacja PB (dane podst., tekst)",
+    "TXTLG":"Specjalizacja partnera biznesowego (dane podst., tekst)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"業務夥伴專長",
+    "TXTMD":"業務夥伴專長（主檔資料",
+    "TXTLG":"業務夥伴專長（主檔資料、內文）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"ZP-specialisatie",
+    "TXTMD":"ZP-specialisatie (stamgegevens, tekst)",
+    "TXTLG":"Zakenpartnerspecialisatie (stamgegevens, tekst)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"FP-spesialisering",
+    "TXTMD":"FP-spesialisering (stamdata, tekst)",
+    "TXTLG":"Forretningspartnerspesialisering (stamdata, tekst)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Especialização PN",
+    "TXTMD":"Especialização PN (dados mestre, texto)",
+    "TXTLG":"Especialização do parceiro de negócios (dados mestre, texto)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Špecializácia OP",
+    "TXTMD":"Špecializácia OP (kmeňové dáta, text)",
+    "TXTLG":"Špecilizácia obchodného partnera (kmeňové dáta, text)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Специализация ДП",
+    "TXTMD":"Специализация ДП (осн. данные, текст)",
+    "TXTLG":"Специализация деловых партнеров (основные данные, текст)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Especialización IC",
+    "TXTMD":"Especialización IC (dat.maes., txt)",
+    "TXTLG":"Especialización de interlocutor comercial (dat.maest., txt.)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Mhtp.özelleştirmesi",
+    "TXTMD":"Mhtp.özelleştirmesi (ana veriler, metin)",
+    "TXTLG":"Muhatap özelleştirmesi (ana veriler, metin)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"LK:n erikoistuminen",
+    "TXTMD":"LK:n erikoist. (perustiedot, teksti)",
+    "TXTLG":"Liikekumppanin erikoistuminen (perustiedot, teksti)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"AP-specialisering",
+    "TXTMD":"AP-specialisering (basdata, text)",
+    "TXTLG":"Affärspartnerspecialisering (basdata, text)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BP_PH_SP",
+    "OBJVERS":"A",
+    "TXTSH":"Business Partner Spe",
+    "TXTMD":"Business Partner Specialities (Master Da",
+    "TXTLG":"Business Partner Specialities (Master Data, Text)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BP_PH_SP",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

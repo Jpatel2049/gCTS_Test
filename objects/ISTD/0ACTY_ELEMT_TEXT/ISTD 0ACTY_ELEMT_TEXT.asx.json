@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"PS-IO",
+    "COMSTRU":"0ACTY_ELEMT_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020041209083627",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020041209083627",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"活动编号",
+    "TXTMD":"活动元素编号 (工作/外部",
+    "TXTLG":"活动元素编号 (工作/外部/成本) - 文本"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"액티비티 수",
+    "TXTMD":"액티비티 요소 수(작업/외부)",
+    "TXTLG":"액티비티 요소 수(작업/외부/원가) - 텍스트"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Activity",
+    "TXTMD":"Number of Activity Element (Work/Externa",
+    "TXTLG":"Number of Activity Element (Wokr/External/Costs) - Texts"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Číslo operace",
+    "TXTMD":"Číslo prvku perace (práce/extern./nák.)",
+    "TXTLG":"Číslo prvku perace (práce/extern./nák.) - texty"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer eines Vorgang",
+    "TXTMD":"Nummer eines Vorgangselements (Arbeit/Fr",
+    "TXTLG":"Nummer eines Vorgangselements (Arbeit/Fremd/Kosten) - Texte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Activity",
+    "TXTMD":"Number of Activity Element (Work/Externa",
+    "TXTLG":"Number of Activity Element (Wokr/External/Costs) - Texts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Numéro d'1 activité",
+    "TXTMD":"Numéro d'une sous-activité (travail/étr",
+    "TXTLG":"Numéro d'une sous-activité (travail/étranger/coûts) - textes"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Activity",
+    "TXTMD":"Number of Activity Element (Work/Externa",
+    "TXTLG":"Number of Activity Element (Wokr/External/Costs) - Texts"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Művelet száma",
+    "TXTMD":"Műveletelem száma (munka/külső/költség)",
+    "TXTLG":"Műveletelem száma (munka/külső/költség) - szövegek"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Numero operazione",
+    "TXTMD":"N. elem. operazione (lavoro/est./costi)",
+    "TXTLG":"Numero elemento operazione (lavoro/esterno/costi) - testi"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"活動番号",
+    "TXTMD":"活動要素番号 (作業/外部/原価)",
+    "TXTLG":"活動要素番号 (作業/外部/原価) - テキスト"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer på operation",
+    "TXTMD":"Nummer på operationselement (arbejde/fre",
+    "TXTLG":"Nummer på operationselement (arbejde/fremmed/omk.) - tekster"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Numer czynności",
+    "TXTMD":"Nr elem. czynności (praca/zewn./koszty)",
+    "TXTLG":"Numer elementu czynności (praca/zewn./koszty) - teksty"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"作業號碼",
+    "TXTMD":"作業元素號碼〈工作/外部〉",
+    "TXTLG":"作業元素號碼〈工作/外部/成本〉- 內文"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Activiteitsnummer",
+    "TXTMD":"Subactiviteitsnummer (werk/uitb",
+    "TXTLG":"Subactiviteitsnummer (werk/uitbesteed/kosten) - teksten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nummer på aktivitet",
+    "TXTMD":"Nummer på aktivitetselement (arb./ekst.)",
+    "TXTLG":"Nummer på aktivitetselement (arbeid/ekst./kostn.) - Tekster"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nº de uma tarefa",
+    "TXTMD":"Nº de um elemento de tarefa (trab./ext.)",
+    "TXTLG":"Nº de um elemento de tarefa (trabalho/externo/custos)-textos"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Číslo operácie",
+    "TXTMD":"Číslo prvku operácie (práca/extern.",
+    "TXTLG":"Číslo prvku operácie (práca/extern./náklady) - texty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Номер операции",
+    "TXTMD":"Номер элемента операции (работа/внешн.)",
+    "TXTLG":"Номер элемента операции (работа/внешн./затраты) - тексты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Número de operación",
+    "TXTMD":"Número de una operación subordinada",
+    "TXTLG":"Número de una operación subordinada (trabajo/ext./cost.):Txt"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"İşlem numarası",
+    "TXTMD":"İşlem öğesi numarası (iş/harici)",
+    "TXTLG":"İşlem öğesi numarası (iş/harici/masraflar) - metinler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Vaiheen numero",
+    "TXTMD":"Vaihe-elementin numero (työ/vieras",
+    "TXTLG":"Vaihe-elementin numero (työ/vieras/kustannukset) - tekstit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Aktivitetsnummer",
+    "TXTMD":"Nummer på aktivitetselement (arbete/ext.",
+    "TXTLG":"Nummer på aktivitetselement (arbete/ext./kostnader) - texter"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0ACTY_ELEMT_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Number of Activity",
+    "TXTMD":"Number of Activity Element (Work/Externa",
+    "TXTLG":"Number of Activity Element (Wokr/External/Costs) - Texts"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0ACTY_ELEMT_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HUETT",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

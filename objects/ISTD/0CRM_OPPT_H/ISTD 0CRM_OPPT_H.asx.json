@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_SALES",
+    "COMSTRU":"0CRM_OPPT_H",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020050718082434",
+    "CONTREL":"7.0/02",
+    "CONTTIMESTMP":"+020050718082434",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 机会:抬头数据",
+    "TXTMD":"CRM 机会: 抬头数据",
+    "TXTLG":"CRM 机会: 抬头数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 기회: 헤더",
+    "TXTMD":"CRM Opportunities: 헤더 데이터",
+    "TXTLG":"CRM Opportunities: 헤더 데이터"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: Data hlav.příl.",
+    "TXTMD":"CRM: Data hlavičky příležitosti",
+    "TXTLG":"CRM: Data hlavičky příležitosti"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunities Ko",
+    "TXTMD":"CRM Opportunities Kopfdaten",
+    "TXTLG":"CRM Opportunities Kopfdaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunities:Hd",
+    "TXTMD":"CRM Opportunities: Header Data",
+    "TXTLG":"CRM Opportunities: Header Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"Opport.CRM d.en-tête",
+    "TXTMD":"Opportunités CRM : données d'en-tête",
+    "TXTLG":"Opportunités CRM : données d'en-tête"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunity-fej",
+    "TXTMD":"CRM Opportunity-k fejadatai",
+    "TXTLG":"CRM Opportunity-k fejadatai"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM- dt.testata opp.",
+    "TXTMD":"CRM - dati testata opportunità",
+    "TXTLG":"CRM - dati testata opportunità"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 案件: ヘッダ",
+    "TXTMD":"CRM 案件: ヘッダデータ",
+    "TXTLG":"CRM 案件: ヘッダデータ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM salgsmuligh. top",
+    "TXTMD":"CRM salgsmuligheder - topdata",
+    "TXTLG":"CRM salgsmuligheder - topdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"Szanse CRM: DaneNagł",
+    "TXTMD":"CRM-szanse: Dane nagłówka",
+    "TXTLG":"CRM-szanse: Dane nagłówka"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 商機：表頭資料",
+    "TXTMD":"CRM 商機：表頭資料",
+    "TXTLG":"CRM 商機：表頭資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: Opport. kopgeg.",
+    "TXTMD":"CRM: Opportunities kopgegevens",
+    "TXTLG":"CRM: Opportunities kopgegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM salgsmul. topp.",
+    "TXTMD":"CRM salgsmuligheter - toppdata",
+    "TXTLG":"CRM salgsmuligheter - toppdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM oportunidades",
+    "TXTMD":"CRM oportunidades dados de cabeçalho",
+    "TXTLG":"CRM oportunidades dados de cabeçalho"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Príležitosti: Hl",
+    "TXTMD":"CRM Príležitosti - dáta hlavičky",
+    "TXTLG":"CRM Príležitosti - dáta hlavičky"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: возможн.- загл.",
+    "TXTMD":"CRM: возможности - данные заголовка",
+    "TXTLG":"CRM: возможности - данные заголовка"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Dat.cab.oportun.",
+    "TXTMD":"Dat.cabecera oportunidades CRM",
+    "TXTLG":"Dat.cabecera oportunidades CRM"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM frst.başlık vr.",
+    "TXTMD":"CRM fırsatları başlık verileri",
+    "TXTLG":"CRM fırsatları başlık verileri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: mahdoll. - ots.",
+    "TXTMD":"CRM: mahdollisuudet - otsikkotiedot",
+    "TXTLG":"CRM: mahdollisuudet - otsikkotiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_OPPT_H",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunities hu",
+    "TXTMD":"CRM Opportunities huvuddata",
+    "TXTLG":"CRM Opportunities huvuddata"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_OPPT_H",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

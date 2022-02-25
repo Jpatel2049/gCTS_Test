@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_BA",
+    "COMSTRU":"0WEB_EBA_BASKET_02",
+    "OWNER":"HERGERM",
+    "TSTPNM":"HERGERM",
+    "TIMESTMP":"+020001109184813",
+    "CONTREL":"2.1/01",
+    "CONTTIMESTMP":"+020001109184813",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"购物篮 - 项目",
+    "TXTMD":"购物篮 - 购物篮中的项目 (茶叶)",
+    "TXTLG":"购物篮 - 购物篮中的项目 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"쇼핑바구니-품목",
+    "TXTMD":"쇼핑바구니 - 쇼핑바구니의 품목(Tealeaf)",
+    "TXTLG":"쇼핑바구니 - 쇼핑바구니의 품목(Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Nákupní koš - artikl",
+    "TXTMD":"Nákupní koš - artikl v nákup.koši(tealea",
+    "TXTLG":"Nákupní koš - artikl v nákupním koši (tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Warenkorb - Artikel",
+    "TXTMD":"Warenkorb - Artikel im Warenkorb (Tealea",
+    "TXTLG":"Warenkorb - Artikel im Warenkorb (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Basket - Items",
+    "TXTMD":"Shopping Basket - Items in Basket (Tea.)",
+    "TXTLG":"Shopping Basket - Items in Shopping Basket (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"PanierMén. - article",
+    "TXTMD":"Panier ménagère - art. ds panier (Tealea",
+    "TXTLG":"Panier de la ménagère - article ds panier ménagère (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Kosár - árucikk",
+    "TXTMD":"Kosár - árucikk a kosárban (teleaf)",
+    "TXTLG":"Kosár - árucikk a kosárban (teleaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Carr.shopp.- artic.",
+    "TXTMD":"Carr. shopping - art. nel car. (Tealeaf)",
+    "TXTLG":"Carrello shopping - articoli nel carrello shopping (tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"カート - 明細",
+    "TXTMD":"ショッピングカカートの明細 (Tealeaf)",
+    "TXTLG":"ショッピングカート - ショッピングカートの明細 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Indkøbskurv - art.",
+    "TXTMD":"Indkøbskurv - artikel i indkøbskurv (TL)",
+    "TXTLG":"Indkøbskurv - artikel i indkøbskurv (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Koszyk zakupów-art.",
+    "TXTMD":"Koszyk zak.-artyk.w kosz. zak.(Tealeaf)",
+    "TXTLG":"Koszyk zakupów - artykuł w koszyku zakupów (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"購物籃 - 項目",
+    "TXTMD":"購物籃 - 購物籃中的項目 (Tealeaf)",
+    "TXTLG":"購物籃 - 購物籃中的項目 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Boodsch.mand - art.",
+    "TXTMD":"Boodsch.mand - art. in boodsch.mand (TL)",
+    "TXTLG":"Boodschappenmand - artikel in boodschappenmand (Tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Handlekurv - art.",
+    "TXTMD":"Handlekurv - art. i handlekurv (Tealeaf)",
+    "TXTLG":"Handlekurv - artikkel i handlekurv (Tealeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Cesto compras - art.",
+    "TXTMD":"Cesto compras - art.cesto compras(Tealea",
+    "TXTLG":"Cesto de compras - artigo no cesto de compras (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Nák.kôš - artikel",
+    "TXTMD":"Nákupný kôš - artikel v nák.koši (tealea",
+    "TXTLG":"Nákupný kôš - artikel v nákupnom koši (tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Товар.корзина- товар",
+    "TXTMD":"Товарная корзина - товар в тов. корзине",
+    "TXTLG":"Товарная корзина - товар в товарной корзине (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"CestCompra: Artículo",
+    "TXTMD":"CestCompra: Artíc.cesta compra (TeaLeaf)",
+    "TXTLG":"Cesta de compra: Artículo en cesta de compra (TeaLeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Alş.vrş.spt. - ürün",
+    "TXTMD":"Alş.vrş.spt. - Alş.vrş.spt.ürn. (Tealeaf",
+    "TXTLG":"Alış veriş sepeti - Alış veriş sepetindeki ürünler (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Ostoskori - tuote",
+    "TXTMD":"Ostoskori - tuotteet ostoskorissa (Teale",
+    "TXTLG":"Ostoskori - tuotteet ostoskorissa (Tealeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_BASKET_02",
+    "OBJVERS":"A",
+    "TXTSH":"Inköpskorg - artikel",
+    "TXTMD":"Inköpskorg - artikel i inköpskorg (Teale",
+    "TXTLG":"Inköpskorg - artikel i inköpskorg (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_BASKET_02",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

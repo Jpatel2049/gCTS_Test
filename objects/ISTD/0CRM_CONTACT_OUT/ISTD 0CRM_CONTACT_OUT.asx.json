@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_MKT",
+    "COMSTRU":"0CRM_CONTACT_OUT",
+    "OWNER":"DIEWALD",
+    "TSTPNM":"WEIDNERJ",
+    "TIMESTMP":"+020030815103042",
+    "CONTREL":"3.3/01",
+    "CONTTIMESTMP":"+020030815103042",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"信息源: 导出",
+    "TXTMD":"信息源: 导出客户联系",
+    "TXTLG":"信息源: 导出客户联系"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"인포소스: 아웃바운드",
+    "TXTMD":"인포 소스: 아웃바운드 고객 연락",
+    "TXTLG":"인포 소스: 아웃바운드 고객 연락"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infozdroj: Výstupy",
+    "TXTMD":"Infozdroj: Kontakty se zákaz. - výstupy",
+    "TXTLG":"Infozdroj: Kontakty se zákazníkem - výstupy"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource Outbounds",
+    "TXTMD":"Infosource Outbounds Kundenkontakte",
+    "TXTLG":"Infosource Outbounds Kundenkontakte"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource: Outbound",
+    "TXTMD":"Infosource: Outbound Customer Contacts",
+    "TXTLG":"Infosource: Outbound Customer Contacts"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource sortants",
+    "TXTMD":"Infosource : contacts clients sortants",
+    "TXTLG":"Infosource : contacts clients sortants"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infófrr. kimenő vevő",
+    "TXTMD":"Infóforrás kimenő vevőkapcsolatok",
+    "TXTLG":"Infóforrás kimenő vevőkapcsolatok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"InfoSource uscite",
+    "TXTMD":"InfoSource contatti cliente - uscite",
+    "TXTLG":"InfoSource contatti cliente - uscite"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource: Outbound",
+    "TXTMD":"インフォソース: アウトバウンド販売契約",
+    "TXTLG":"インフォソース: アウトバウンド販売契約"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"InfoSource udgående",
+    "TXTMD":"InfoSource: Udgående kundekontakter",
+    "TXTLG":"InfoSource: Udgående kundekontakter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource Outbounds",
+    "TXTMD":"Infosource Outbounds: Kontakty z klient.",
+    "TXTLG":"Infosource Outbounds: Kontakty z klientem"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"InfoSource：外傳",
+    "TXTMD":"InfoSource：外傳客戶契約",
+    "TXTLG":"InfoSource：外傳客戶契約"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infosource: uitgaand",
+    "TXTMD":"Infosource: uitgaande klantcontacten",
+    "TXTLG":"Infosource: uitgaande klantcontacten"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infokilde utgående",
+    "TXTMD":"Infokilde: Utgående kundekontakter",
+    "TXTLG":"Infokilde: Utgående kundekontakter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"InfoSource: saídas",
+    "TXTMD":"InfoSource contatos do cliente: saídas",
+    "TXTLG":"InfoSource contatos do cliente: saídas"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infozdroj: Výstupy",
+    "TXTMD":"Infozdroj:Kontakty so zákazníkom-výstupy",
+    "TXTLG":"Infozdroj: Kontakty so zákazníkom - výstupy"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"ИнфоИсточ: исходящие",
+    "TXTMD":"Инфо-источ.: исходящие контакты клиентов",
+    "TXTLG":"Инфо-источник: исходящие контакты клиентов"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"InfoFuente salidas",
+    "TXTMD":"InfoFuente salidas contactos cliente",
+    "TXTLG":"InfoFuente salidas contactos cliente"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Bilgi kaynağı: Giden",
+    "TXTMD":"Bilgi kaynağı: Giden müşteri irtibatları",
+    "TXTLG":"Bilgi kaynağı: Giden müşteri irtibatları"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infolähde: lähtevät",
+    "TXTMD":"Infolähde: lähtevät asiakaskontaktit",
+    "TXTLG":"Infolähde: lähtevät asiakaskontaktit"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_CONTACT_OUT",
+    "OBJVERS":"A",
+    "TXTSH":"Infokälla utgående",
+    "TXTMD":"Infokälla utgående kundkontakter",
+    "TXTLG":"Infokälla utgående kundkontakter"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_CONTACT_OUT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

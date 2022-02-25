@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_10",
+    "OWNER":"HERGERM",
+    "TSTPNM":"HERGERM",
+    "TIMESTMP":"+020011214195651",
+    "CONTREL":"3.0/01",
+    "CONTTIMESTMP":"+020011214195651",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 采购定单中的商品",
+    "TXTLG":"事件 - 在采购定单中的商品 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 상품",
+    "TXTMD":"이벤트 - 구매오더의 상품",
+    "TXTLG":"이벤트 - 구매오더의 상품 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Událost - artikl v",
+    "TXTMD":"Událost - artikl v objednávce (Tealeaf)",
+    "TXTLG":"Událost - artikl v objednávce (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Ereignis - Artikel i",
+    "TXTMD":"Ereignis - Artikel in der Bestellung (Te",
+    "TXTLG":"Ereignis - Artikel in der Bestellung (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Event - Articles",
+    "TXTMD":"Event - Articles in the Purchase Order",
+    "TXTLG":"Event - Articles in the Purchase Order (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Evénement - article",
+    "TXTMD":"Evénement-article ds commande (Tealeaf)",
+    "TXTLG":"Evénement - article dans commande (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Es.-áruc. megr.-ben",
+    "TXTMD":"Esemény - árucikk a megrendelésben (T.)",
+    "TXTLG":"Esemény - árucikk a megrendelésben (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - articolo",
+    "TXTMD":"Evento - articolo nell'ordine di acq.(Te",
+    "TXTLG":"Evento - articolo nell'ordine d'acquisto (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"イベント - 商品",
+    "TXTMD":"イベント - 購買発注の商品",
+    "TXTLG":"イベント - 購買発注の商品 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - artikel",
+    "TXTMD":"Hændelse - artikel i indkøbsordre (TL)",
+    "TXTLG":"Hændelse - artikel i indkøbsordre (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarzenie - artykuł",
+    "TXTMD":"Zdarzenie - artykuł w zamówieniu",
+    "TXTLG":"Zdarzenie - artykuł w zamówieniu (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 商品",
+    "TXTMD":"事件 - 採購單商品",
+    "TXTLG":"事件 - 採購單的商品 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Event - artikel in",
+    "TXTMD":"Event - artikel in bestelling (TL)",
+    "TXTLG":"Event - artikel in bestelling (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - artikkel",
+    "TXTMD":"Hendelse - artikkel i bestilling (TL)",
+    "TXTLG":"Hendelse - artikkel i bestilling (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Artigo no",
+    "TXTMD":"Evento - Artigo no pedido (Tealeaf)",
+    "TXTLG":"Evento - Artigo no pedido (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Udalosť - artikel v",
+    "TXTMD":"Udalosť - artikel v objednávke (Tealeaf)",
+    "TXTLG":"Udalosť - artikel v objednávke (Tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - товар",
+    "TXTMD":"Событие - товар в заказе на поставку",
+    "TXTLG":"Событие - товар в заказе на поставку (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Artículo del",
+    "TXTMD":"Evento: Artículo del pedido (Tealeaf)",
+    "TXTLG":"Evento: Artículo del pedido (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - satın alma si",
+    "TXTMD":"Olay - satın alma siparişindeki ürün (Te",
+    "TXTLG":"Olay - satın alma siparişindeki ürün (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma - tuote",
+    "TXTMD":"Tapahtuma - tuote ostotilauksessa (TeaLe",
+    "TXTLG":"Tapahtuma - tuote ostotilauksessa (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_10",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - artikel i",
+    "TXTMD":"Händelse - artikel i beställningen (Teal",
+    "TXTLG":"Händelse - artikel i beställningen (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_10",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

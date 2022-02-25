@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0BBP-IO",
+    "COMSTRU":"0BBP_PRODUCT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020021206150656",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020021206150656",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品(预算开票计划性)",
+    "TXTMD":"产品 (预算开票计划属性)",
+    "TXTLG":"产品 (预算开票计划属性)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품(BBP 속성)",
+    "TXTMD":"제품(BBP 속성)",
+    "TXTLG":"제품(BBP 속성)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(BBPAttributes)",
+    "TXTMD":"Product (BBP Attributes)",
+    "TXTLG":"Product (BBP Attributes)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atrib. BBP)",
+    "TXTMD":"Produkt (atributy BBP)",
+    "TXTLG":"Produkt (atributy BBP)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (BBP Attribu",
+    "TXTMD":"Produkt (BBP Attribute)",
+    "TXTLG":"Produkt (BBP Attribute)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(BBPAttributes)",
+    "TXTMD":"Product (BBP Attributes)",
+    "TXTLG":"Product (BBP Attributes)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit (attrib. BBP",
+    "TXTMD":"Produit (attributs BBP)",
+    "TXTLG":"Produit (attributs BBP)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(BBPAttributes)",
+    "TXTMD":"Product (BBP Attributes)",
+    "TXTLG":"Product (BBP Attributes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék (BBP-attrib.)",
+    "TXTMD":"Termék (BBP-attribútumok)",
+    "TXTLG":"Termék (BBP-attribútumok)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(attributi BBP)",
+    "TXTMD":"Prodotto (attributi BBP)",
+    "TXTLG":"Prodotto (attributi BBP)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品 (BBP 属性)",
+    "TXTMD":"製品 (BBP 属性)",
+    "TXTLG":"製品 (BBP 属性)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (EBP-attrib.",
+    "TXTMD":"Produkt (EBP-attributter)",
+    "TXTLG":"Produkt (EBP-attributter)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atryb. BBP)",
+    "TXTMD":"Produkt (atrybuty BBP)",
+    "TXTLG":"Produkt (atrybuty BBP)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品〈BBP 屬性〉",
+    "TXTMD":"產品〈BBP 屬性〉",
+    "TXTLG":"產品〈BBP 屬性〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (EBP-attr.)",
+    "TXTMD":"Product (EBP-attributen)",
+    "TXTLG":"Product (EBP-attributen)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (EBP-attr.)",
+    "TXTMD":"Produkt (EBP-attributter)",
+    "TXTLG":"Produkt (EBP-attributter)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto (atribs.BBP)",
+    "TXTMD":"Produto (atributos BBP)",
+    "TXTLG":"Produto (atributos BBP)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atrib.EBP)",
+    "TXTMD":"Produkt (atribúty EBP)",
+    "TXTLG":"Produkt (atribúty EBP)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт (BBP-атриб.)",
+    "TXTMD":"Продукт (BBP-атрибуты)",
+    "TXTLG":"Продукт (BBP-атрибуты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(atrib.BBP)",
+    "TXTMD":"Producto (atributos BBP)",
+    "TXTLG":"Producto (atributos BBP)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün (BBP ntl.)",
+    "TXTMD":"Ürün (BBP nitelilikleri)",
+    "TXTLG":"Ürün (BBP nitelilikleri)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote (EBP-määrite)",
+    "TXTMD":"Tuote (EBP-määrite)",
+    "TXTLG":"Tuote (EBP-määrite)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (EBP attribu",
+    "TXTMD":"Produkt (EBP attribut)",
+    "TXTLG":"Produkt (EBP attribut)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BBP_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(BBPAttributes)",
+    "TXTMD":"Product (BBP Attributes)",
+    "TXTLG":"Product (BBP Attributes)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BBP_PRODUCT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

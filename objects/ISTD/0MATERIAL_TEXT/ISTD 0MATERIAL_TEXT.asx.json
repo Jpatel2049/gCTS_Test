@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"LO-IO",
+    "COMSTRU":"0MATERIAL_TEXT",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040114082048",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040114082048",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"物料 (文本)",
+    "TXTMD":"物料 (文本)",
+    "TXTLG":"物料 (文本)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"자재 (텍스트)",
+    "TXTMD":"자재 (텍스트)",
+    "TXTLG":"자재 (텍스트)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (texts)",
+    "TXTMD":"Material (texts)",
+    "TXTLG":"Material (texts)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Materiál (texty)",
+    "TXTMD":"Materiál (texty)",
+    "TXTLG":"Materiál (texty)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (Texte)",
+    "TXTMD":"Material (Texte)",
+    "TXTLG":"Material (Texte)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (texts)",
+    "TXTMD":"Material (texts)",
+    "TXTLG":"Material (texts)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Article (textes)",
+    "TXTMD":"Article (textes)",
+    "TXTLG":"Article (textes)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (texts)",
+    "TXTMD":"Material (texts)",
+    "TXTLG":"Material (texts)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Anyag (szövegek)",
+    "TXTMD":"Anyag (szövegek)",
+    "TXTLG":"Anyag (szövegek)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Materiale (testi)",
+    "TXTMD":"Materiale (testi)",
+    "TXTLG":"Materiale (testi)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"品目 (テキスト)",
+    "TXTMD":"品目 (テキスト)",
+    "TXTLG":"品目 (テキスト)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Materiale (tekster)",
+    "TXTMD":"Materiale (tekster)",
+    "TXTLG":"Materiale (tekster)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Materiał (teksty)",
+    "TXTMD":"Materiał (teksty)",
+    "TXTLG":"Materiał (teksty)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"物料〈內文〉",
+    "TXTMD":"物料〈內文〉",
+    "TXTLG":"物料〈內文〉"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Artikel (teksten)",
+    "TXTMD":"Artikel (teksten)",
+    "TXTLG":"Artikel (teksten)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (tekster)",
+    "TXTMD":"Material (tekster)",
+    "TXTLG":"Material (tekster)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (textos)",
+    "TXTMD":"Material (textos)",
+    "TXTLG":"Material (textos)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Materiál (texty)",
+    "TXTMD":"Materiál (texty)",
+    "TXTLG":"Materiál (texty)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Материал (тексты)",
+    "TXTMD":"Материал (тексты)",
+    "TXTLG":"Материал (тексты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (textos)",
+    "TXTMD":"Material (textos)",
+    "TXTLG":"Material (textos)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Malzeme (metinler)",
+    "TXTMD":"Malzeme (metinler)",
+    "TXTLG":"Malzeme (metinler)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Nimike (tekstit)",
+    "TXTMD":"Nimike (tekstit)",
+    "TXTLG":"Nimike (tekstit)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (texter)",
+    "TXTMD":"Material (texter)",
+    "TXTLG":"Material (texter)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0MATERIAL_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Material (texts)",
+    "TXTMD":"Material (texts)",
+    "TXTLG":"Material (texts)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0MATERIAL_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"PUTZ",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

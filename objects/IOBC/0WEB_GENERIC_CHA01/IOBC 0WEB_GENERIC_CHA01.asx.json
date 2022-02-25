@@ -1,0 +1,296 @@
+[
+ {
+  "table":"RSDIOBC",
+  "data":
+  [
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "OBJSTAT":"ACT",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020020726165522",
+    "OWNER":"SAP",
+    "BWAPPL":"BW",
+    "IOBJTP":"CHA",
+    "INFOAREA":"0WEB_GENERIC",
+    "BCTCOMP":"",
+    "TSTPNM":"DDIC",
+    "TIMESTMP":"+020060509164311"
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBCIOBJ",
+  "data":
+  [
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_APP"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_COMSTA"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_FLDNM"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_GROUP"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_GRPORD"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_HITID"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_IOBJNM"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PARAM"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PRMGRP"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PRMNM"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PRMORD"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PRMTYP"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_PRMVAL"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_ROUTIN"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_SITEID"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_SITVAR"
+   },
+   {
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "IOBJNM":"0WEB_UPDR"
+   }
+  ]
+ },
+ {
+  "table":"RSDIOBCT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"一般特性",
+    "TXTLG":"一般事件特性"
+   },
+   {
+    "LANGU":"3",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"일반 특성",
+    "TXTLG":"일반 이벤트 특성"
+   },
+   {
+    "LANGU":"C",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Charakter.generickýc",
+    "TXTLG":"Charakteristiky generických událostí"
+   },
+   {
+    "LANGU":"D",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Merkmale Generische",
+    "TXTLG":"Merkmale Generische Ereignisse"
+   },
+   {
+    "LANGU":"E",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Generic Chars",
+    "TXTLG":"Generic Events Characteristics"
+   },
+   {
+    "LANGU":"F",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Caract. génériques",
+    "TXTLG":"Caractéristiques événements génériques"
+   },
+   {
+    "LANGU":"H",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Jellemzők - generik.",
+    "TXTLG":"Jellemzők - generikus események"
+   },
+   {
+    "LANGU":"I",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Caratter. gen.",
+    "TXTLG":"Caratteristiche eventi generici"
+   },
+   {
+    "LANGU":"J",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"ジェネリック特性",
+    "TXTLG":"ジェネリックイベント特性"
+   },
+   {
+    "LANGU":"K",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Kendetegn generiske",
+    "TXTLG":"Kendetegn generiske hændelser"
+   },
+   {
+    "LANGU":"L",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Cechy rodzajowych",
+    "TXTLG":"Cechy wyników rodzajowych"
+   },
+   {
+    "LANGU":"M",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"一般特性",
+    "TXTLG":"一般事件特性"
+   },
+   {
+    "LANGU":"N",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Kenmerken generieke",
+    "TXTLG":"Kenmerken generieke events"
+   },
+   {
+    "LANGU":"O",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Kjennetegn generiske",
+    "TXTLG":"Kjennetegn generiske hendelser"
+   },
+   {
+    "LANGU":"P",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Características gen.",
+    "TXTLG":"Características eventos genéricos"
+   },
+   {
+    "LANGU":"Q",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Char.gen.udalostí",
+    "TXTLG":"Charakteristiky generických udalostí"
+   },
+   {
+    "LANGU":"R",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Признаки - родовые",
+    "TXTLG":"Признаки - родовые события"
+   },
+   {
+    "LANGU":"S",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Características gen.",
+    "TXTLG":"Características eventos genéricos"
+   },
+   {
+    "LANGU":"T",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Krkt.-genel olaylar",
+    "TXTLG":"Karakteristikler - genel olaylar"
+   },
+   {
+    "LANGU":"U",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Ominaisuudet - gen.",
+    "TXTLG":"Geneeristen tapahtumien ominaisuudet"
+   },
+   {
+    "LANGU":"V",
+    "INFOOBJCAT":"0WEB_GENERIC_CHA01",
+    "OBJVERS":"A",
+    "TXTSH":"Egenskaper generiska",
+    "TXTLG":"Egenskaper generiska händelser"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IOBC",
+    "OBJ_NAME":"0WEB_GENERIC_CHA01",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

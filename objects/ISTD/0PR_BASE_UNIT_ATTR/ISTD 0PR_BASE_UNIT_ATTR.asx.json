@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PR_BASE_UNIT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040129152735",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040129152735",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 基本数量",
+    "TXTMD":"产品: 基本数量单位",
+    "TXTLG":"产品: 基本数量单位"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 기준 수량",
+    "TXTMD":"제품: 기본 수량 단위",
+    "TXTLG":"제품: 기본 수량 단위"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product:  Base Quant",
+    "TXTMD":"Product: Base Quantity Unit",
+    "TXTLG":"Product: Base Quantity Unit"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Zákl.MJ",
+    "TXTMD":"Produkt: Základní měrná jednotka",
+    "TXTLG":"Produkt: Základní měrná jednotka"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Basismengen",
+    "TXTMD":"Produkt: Basismengeneinheit",
+    "TXTLG":"Produkt: Basismengeneinheit"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product:  Base Quant",
+    "TXTMD":"Product: Base Quantity Unit",
+    "TXTLG":"Product: Base Quantity Unit"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : UQ base",
+    "TXTMD":"Produit : unité de quantité de base",
+    "TXTLG":"Produit : unité de quantité de base"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product:  Base Quant",
+    "TXTMD":"Product: Base Quantity Unit",
+    "TXTLG":"Product: Base Quantity Unit"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: bázis ME",
+    "TXTMD":"Termék: bázis mennyiségi egység",
+    "TXTLG":"Termék: bázis mennyiségi egység"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.:unit.mis.base",
+    "TXTMD":"Prodotto: unità misura di base",
+    "TXTLG":"Prodotto: unità misura di base"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 基本数量単位",
+    "TXTMD":"製品: 基本数量単位",
+    "TXTLG":"製品: 基本数量単位"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Basismgd.",
+    "TXTMD":"Produkt: Basismængdeenhed",
+    "TXTLG":"Produkt: Basismængdeenhed"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: PJM",
+    "TXTMD":"Produkt: Podstawowa jednostka miary",
+    "TXTLG":"Produkt: Podstawowa jednostka miary"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：基礎數量",
+    "TXTMD":"產品：基礎數量單位",
+    "TXTLG":"產品：基礎數量單位"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: basishvh.",
+    "TXTMD":"Product: basishoeveelheidseenheid",
+    "TXTLG":"Product: basishoeveelheidseenheid"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Basiskvt.",
+    "TXTMD":"Produkt: Basiskvantumsenhet",
+    "TXTLG":"Produkt: Basiskvantumsenhet"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: UM básica",
+    "TXTMD":"Produto: unidade de medida básica",
+    "TXTLG":"Produto: unidade de medida básica"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Základ.MJ",
+    "TXTMD":"Produkt: Zákl.merná jednotka",
+    "TXTLG":"Produkt: Zákl.merná jednotka"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: базисн. ЕИ",
+    "TXTMD":"Продукт: базисная единица измерения",
+    "TXTLG":"Продукт: базисная единица измерения"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: UnMedBase",
+    "TXTMD":"Producto: Unidad de medida base",
+    "TXTLG":"Producto: Unidad de medida base"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Temel ÖB",
+    "TXTMD":"Ürün: Temel ölçü birimi",
+    "TXTLG":"Ürün: Temel ölçü birimi"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: perusmäärä",
+    "TXTMD":"Tuote: perusmääräyksikkö",
+    "TXTLG":"Tuote: perusmääräyksikkö"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Basmängd.",
+    "TXTMD":"Produkt: Basmängdenhet",
+    "TXTLG":"Produkt: Basmängdenhet"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PR_BASE_UNIT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product:  Base Quant",
+    "TXTMD":"Product: Base Quantity Unit",
+    "TXTLG":"Product: Base Quantity Unit"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PR_BASE_UNIT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

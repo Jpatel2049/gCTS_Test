@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM-IO",
+    "COMSTRU":"0CRM_PRODUCT_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020021206143709",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020021206143709",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品 (CRM 属性",
+    "TXTMD":"产品 (CRM 属性)",
+    "TXTLG":"产品 (CRM 属性)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품(CRM 속성)",
+    "TXTMD":"제품(CRM 속성)",
+    "TXTLG":"제품(CRM 속성)"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (CRM Attribu",
+    "TXTMD":"Product (CRM Attributes)",
+    "TXTLG":"Product (CRM Attributes)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atrib. CRM)",
+    "TXTMD":"Produkt (atributy CRM)",
+    "TXTLG":"Produkt (atributy CRM)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (CRM Attribu",
+    "TXTMD":"Produkt (CRM Attribute)",
+    "TXTLG":"Produkt (CRM Attribute)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (CRM Attribu",
+    "TXTMD":"Product (CRM Attributes)",
+    "TXTLG":"Product (CRM Attributes)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(attributs CRM)",
+    "TXTMD":"Produit (attributs CRM)",
+    "TXTLG":"Produit (attributs CRM)"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (CRM Attribu",
+    "TXTMD":"Product (CRM Attributes)",
+    "TXTLG":"Product (CRM Attributes)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék (CRM-attrib.)",
+    "TXTMD":"Termék (CRM-attribútumok)",
+    "TXTLG":"Termék (CRM-attribútumok)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto (attrib.CRM",
+    "TXTMD":"Prodotto (attributi CRM)",
+    "TXTLG":"Prodotto (attributi CRM)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品 (CRM 属性)",
+    "TXTMD":"製品 (CRM 属性)",
+    "TXTLG":"製品 (CRM 属性)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (CRM-attr.)",
+    "TXTMD":"Produkt (CRM-attributter)",
+    "TXTLG":"Produkt (CRM-attributter)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atry. CRM)",
+    "TXTMD":"Produkt (atrybuty CRM)",
+    "TXTLG":"Produkt (atrybuty CRM)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品（CRM 屬性）",
+    "TXTMD":"產品（CRM 屬性）",
+    "TXTLG":"產品（CRM 屬性）"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (CRM-attr.)",
+    "TXTMD":"Product (CRM-attributen)",
+    "TXTLG":"Product (CRM-attributen)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (CRM-attr.)",
+    "TXTMD":"Produkt (CRM-attributter)",
+    "TXTLG":"Produkt (CRM-attributter)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto (atribs.CRM)",
+    "TXTMD":"Produto (atributos CRM)",
+    "TXTLG":"Produto (atributos CRM)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (atrib.CRM)",
+    "TXTMD":"Produkt (atribúty CRM)",
+    "TXTLG":"Produkt (atribúty CRM)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт (CRM-атриб.)",
+    "TXTMD":"Продукт (CRM-атрибуты)",
+    "TXTLG":"Продукт (CRM-атрибуты)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.(atrib.CRM)",
+    "TXTMD":"Producto (atributos CRM)",
+    "TXTLG":"Producto (atributos CRM)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün (CRM ntl.)",
+    "TXTMD":"Ürün (CRM nitelikleri)",
+    "TXTLG":"Ürün (CRM nitelikleri)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote (CRM-määritt.)",
+    "TXTMD":"Tuote (CRM-määritteet)",
+    "TXTLG":"Tuote (CRM-määritteet)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt (CRM-attribu",
+    "TXTMD":"Produkt (CRM-attribut)",
+    "TXTLG":"Produkt (CRM-attribut)"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0CRM_PRODUCT_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product (CRM Attribu",
+    "TXTMD":"Product (CRM Attributes)",
+    "TXTLG":"Product (CRM Attributes)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_PRODUCT_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

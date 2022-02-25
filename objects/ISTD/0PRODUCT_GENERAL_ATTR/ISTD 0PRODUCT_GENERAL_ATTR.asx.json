@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PRODUCT_GENERAL_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040129151853",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040129151853",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 一般",
+    "TXTMD":"产品: 一般属性",
+    "TXTLG":"产品: 一般属性"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 일반",
+    "TXTMD":"제품: 일반 속성",
+    "TXTLG":"제품: 일반 속성"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: General",
+    "TXTMD":"Product: General Attributes",
+    "TXTLG":"Product: General Attributes"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Všeob.",
+    "TXTMD":"Produkt: Všeobecné atributy",
+    "TXTLG":"Produkt: Všeobecné atributy"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Allgemeine",
+    "TXTMD":"Produkt: Allgemeine Attribute",
+    "TXTLG":"Produkt: Allgemeine Attribute"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: General",
+    "TXTMD":"Product: General Attributes",
+    "TXTLG":"Product: General Attributes"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : général",
+    "TXTMD":"Produit : attributs généraux",
+    "TXTLG":"Produit : attributs généraux"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: General",
+    "TXTMD":"Product: General Attributes",
+    "TXTLG":"Product: General Attributes"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: általános",
+    "TXTMD":"Termék: általános attribútumok",
+    "TXTLG":"Termék: általános attribútumok"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prodotto: attr. gen.",
+    "TXTMD":"Prodotto: attributi generali",
+    "TXTLG":"Prodotto: attributi generali"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 一般",
+    "TXTMD":"製品: 一般属性",
+    "TXTLG":"製品: 一般属性"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Generelle",
+    "TXTMD":"Produkt: Generelle attributter",
+    "TXTLG":"Produkt: Generelle attributter"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Ogólne atr.",
+    "TXTMD":"Produkt: Atrybuty ogólne",
+    "TXTLG":"Produkt: Atrybuty ogólne"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：一般",
+    "TXTMD":"產品：一般屬性",
+    "TXTLG":"產品：一般屬性"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: algemene",
+    "TXTMD":"Product: algemene attributen",
+    "TXTLG":"Product: algemene attributen"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Generelle",
+    "TXTMD":"Produkt: Generelle attributter",
+    "TXTLG":"Produkt: Generelle attributter"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: Gerais",
+    "TXTMD":"Produto: atributos gerais",
+    "TXTLG":"Produto: atributos gerais"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Všeobecne",
+    "TXTMD":"Produkt: Všeobecné atribúty",
+    "TXTLG":"Produkt: Všeobecné atribúty"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: ОбщАтрибуты",
+    "TXTMD":"Продукт: общие атрибуты",
+    "TXTLG":"Продукт: общие атрибуты"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: Atrib.grals.",
+    "TXTMD":"Producto: Atributos generales",
+    "TXTLG":"Producto: Atributos generales"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Genel",
+    "TXTMD":"Ürün: Genel nitelikler",
+    "TXTLG":"Ürün: Genel nitelikler"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: yleiset",
+    "TXTMD":"Tuote: yleiset määritteet",
+    "TXTLG":"Tuote: yleiset määritteet"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Allmänna",
+    "TXTMD":"Produkt: Allmänna attribut",
+    "TXTLG":"Produkt: Allmänna attribut"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PRODUCT_GENERAL_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: General",
+    "TXTMD":"Product: General Attributes",
+    "TXTLG":"Product: General Attributes"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PRODUCT_GENERAL_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

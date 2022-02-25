@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_BP-IO",
+    "COMSTRU":"0BBP_PARTNER_FLAG_VENDOR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020030131124919",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030131124919",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: 合作伙伴角色",
+    "TXTMD":"业务合作伙伴: 合作伙伴角色 \"供应商\"",
+    "TXTLG":"业务合作伙伴: 合作伙伴角色 \"供应商\""
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: 파트너 역할",
+    "TXTMD":"BP: 파트너 역할 \"공급업체\"",
+    "TXTLG":"BP: 파트너 역할 \"공급업체\""
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: Partner Role",
+    "TXTMD":"BP: Partner Role \"Vendor\"",
+    "TXTLG":"BP: Partner Role \"Vendor\""
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"OP: Part.role \"Dodav",
+    "TXTMD":"OP: Partnerská role \"Dodavatel\"",
+    "TXTLG":"OP: Partnerská role \"Dodavatel\""
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"GP: Partnerrolle \"Li",
+    "TXTMD":"GP: Partnerrolle \"Lieferant\"",
+    "TXTLG":"GP: Partnerrolle \"Lieferant\""
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: Partner Role",
+    "TXTMD":"BP: Partner Role \"Vendor\"",
+    "TXTLG":"BP: Partner Role \"Vendor\""
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: rôle part. \"four",
+    "TXTMD":"BP: rôle partenaire \"fournisseur\"",
+    "TXTLG":"BP: rôle partenaire \"fournisseur\""
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: Partner Role",
+    "TXTMD":"BP: Partner Role \"Vendor\"",
+    "TXTLG":"BP: Partner Role \"Vendor\""
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"ÜP: \"szállító\" PSZ",
+    "TXTMD":"ÜP: \"szállító\" partnerszerep",
+    "TXTLG":"ÜP: \"szállító\" partnerszerep"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: ruolo part. \"For",
+    "TXTMD":"BP: ruolo partner \"Fornitore\"",
+    "TXTLG":"BP: ruolo partner \"Fornitore\""
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: パートナロール",
+    "TXTMD":"BP: パートナロール \"仕入先\"",
+    "TXTLG":"BP: パートナロール \"仕入先\""
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"FP: Partnerrolle",
+    "TXTMD":"FP: Partnerrolle \"Leverandør\"",
+    "TXTLG":"FP: Partnerrolle \"Leverandør\""
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"PB: Rola partnera",
+    "TXTMD":"PB: Rola partnera \"Dostawca\"",
+    "TXTLG":"PB: Rola partnera \"Dostawca\""
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP：合作夥伴職能",
+    "TXTMD":"BP：合作夥伴職能 \"供應商\"",
+    "TXTLG":"BP：合作夥伴職能 \"供應商\""
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"ZP: partnerrol \"Lev",
+    "TXTMD":"ZP: partnerrol \"Leverancier\"",
+    "TXTLG":"ZP: partnerrol \"Leverancier\""
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"FP: Partnerrolle lev",
+    "TXTMD":"FP: Partnerrolle \"leverandør\"",
+    "TXTLG":"FP: Partnerrolle \"leverandør\""
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"PN: Funç.parceiro \"F",
+    "TXTMD":"PN: Função do parceiro \"Fornecedor\"",
+    "TXTLG":"PN: Função do parceiro \"Fornecedor\""
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"OP: Partner.rola \"do",
+    "TXTMD":"OP: Partnerská rola \"dodávateľ\"",
+    "TXTLG":"OP: Partnerská rola \"dodávateľ\""
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"ДП: РольПартн \"Пост\"",
+    "TXTMD":"ДП: роль партнера \"Поставщик\"",
+    "TXTLG":"ДП: роль партнера \"Поставщик\""
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"IC: Función interl",
+    "TXTMD":"IC: Función de interlocutor \"Proveedor\"",
+    "TXTLG":"IC: Función de interlocutor \"Proveedor\""
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"Muhatap: Mhtp.rolü",
+    "TXTMD":"Muhatap: Muhatap rolü \"satıcı\"",
+    "TXTLG":"Muhatap: Muhatap rolü \"satıcı\""
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"LK: kumpp.rooli \"Toi",
+    "TXTMD":"LK: kumppanirooli \"Toimittaja\"",
+    "TXTLG":"LK: kumppanirooli \"Toimittaja\""
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"AP: Partnerroll \"lev",
+    "TXTMD":"AP: Partnerroll \"leverantör\"",
+    "TXTLG":"AP: Partnerroll \"leverantör\""
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0BBP_PARTNER_FLAG_VENDOR",
+    "OBJVERS":"A",
+    "TXTSH":"BP: Partner Role",
+    "TXTMD":"BP: Partner Role \"Vendor\"",
+    "TXTLG":"BP: Partner Role \"Vendor\""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0BBP_PARTNER_FLAG_VENDOR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RUDISILL",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

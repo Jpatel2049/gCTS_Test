@@ -1,0 +1,217 @@
+[
+ {
+  "table":"RSLDPIO",
+  "data":
+  [
+   {
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "SOURCE":"0BPRELATION",
+    "TYP":"O",
+    "LOGSYS":"DTZ_800",
+    "LOGDPID_N":"",
+    "FIRSTFLAG":"",
+    "UNAME":"",
+    "TIMESTAMP":"0",
+    "OBJSTAT":"",
+    "CONTREL":"3.2/01",
+    "CONTTIMESTMP":"+020030130215049",
+    "OWNER":"",
+    "BWAPPL":"",
+    "OLTPSOURCE":"0CRM_BP_RELATIONS_ATTR",
+    "OLTPTYP":"M",
+    "GENERATED":"",
+    "CRT_PACKAGE":"",
+    "PUSH_PACKAGE":"",
+    "MASTERIPAK":"",
+    "ISMASTERIPAK":"",
+    "LPI":"",
+    "LPI_CHAIN":""
+   }
+  ]
+ },
+ {
+  "table":"RSLDPIOT",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"客户",
+    "TEXT":"上载渠道管理业务合作伙伴关系"
+   },
+   {
+    "LANGU":"3",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"채널 관리 BP 관계 업로드"
+   },
+   {
+    "LANGU":"C",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"Zavedení vztahů OP do managementu komunikačních kanálů"
+   },
+   {
+    "LANGU":"D",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"Hochladen der GP-Beziehungen zu Kanalmanagement"
+   },
+   {
+    "LANGU":"E",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"Uploading Channel management BP relationships"
+   },
+   {
+    "LANGU":"F",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENT",
+    "TEXT":"Téléchargement de liens partenaire pour gestion canal comm."
+   },
+   {
+    "LANGU":"H",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"VEVŐ",
+    "TEXT":"ÜP-kapcsolatok feltöltése csatornamenedzsmenthez"
+   },
+   {
+    "LANGU":"I",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Caricamento delle relazioni BP per gestione canale"
+   },
+   {
+    "LANGU":"J",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CUSTOMER",
+    "TEXT":"チャネル管理 BP リレーションシップのアップロード"
+   },
+   {
+    "LANGU":"K",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"Upload af FP-relationer til kommunikationskanalstyring"
+   },
+   {
+    "LANGU":"L",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KLIENT",
+    "TEXT":"Odczyt relacji PB dla zarządzania kanałem kom."
+   },
+   {
+    "LANGU":"M",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"客戶",
+    "TEXT":"上傳通路管理業務夥伴關係"
+   },
+   {
+    "LANGU":"N",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KLANT",
+    "TEXT":"Upload van ZP-relaties voor Channel Management"
+   },
+   {
+    "LANGU":"O",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KUNDE",
+    "TEXT":"Last opp forretningspartnerrelasjoner til kanaladm."
+   },
+   {
+    "LANGU":"P",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Upload relações entre parcs.negócios p/gerenc.canal comunic."
+   },
+   {
+    "LANGU":"Q",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"ZÁKAZNÍK",
+    "TEXT":"Upload vzťahov OP k manažmentu komunikačného kanála"
+   },
+   {
+    "LANGU":"R",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"КЛИЕНТ",
+    "TEXT":"Загрузка отношений ДП к упр. комм. каналами"
+   },
+   {
+    "LANGU":"S",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"CLIENTE",
+    "TEXT":"Hacer un upload rel.entre interl.comerc.con gest.can.distr."
+   },
+   {
+    "LANGU":"T",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"MÜŞTERİ",
+    "TEXT":"Kanal yönetimi muhatap ilişkilerinin yukarı yüklenmesi"
+   },
+   {
+    "LANGU":"U",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"ASIAKAS",
+    "TEXT":"LK-suhteiden puhurointi tietoliikennekanavan hallinnalle"
+   },
+   {
+    "LANGU":"V",
+    "LOGDPID":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "OBJVERS":"A",
+    "VARIANT":"KUND",
+    "TEXT":"Inläsning av AP-relationer till kommunikationskanalsadm."
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISIP",
+    "OBJ_NAME":"0PAK_E1JW8LCLI3RK5ZNODYLOS6P0P",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"LINOSSIV",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

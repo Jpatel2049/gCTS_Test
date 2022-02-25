@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "APPLNM":"0WEB_EBA_EV",
+    "COMSTRU":"0WEB_EBA_EVENT_03",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020011214211112",
+    "CONTREL":"3.0/02",
+    "CONTTIMESTMP":"+020011214211112",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 视图种类",
+    "TXTMD":"事件 - 视图种类 (茶叶)",
+    "TXTLG":"事件 - 视图种类 (茶叶)"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"이벤트 - 뷰범주",
+    "TXTMD":"이벤트 - 뷰범주 (Tealeaf)",
+    "TXTLG":"이벤트 - 뷰범주 (Tealeaf)"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - View Categor",
+    "TXTMD":"Event - View Category (Tealeaf)",
+    "TXTLG":"Event - View Category (Tealeaf)"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - View Categor",
+    "TXTMD":"Event - View Category (Tealeaf)",
+    "TXTLG":"Event - View Category (Tealeaf)"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event- View Category",
+    "TXTMD":"Event - View Category (Tealeaf)",
+    "TXTLG":"Event - View Category (Tealeaf)"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Evt - affich. catég.",
+    "TXTMD":"Evénement - afficher catégorie (Tealeaf)",
+    "TXTLG":"Evénement - afficher catégorie (Tealeaf)"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - View Categor",
+    "TXTMD":"Event - View Category (Tealeaf)",
+    "TXTLG":"Event - View Category (Tealeaf)"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - cat. view",
+    "TXTMD":"Evento - categoria view (Tealeaf)",
+    "TXTLG":"Evento - categoria view (Tealeaf)"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - カテゴリ表示",
+    "TXTMD":"イベント - カテゴリ表示 (Tealeaf)",
+    "TXTLG":"イベント - カテゴリ表示 (Tealeaf)"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Hændelse - view-kat.",
+    "TXTMD":"Hændelse - view-kategori (Tealeaf)",
+    "TXTLG":"Hændelse - view-kategori (Tealeaf)"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Zdarz. - kat. wglądu",
+    "TXTMD":"Zdarzenie - kategoria wglądu (Tealeaf)",
+    "TXTLG":"Zdarzenie - kategoria wglądu (Tealeaf)"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"事件 - 檢視種類",
+    "TXTMD":"事件 - 檢視種類 (Tealeaf)",
+    "TXTLG":"事件 - 檢視種類 (Tealeaf)"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - view-cat.",
+    "TXTMD":"Event - view-categorie (tealeaf)",
+    "TXTLG":"Event - view-categorie (tealeaf)"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Hendelse - view-kat.",
+    "TXTMD":"Hendelse - view-kategori (TeaLeaf)",
+    "TXTLG":"Hendelse - view-kategori (TeaLeaf)"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Evento - Ctg.visão",
+    "TXTMD":"Evento - Categoria visão (Tealeaf)",
+    "TXTLG":"Evento - Categoria visão (Tealeaf)"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Event - View Categor",
+    "TXTMD":"Event - View Category (Tealeaf)",
+    "TXTLG":"Event - View Category (Tealeaf)"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Событие - КатегРакур",
+    "TXTMD":"Событие - категория ракурса (Tealeaf)",
+    "TXTLG":"Событие - категория ракурса (Tealeaf)"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Evento: Vis.categ.",
+    "TXTMD":"Evento: Visualizar categoría (Tealeaf)",
+    "TXTLG":"Evento: Visualizar categoría (Tealeaf)"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Olay - görünüm ktg.",
+    "TXTMD":"Olay - görünüm kategorisi (Tealeaf)",
+    "TXTLG":"Olay - görünüm kategorisi (Tealeaf)"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Tapahtuma, näytä lka",
+    "TXTMD":"Tapahtuma - näytä luokka (TeaLeaf)",
+    "TXTLG":"Tapahtuma - näytä luokka (TeaLeaf)"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0WEB_EBA_EVENT_03",
+    "OBJVERS":"A",
+    "TXTSH":"Händelse - vykateg.",
+    "TXTMD":"Händelse - vykategori (Tealeaf)",
+    "TXTLG":"Händelse - vykategori (Tealeaf)"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0WEB_EBA_EVENT_03",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

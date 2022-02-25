@@ -1,0 +1,250 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PR_IL_PROREF_ATTR",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020040914065709",
+    "CONTREL":"3.5/03",
+    "CONTTIMESTMP":"+020040914065709",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 参考产品",
+    "TXTMD":"产品: 参考产品",
+    "TXTLG":"产品: 参考产品"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 참조 제품",
+    "TXTMD":"제품: 참조 제품",
+    "TXTLG":"제품: 참조 제품"
+   },
+   {
+    "LANGU":"6",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Reference P",
+    "TXTMD":"Product: Reference Product",
+    "TXTLG":"Product: Reference Product"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Refer.prod.",
+    "TXTMD":"Produkt: Referenční produkt",
+    "TXTLG":"Produkt: Referenční produkt"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Referenzpro",
+    "TXTMD":"Produkt: Referenzprodukt",
+    "TXTLG":"Produkt: Referenzprodukt"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Reference P",
+    "TXTMD":"Product: Reference Product",
+    "TXTLG":"Product: Reference Product"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : prod. réf.",
+    "TXTMD":"Produit : produit de référence",
+    "TXTLG":"Produit : produit de référence"
+   },
+   {
+    "LANGU":"G",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Reference P",
+    "TXTMD":"Product: Reference Product",
+    "TXTLG":"Product: Reference Product"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: ref.termék",
+    "TXTMD":"Termék: referenciatermék",
+    "TXTLG":"Termék: referenciatermék"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: prod. rifer.",
+    "TXTMD":"Prodotto: prodotto di riferimento",
+    "TXTLG":"Prodotto: prodotto di riferimento"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 参照製品",
+    "TXTMD":"製品: 参照製品",
+    "TXTLG":"製品: 参照製品"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Ref.produkt",
+    "TXTMD":"Produkt: Referenceprodukt",
+    "TXTLG":"Produkt: Referenceprodukt"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Prod. ref.",
+    "TXTMD":"Produkt: Produkt referencyjny",
+    "TXTLG":"Produkt: Produkt referencyjny"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"產品：參考產品",
+    "TXTMD":"產品：參考產品",
+    "TXTLG":"產品：參考產品"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: ref.product",
+    "TXTMD":"Product: referentieproduct",
+    "TXTLG":"Product: referentieproduct"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Ref.produkt",
+    "TXTMD":"Produkt: Referanseprodukt",
+    "TXTLG":"Produkt: Referanseprodukt"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: prod.ref.",
+    "TXTMD":"Produto: produto de referência",
+    "TXTLG":"Produto: produto de referência"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: Refer.produkt",
+    "TXTMD":"Produkt: Referenčný produkt",
+    "TXTLG":"Produkt: Referenčný produkt"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: СсылочПрод",
+    "TXTMD":"Продукт: ссылочный продукт",
+    "TXTLG":"Продукт: ссылочный продукт"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: Prod.ref.",
+    "TXTMD":"Producto: Producto de referencia",
+    "TXTLG":"Producto: Producto de referencia"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Referans ürün",
+    "TXTMD":"Ürün: Referans ürün",
+    "TXTLG":"Ürün: Referans ürün"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: viitetuote",
+    "TXTMD":"Tuote: viitetuote",
+    "TXTLG":"Tuote: viitetuote"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Referenspro",
+    "TXTMD":"Produkt: Referensprodukt",
+    "TXTLG":"Produkt: Referensprodukt"
+   },
+   {
+    "LANGU":"W",
+    "ISOURCE":"0PR_IL_PROREF_ATTR",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Reference P",
+    "TXTMD":"Product: Reference Product",
+    "TXTLG":"Product: Reference Product"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PR_IL_PROREF_ATTR",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

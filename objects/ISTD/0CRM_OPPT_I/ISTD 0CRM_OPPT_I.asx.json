@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "APPLNM":"0CRM_SALES",
+    "COMSTRU":"0CRM_OPPT_I",
+    "OWNER":"SAP",
+    "TSTPNM":"SAP",
+    "TIMESTMP":"+020050317231726",
+    "CONTREL":"7.0/02",
+    "CONTTIMESTMP":"+020050317231726",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 机会:项目数据",
+    "TXTMD":"CRM 机会: 项目数据",
+    "TXTLG":"CRM 机会: 项目数据"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 기회: 품목",
+    "TXTMD":"CRM Opportunities: 품목 데이터",
+    "TXTLG":"CRM Opportunities: 품목 데이터"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: Data pol.příl.",
+    "TXTMD":"CRM: Data položky příležitosti",
+    "TXTLG":"CRM: Data položky příležitosti"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunites Pos",
+    "TXTMD":"CRM Opportunites Positiondaten",
+    "TXTLG":"CRM Opportunites Positiondaten"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunities:It",
+    "TXTMD":"CRM Opportunities: Item Data",
+    "TXTLG":"CRM Opportunities: Item Data"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"Opport.CRM D.poste",
+    "TXTMD":"Opportunités CRM : données de poste",
+    "TXTLG":"Opportunités CRM : données de poste"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opp.-k tételei",
+    "TXTMD":"CRM Opportunity-k tételadatai",
+    "TXTLG":"CRM Opportunity-k tételadatai"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM pos.opportunità",
+    "TXTMD":"CRM - dati posizione opportunità",
+    "TXTLG":"CRM - dati posizione opportunità"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 案件: 明細",
+    "TXTMD":"CRM 案件: 明細データ",
+    "TXTLG":"CRM 案件: 明細データ"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM salgsmulig. pos.",
+    "TXTMD":"CRM salgsmuligheder positionsdata",
+    "TXTLG":"CRM salgsmuligheder positionsdata"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"Szanse CRM:Dane poz.",
+    "TXTMD":"CRM-szanse: Dane pozycji",
+    "TXTLG":"CRM-szanse: Dane pozycji"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM 商機：項目資料",
+    "TXTMD":"CRM 商機：項目資料",
+    "TXTLG":"CRM 商機：項目資料"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: Opport. pos.",
+    "TXTMD":"CRM: Opportunities positiegegevens",
+    "TXTLG":"CRM: Opportunities positiegegevens"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM salgsmul. pos.",
+    "TXTMD":"CRM salgsmuligheter - posisjonsdata",
+    "TXTLG":"CRM salgsmuligheter - posisjonsdata"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM oportunidades",
+    "TXTMD":"CRM oportunidades dados de item",
+    "TXTLG":"CRM oportunidades dados de item"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Príležitosti pol",
+    "TXTMD":"CRM Príležitosti - dáta položky",
+    "TXTLG":"CRM Príležitosti - dáta položky"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: возм. - позиции",
+    "TXTMD":"CRM: возможности - данные позиций",
+    "TXTLG":"CRM: возможности - данные позиций"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Dat.cab.oortun.",
+    "TXTMD":"Datos de posición de oportunidades CRM",
+    "TXTLG":"Datos de posición de oportunidades CRM"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM frs.kalem vr.",
+    "TXTMD":"CRM fırsatları kalem verileri",
+    "TXTLG":"CRM fırsatları kalem verileri"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM: mahd. - rivit.",
+    "TXTMD":"CRM: mahdollisuudet - rivitiedot",
+    "TXTLG":"CRM: mahdollisuudet - rivitiedot"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0CRM_OPPT_I",
+    "OBJVERS":"A",
+    "TXTSH":"CRM Opportunites pos",
+    "TXTMD":"CRM Opportunites positionsdata",
+    "TXTLG":"CRM Opportunites positionsdata"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0CRM_OPPT_I",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

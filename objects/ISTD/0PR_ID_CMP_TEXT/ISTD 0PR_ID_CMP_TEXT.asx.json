@@ -1,0 +1,226 @@
+[
+ {
+  "table":"RSIS",
+  "data":
+  [
+   {
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "APPLNM":"0CA_PR-IO",
+    "COMSTRU":"0PR_ID_CMP_TEXT",
+    "OWNER":"HOMBERGER",
+    "TSTPNM":"HOMBERGER",
+    "TIMESTMP":"+020040130143356",
+    "CONTREL":"3.5/02",
+    "CONTTIMESTMP":"+020040130143356",
+    "BCTCOMP":"",
+    "ISSRCTYPE":"",
+    "INVISIBLE":""
+   }
+  ]
+ },
+ {
+  "table":"RSIST",
+  "data":
+  [
+   {
+    "LANGU":"1",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"产品: 复合的",
+    "TXTMD":"产品: 复合的产品标识",
+    "TXTLG":"产品: 复合的产品标识"
+   },
+   {
+    "LANGU":"3",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"제품: 복합",
+    "TXTMD":"제품: 복합 제품 ID",
+    "TXTLG":"제품: 복합 제품 ID"
+   },
+   {
+    "LANGU":"C",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Propojené",
+    "TXTMD":"Produkt: Propojený ID produktu",
+    "TXTLG":"Produkt: Propojený ID produktu"
+   },
+   {
+    "LANGU":"D",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Geklammerte",
+    "TXTMD":"Produkt: Geklammerte Produkt-ID",
+    "TXTLG":"Produkt: Geklammerte Produkt-ID"
+   },
+   {
+    "LANGU":"E",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Product: Compounded",
+    "TXTMD":"Product: Compounded Product ID",
+    "TXTLG":"Product: Compounded Product ID"
+   },
+   {
+    "LANGU":"F",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produit : dépendante",
+    "TXTMD":"Produit : ID produit dépendante",
+    "TXTLG":"Produit : ID produit dépendante"
+   },
+   {
+    "LANGU":"H",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Termék: Geklammerte",
+    "TXTMD":"Termék: kapcsolt termék-ID",
+    "TXTLG":"Termék: kapcsolt termék-ID"
+   },
+   {
+    "LANGU":"I",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.:ID prod. insc.",
+    "TXTMD":"Prodotto: ID prodotto inscindibile",
+    "TXTLG":"Prodotto: ID prodotto inscindibile"
+   },
+   {
+    "LANGU":"J",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"製品: 複合製品 ID",
+    "TXTMD":"製品: 複合製品 ID",
+    "TXTLG":"製品: 複合製品 ID"
+   },
+   {
+    "LANGU":"K",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Koblet",
+    "TXTMD":"Produkt: Koblet produkt-ID",
+    "TXTLG":"Produkt: Koblet produkt-ID"
+   },
+   {
+    "LANGU":"L",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Połącz. ID",
+    "TXTMD":"Produkt: Połączony ID produktu",
+    "TXTLG":"Produkt: Połączony ID produktu"
+   },
+   {
+    "LANGU":"M",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"產品：複合",
+    "TXTMD":"產品：複合產品 ID",
+    "TXTLG":"產品：複合產品 ID"
+   },
+   {
+    "LANGU":"N",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Prod.: gekoppelde ID",
+    "TXTMD":"Product: gekoppelde product-ID",
+    "TXTLG":"Product: gekoppelde product-ID"
+   },
+   {
+    "LANGU":"O",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Koblet",
+    "TXTMD":"Produkt: Koblet produkt-ID",
+    "TXTLG":"Produkt: Koblet produkt-ID"
+   },
+   {
+    "LANGU":"P",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produto: composto",
+    "TXTMD":"Produto: ID de produto composto",
+    "TXTLG":"Produto: ID de produto composto"
+   },
+   {
+    "LANGU":"Q",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Prepojené",
+    "TXTMD":"Produkt: Prepojené ID produktu",
+    "TXTLG":"Produkt: Prepojené ID produktu"
+   },
+   {
+    "LANGU":"R",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Продукт: составной",
+    "TXTMD":"Продукт: составной ид. продукта",
+    "TXTLG":"Продукт: составной ид. продукта"
+   },
+   {
+    "LANGU":"S",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Producto: Compuesto",
+    "TXTMD":"Producto: ID de producto compuesto",
+    "TXTLG":"Producto: ID de producto compuesto"
+   },
+   {
+    "LANGU":"T",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Ürün: Eşleştirilen",
+    "TXTMD":"Ürün: Eşleştirilen ürün tanıtıcısı",
+    "TXTLG":"Ürün: Eşleştirilen ürün tanıtıcısı"
+   },
+   {
+    "LANGU":"U",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Tuote: kytketty",
+    "TXTMD":"Tuote: kytketty tuotetunnus",
+    "TXTLG":"Tuote: kytketty tuotetunnus"
+   },
+   {
+    "LANGU":"V",
+    "ISOURCE":"0PR_ID_CMP_TEXT",
+    "OBJVERS":"A",
+    "TXTSH":"Produkt: Kopplad",
+    "TXTMD":"Produkt: Kopplad produkt-ID",
+    "TXTLG":"Produkt: Kopplad produkt-ID"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"ISTD",
+    "OBJ_NAME":"0PR_ID_CMP_TEXT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"HESZB",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_BW",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":"",
+    "MASTERLANG":"E",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
